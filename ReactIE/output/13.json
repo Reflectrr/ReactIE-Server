@@ -1,0 +1,24 @@
+{
+    "title": "Design of an Ultrastable and Highly Active Ceria Catalyst for CO Oxidation by Rare-Earth- and Transition-Metal Co-Doping",
+    "id": "cs0c03386",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "We previously found that the formation of carbonate (CO32–) in the MvK mechanism is essential to explaining the catalytic activity of RE-DCs. On the other hand, Elias et al. successfully elucidated the atomistic origin of CO oxidation activity for TM-DCs without including CO32– in the MvK mechanism. Considering these previous findings, we accordingly took CO oxidation reaction steps into account. We determined that the RDS (Ea = 0.95 eV) of pure CeO2 is the breaking of a C–O bond to form CO2 (R2) from initially adsorbed CO32–, whereas the RDS (Ea = 0.74 eV) of La-DC is the breaking of the C–O bond of a secondly formed CO32– to form a physisorbed CO2 (R6). In contrast, the RDS (Ea = 0.29 eV) for Cu-DC was the formation of a VO by desorption of an adsorbed CO (R2’). The low Ea of RDS in Cu-DC indicates that a Cu dopant contributes to the increased reactivity much more than a La dopant does. In addition, the RDS of Cu-DC involves the formation of VO (or Ce3+), so a large amount of defects on the Cu-involved CeO2 surface can be regarded as an indicator of high reactivity.",
+            "product": "CO2, R2’, R2",
+            "reactants": "CO32–",
+            "reaction type": "breaking of a C–O bond"
+        },
+        {
+            "text": "We previously found that the formation of carbonate (CO32–) in the MvK mechanism is essential to explaining the catalytic activity of RE-DCs. On the other hand, Elias et al. successfully elucidated the atomistic origin of CO oxidation activity for TM-DCs without including CO32– in the MvK mechanism. Considering these previous findings, we accordingly took CO oxidation reaction steps into account. We determined that the RDS (Ea = 0.95 eV) of pure CeO2 is the breaking of a C–O bond to form CO2 (R2) from initially adsorbed CO32–, whereas the RDS (Ea = 0.74 eV) of La-DC is the breaking of the C–O bond of a secondly formed CO32– to form a physisorbed CO2 (R6). In contrast, the RDS (Ea = 0.29 eV) for Cu-DC was the formation of a VO by desorption of an adsorbed CO (R2’). The low Ea of RDS in Cu-DC indicates that a Cu dopant contributes to the increased reactivity much more than a La dopant does. In addition, the RDS of Cu-DC involves the formation of VO (or Ce3+), so a large amount of defects on the Cu-involved CeO2 surface can be regarded as an indicator of high reactivity.",
+            "product": "R6",
+            "reactants": "CO32–",
+            "reaction type": "breaking of the C–O bond"
+        },
+        {
+            "text": "In situ DRIFT analysis was performed to understand the relationship between CSD and apparent Ea (Figure 3e) in terms of CO2 formation and CO adsorption (Figure 4, Figures S19, S21). In initial samples, Cu-DC showed a strong CO2 peak intensity starting from low temperature (Figure 4a), whereas (RE, Cu)-DCs showed a relatively weak CO2 intensity starting at a higher temperature than Cu-DC (Figure 4c, Figure S19e). The difference indicates that Cu-DC had higher CO oxidation activity than (RE, Cu)-DCs before the heat treatment. After heat treatment at 900 °C, CO2 formation by Cu-DC was greatly suppressed, whereas that of (RE, Cu)-DC was increased (Figure 4b,d, Figure S19f). These results of CO2 formation are consistent with the results of activity tests (Figure 3c–e) and confirm that CO gas has been converted to CO2 (Figures S21, S22).",
+            "product": "CO2",
+            "reactants": "CO"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Prodrugs of a 1′-CN-4-Aza-7,9-dideazaadenosine C‑Nucleoside Leading to the Discovery of Remdesivir (GS-5734) as a Potent Inhibitor of Respiratory Syncytial Virus with Efficacy in the African Green Monkey Model of RSV",
+    "id": "jm1c00071",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "Monoamidate 18c was prepared in moderate yield by direct coupling of the amidate reagent in the presence of MgCl2 to nucleoside 4. A higher yielding and more robust procedure that coupled the desired amidate reagent to the 2′,3′-acetonide protected nucleoside 17, followed by removal of the acetonide, was also developed. For example, monoamidate 18k was prepared in a 62% overall yield from the protected nucleoside 17. The diastereomeric monoamidate mixture 18j was separated by chiral chromatography to afford 1 and 1-Rp. Later, a stereospecific synthesis was developed and the two diastereoisomers were assigned by determination of the small-molecule X-ray structure of the more potent isomer 1.",
+            "product": "1, 1-Rp",
+            "reactants": "18j"
+        },
+        {
+            "text": "More substantial potency gains were realized with 5′-phosphate prodrugs that bypass the first phosphorylation step in the conversion of 4 to its intermediate 5′-monophosphate in cells and thereby enhance the formation of 1-NTP (Table 3). The dithioester phosphate prodrug 15 was earlier found to improve the activity of 4 toward HCV in hepatic Huh-7 cells, confirming that, at least in hepatic cells, there is evidence for inefficient metabolism of 4 to its monophosphate. However, in the HEp-2 cell RSV assay, 15 demonstrated only a small improvement in RSV potency and a relatively low selectivity index. The prodrug following thioester cleavage releases an episulfide, which may be the root cause for the reduced selectivity.",
+            "product": "5′-monophosphate",
+            "reactants": "4"
+        },
+        {
+            "text": "Compound 11 (36 mg, 86% yield) was prepared in a similar manner to 13 except acetic acid (29 μL, 0.50 mmol) was used instead of iso-butyric acid. 1H NMR (300 MHz, CHCl3-d3) δ 11.15 (bs, 1H), 8.08 (bs, 1H), 7.97 (s, 1H), 7.35 (m, 1H), 7.12 (d, J = 4.8 Hz, 1H), 6.06 (d, J = 5.7 Hz, 1H), 5.40 (t, J = 6.0 Hz, 1H), 4.67 (m, 1H), 4.48–4.32 (m, 2H), 2.20 (s, 3H), 2.17 (s, 3H), 2.09 (s, 3H).",
+            "product": "11",
+            "reactants": "13",
+            "yield": "86%"
+        },
+        {
+            "text": "Compound 12 (44 mg, 95% yield) was prepared in a similar manner as 13 except propionic acid (37 μL, 0.50 mmol) was used instead of iso-butyric acid. 1H NMR (400 MHz, MeOH-d4) δ 8.04 (s, 1H), 7.23 (d, J = 4.7 Hz, 1H), 7.03 (d, J = 4.7 Hz, 1H), 6.20 (d, J = 5.7 Hz, 1H), 5.51 (dd, J = 5.7, 4.6 Hz, 1H), 4.67 (td, J = 4.5, 3.5 Hz, 1H), 4.49 (dd, J = 12.3, 3.6 Hz, 1H), 4.38 (dd, J = 12.3, 4.6 Hz, 1H), 2.56–2.40 (m, 4H), 2.36 (qd, J = 7.6, 5.1 Hz, 2H), 1.30–1.06 (m, 9H).",
+            "product": "12",
+            "reactants": "13",
+            "yield": "95%"
+        },
+        {
+            "text": "The reaction mixture was stirred for 15 min and then 4-(dimethylamino)pyridine (12.2 mg, 0.1 mmol) was added. The reaction mixture was stirred for 16 h, diluted with CH3CN (1 mL), and the solids were removed by filtration. The filtrate was subjected to preparative HPLC (0–95% CH3CN in water) to afford 13 (48 mg, 95% yield) as a white powder.",
+            "product": "13",
+            "reactants": "4-(dimethylamino)pyridine",
+            "yield": "95%",
+            "time": "16 h",
+            "solvent": "CH3CN"
+        },
+        {
+            "text": "The reaction was stirred under N2 (g) and then treated with 1H-tetrazole (21 mg, 0.29 mmol). The reaction mixture was cooled to 0 °C, and phosphorane (87 mg, 0.192 mmol) was added. The reaction was stirred for 2 h and then quenched with 30% hydrogen peroxide (0.120 mL). The mixture was stirred for 30 min at rt and then treated with saturated aqueous sodium thiosulfate (1 mL). The mixture was stirred for 10 min and then concentrated under reduced pressure. The residue was subjected to preparative HPLC (0–95% CH3CN in water) to isolate 15 (5.3 mg, 8.3%).",
+            "product": "15",
+            "reactants": "phosphorane, 1H-tetrazole",
+            "yield": "8.3%, 5.3 mg",
+            "temperature": "0 °C",
+            "time": "2 h",
+            "solvent": "CH3CN, water"
+        },
+        {
+            "text": "The resulting mixture was stirred for 30 min at −78 °C, washed with water, sat Na2CO3 solution, and brine, dried over Na2SO4, filtered, and concentrated under reduced pressure. The residue was subjected to silica gel chromatography (0–20% EtOAc in hexanes) to yield cyclopropylmethyl((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate as a diastereomeric mixture (1.1 g, 47%).",
+            "product": "cyclopropylmethyl((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate",
+            "yield": "47%",
+            "temperature": "78 °C",
+            "time": "30 min"
+        },
+        {
+            "text": "A mixture of 4 (60 mg, 0.21 mmol), cyclopropylmethyl ((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate (120 mg, 0.29 mmol), and MgCl2 (29 mg, 0.31 mmol) in DMF (4 mL) was treated dropwise with N,N-diisopropylethylamine (0.09 mL, 0.52 mmol) at rt. The resulting mixture was stirred at 50 °C for 1 h, concentrated under reduced pressure to ∼2 mL, and then subjected to preparative HPLC (0–70% CH3CN in water) to afford 18c (45 mg, 38%, 1:1.9 isomeric mixture) as a white solid.",
+            "product": "18c",
+            "reactants": "cyclopropylmethyl ((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate, 4, N,N-diisopropylethylamine, MgCl2",
+            "temperature": "50 °C",
+            "time": "1 h",
+            "solvent": "DMF"
+        },
+        {
+            "text": "The reaction was stirred, allowed to warm to rt for 30 min, and then acidified with acetic acid (5 mL). The reaction mixture was washed with water (50 mL), dried over sodium sulfate, filtered, and concentrated under reduced pressure. The residue was subjected to silica gel chromatography (0–20% ethyl acetate in hexanes) to afford cyclobutylmethyl ((perfluorophenoxy)(phenoxy)phosphoryl)-l-alaninate (616 mg, 61%) as a diastereomeric mixture.",
+            "product": "((perfluorophenoxy)(phenoxy)phosphoryl)-l-alaninate",
+            "yield": "616 mg, 61%)",
+            "time": "30 min"
+        },
+        {
+            "text": "The reaction was stirred, allowed to warm to rt for 30 min, and then acidified with acetic acid (5 mL). The reaction mixture was washed with water (50 mL), dried over sodium sulfate, filtered, and concentrated under reduced pressure. The residue was subjected to silica gel chromatography (0–20% ethyl acetate in hexanes) to afford cyclobutylmethyl ((perfluorophenoxy)(phenoxy)phosphoryl)-l-alaninate (616 mg, 61%) as a diastereomeric mixture.",
+            "product": "616",
+            "yield": "61%)",
+            "time": "30 min"
+        },
+        {
+            "text": "A solution of cyclooctyl l-alaninate hydrochloride (18.69 g, 79.28 mmol) and phenyl dichlorophosphate (11.8 mL, 79.28 mmol) in CH2Cl2 (300 mL) was treated with Et3N (23 mL, 166.48 mmol) at 0 °C under N2 (g). After 5 min, 4-nitrophenol (10.48 g, 75.31 mmol) and Et3N (11.5 mL, 79.28 mmol) were added and the stirred mixture was allowed to warm to rt. After 1 h, the reaction mixture was diluted with Et2O and the solids were collected by filtration and washed with Et2O. The filtrate was concentrated under reduced pressure, and the crude residue was subjected to silica gel column chromatography (0–20% MeOH in CH2Cl2) to afford cyclooctyl((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate (25.8 g, 68%) as a colorless oil.",
+            "product": "cyclooctyl((4-nitro)",
+            "reactants": "Et3N, 4-nitrophenol, cyclooctyl l-alaninate hydrochloride, phenyl dichlorophosphate",
+            "temperature": "0 °C",
+            "time": "1 h",
+            "solvent": "CH2Cl2",
+            "catalyst": "N2"
+        },
+        {
+            "text": "A mixture of 17 (0.50 g, 1.51 mmol) and cyclooctyl((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate (0.83 g, 1.74 mmol) in anhydrous THF (8 mL) was treated with magnesium chloride (0.58 g, 6.04 mmol) and N,N-diisopropylethylamine (0.78 g, 6.04 mmol). The reaction mixture was stirred at 50 °C for 3 h and then concentrated under reduced pressure. The residue was diluted with CH2Cl2, washed with saturated sodium chloride solution, dried over Na2SO4, filtered, and concentrated under reduced pressure. The crude residue was subjected to silica gel column chromatography (0–20% of (50% MeOH in CH2Cl2) in CH2Cl2) to afford cyclooctyl ((((3aR,4R,6R,6aR)-6-(4-aminopyrrolo[2,1-f][1,2,4]triazin-7-yl)-6-cyano-2,2-dimethyltetrahydrofuro[3,4-d][1,3]dioxol-4-yl)methoxy)(phenoxy)phosphoryl)-l-alaninate (0.823 g, 81%) as a colorless oil.",
+            "product": "(((3aR,4R,6R,6aR)-6-(4-",
+            "reactants": "17, N,N-diisopropylethylamine, magnesium chloride, cyclooctyl((4-nitrophenoxy)(phenoxy)phosphoryl)-l-alaninate",
+            "temperature": "50 °C",
+            "time": "3 h",
+            "solvent": "THF"
+        }
+    ]
+}

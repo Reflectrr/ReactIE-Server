@@ -1,0 +1,65 @@
+{
+    "title": "Development of Potent PfCLK3 Inhibitors Based on TCMDC-135051 as a New Class of Antimalarials",
+    "id": "jm0c00451",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "To investigate the effect of the N-diethyl group of ring A on antimalarial activity, analogues of 4-(2-(5-((diethylamino)methyl)-2-methoxyphenyl)-1H-pyrrolo[2,3-b]pyridin-4-yl)-2-isopropylbenzoic acid (TCMDC-135051) 1, 8a–c were prepared, as shown in Scheme 1. Protection of 4-bromo-7-azaindole 2 was achieved using p-toluenesulfonyl chloride under basic conditions to provide N-tosyl-7-azaindole 3. Regioselective iodination of 3 using lithium diisopropylamide (LDA) and iodine in tetrahydrofuran (THF) at −78 °C provided 2-iodoazaindole 4, which was subsequently subjected to Suzuki coupling with (5-formyl-2-methoxyphenyl)boronic acid to give 2-aryl substituted azaindole 5. Reductive amination of the aldehyde functionality of 5 was performed with various amines in the presence of sodium triacetoxyborohydride to give amines 6a–d in excellent yields. Next, the N-tosyl protecting group was removed under basic conditions at reflux for 18 h to yield 7a–d. Finally, the desired analogues 1 and 8a–c were obtained by Suzuki cross-coupling with 2-isopropyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoic acid (see the Supporting Information for boronate ester synthesis).",
+            "product": "N-tosyl-7-azaindole",
+            "reactants": "4-bromo-7-azaindole, 2",
+            "catalyst": "p-toluenesulfonyl chloride"
+        },
+        {
+            "text": "To investigate the effect of the N-diethyl group of ring A on antimalarial activity, analogues of 4-(2-(5-((diethylamino)methyl)-2-methoxyphenyl)-1H-pyrrolo[2,3-b]pyridin-4-yl)-2-isopropylbenzoic acid (TCMDC-135051) 1, 8a–c were prepared, as shown in Scheme 1. Protection of 4-bromo-7-azaindole 2 was achieved using p-toluenesulfonyl chloride under basic conditions to provide N-tosyl-7-azaindole 3. Regioselective iodination of 3 using lithium diisopropylamide (LDA) and iodine in tetrahydrofuran (THF) at −78 °C provided 2-iodoazaindole 4, which was subsequently subjected to Suzuki coupling with (5-formyl-2-methoxyphenyl)boronic acid to give 2-aryl substituted azaindole 5. Reductive amination of the aldehyde functionality of 5 was performed with various amines in the presence of sodium triacetoxyborohydride to give amines 6a–d in excellent yields. Next, the N-tosyl protecting group was removed under basic conditions at reflux for 18 h to yield 7a–d. Finally, the desired analogues 1 and 8a–c were obtained by Suzuki cross-coupling with 2-isopropyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoic acid (see the Supporting Information for boronate ester synthesis).",
+            "product": "3. Regioselective iodination of 3",
+            "reactants": "LDA, lithium diisopropylamide, iodine",
+            "temperature": "78 °C",
+            "solvent": "tetrahydrofuran, THF"
+        },
+        {
+            "text": "To investigate the effect of the N-diethyl group of ring A on antimalarial activity, analogues of 4-(2-(5-((diethylamino)methyl)-2-methoxyphenyl)-1H-pyrrolo[2,3-b]pyridin-4-yl)-2-isopropylbenzoic acid (TCMDC-135051) 1, 8a–c were prepared, as shown in Scheme 1. Protection of 4-bromo-7-azaindole 2 was achieved using p-toluenesulfonyl chloride under basic conditions to provide N-tosyl-7-azaindole 3. Regioselective iodination of 3 using lithium diisopropylamide (LDA) and iodine in tetrahydrofuran (THF) at −78 °C provided 2-iodoazaindole 4, which was subsequently subjected to Suzuki coupling with (5-formyl-2-methoxyphenyl)boronic acid to give 2-aryl substituted azaindole 5. Reductive amination of the aldehyde functionality of 5 was performed with various amines in the presence of sodium triacetoxyborohydride to give amines 6a–d in excellent yields. Next, the N-tosyl protecting group was removed under basic conditions at reflux for 18 h to yield 7a–d. Finally, the desired analogues 1 and 8a–c were obtained by Suzuki cross-coupling with 2-isopropyl-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoic acid (see the Supporting Information for boronate ester synthesis).",
+            "product": "4, 2-iodoazaindole",
+            "reactants": "LDA, lithium diisopropylamide, 3, iodine",
+            "temperature": "78 °C",
+            "reaction type": "iodination",
+            "solvent": "tetrahydrofuran, THF"
+        },
+        {
+            "text": "Compound 9 was prepared, as described in Scheme 1. The carboxylic acid of 1 was converted to its corresponding ethyl ester by refluxing in thionyl chloride and ethanol for 18 h.",
+            "product": "9",
+            "reactants": "1",
+            "time": "18 h"
+        },
+        {
+            "text": "The first step of this synthetic route involved coupling 2-iodo-azaindole 4 with the appropriate boronate ester under Suzuki conditions to yield nitrile 10 in 87% yield (Scheme 2). Tosyl deprotection was then achieved using K2CO3, followed by a Suzuki coupling at the 4-bromo-azaindole scaffold with the appropriate pinacol boronate ester. The crude material was reduced insitu using cobalt(II) chloride hexahydrate and sodium borohydride to provide the corresponding amine 12 (Scheme 2).",
+            "product": "10",
+            "reactants": "4, 2-iodo-azaindole, boronate ester",
+            "yield": "87%",
+            "reaction type": "coupling"
+        },
+        {
+            "text": "Similarly, analogue 15 was synthesized via Suzuki coupling of 4 with 2-methoxyphenyl boronic acid, followed by tosyl deprotection and Suzuki coupling (Scheme 3).",
+            "product": "15",
+            "reactants": "4, 2-methoxyphenyl boronic acid",
+            "reaction type": "Suzuki coupling"
+        },
+        {
+            "text": "To investigate the precise role of the methoxy group of ring A on activity, we prepared analogues 19 and 23 in which the OMe is replaced by a hydroxy group (19) and OMe is removed (23) (Scheme 3). The synthetic route toward 19 starts with Suzuki coupling of 4 with methoxymethyl ether (MOM)-protected boronate ester (see the Supporting Information for boronate ester synthesis) to yield 16. Reductive amination of 16 followed by removal of the tosyl group gave 18. Finally, 18 was coupled with boronate ester under Suzuki conditions, and the MOM protecting group was removed under acidic conditions to provide the desired analogue 19 in excellent yields.",
+            "product": "16",
+            "reactants": "4, methoxymethyl ether (MOM)-protected boronate ester",
+            "reaction type": "Suzuki coupling"
+        },
+        {
+            "text": "To investigate the precise role of the methoxy group of ring A on activity, we prepared analogues 19 and 23 in which the OMe is replaced by a hydroxy group (19) and OMe is removed (23) (Scheme 3). The synthetic route toward 19 starts with Suzuki coupling of 4 with methoxymethyl ether (MOM)-protected boronate ester (see the Supporting Information for boronate ester synthesis) to yield 16. Reductive amination of 16 followed by removal of the tosyl group gave 18. Finally, 18 was coupled with boronate ester under Suzuki conditions, and the MOM protecting group was removed under acidic conditions to provide the desired analogue 19 in excellent yields.",
+            "product": "18. 19",
+            "reactants": "16",
+            "reaction type": "Reductive amination, removal of the tosyl group",
+            "catalyst": "acidic"
+        },
+        {
+            "text": "To investigate the effect of the isopropyl substituent (ring B) on efficacy, we prepared analogues 28–29, as shown in Scheme 4. 4-Bromo-7-azaindole 7a was coupled with various boronate esters under Suzuki conditions to yield the desired 4-aryl-7-azaindole analogues 28–29.",
+            "product": "28–29",
+            "reactants": "boronate esters, 4-Bromo-7-azaindole, 7a"
+        }
+    ]
+}

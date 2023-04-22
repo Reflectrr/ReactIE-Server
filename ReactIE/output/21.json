@@ -1,0 +1,32 @@
+{
+    "title": "Intermetallic ZrPd3‑Embedded Nanoporous ZrC as an Efficient and Stable Catalyst of the Suzuki Cross-Coupling Reaction",
+    "id": "cs0c03416",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "Herein, we report the synthesis of Pd–ZrC, a material in which NPs of the intermetallic ZrPd3 compound are created on the surface of nanoporous ZrC NPs. We also describe the use of this material as an efficient and stable catalyst of the Suzuki cross-coupling reactions. Because ZrPd3 and ZrC share the same cation, Pd–ZrC was synthesized by simply calcining PZSA and Pd acetate. Using this approach, we found that nanoporous structures were generated in situ on ZrC NPs, realizing a support characterized by a high surface area (444 m2 g–1).",
+            "product": "Pd–ZrC",
+            "reactants": "Pd acetate, PZSA",
+            "reaction type": "calcining"
+        },
+        {
+            "text": "When PZSA was sintered at 900 °C under an Ar gas flow, it underwent pyrolytic decomposition, transforming into tetragonal ZrO2 (t-ZrO2; see Figure 1c). Although the peaks arising from carbon compounds could not be observed in the powder XRD plots, the obtained powder is black, suggesting the presence of amorphous carbon (Figure 1c). Indeed, HAADF-STEM analysis confirmed the presence of amorphous carbon phases located between t-ZrO2 particles to form the t-ZrO2–C composite (Figure 1d–f). The carbon content was estimated to be 32 wt % for t-ZrO2–C on the basis of TG-DTA measurement (Figure S2a). As the calcination temperature is increased up to 1400 °C, t-ZrO2 was reduced by carbon, and the composite transformed into ZrC NPs (Figure 1c,g–i).",
+            "product": "ZrC, t-ZrO2–C composite, tetragonal ZrO2",
+            "reactants": "PZSA",
+            "temperature": "900 °C",
+            "reaction type": "pyrolytic decomposition"
+        },
+        {
+            "text": "Nanoporous ZrC was synthesized using a Zr organic polymer (PZSA).",
+            "product": "ZrC",
+            "reactants": "Zr, PZSA"
+        },
+        {
+            "text": "Pd–ZrC was prepared by sintering PZSA alongside Pd acetate. Notably, in order to increase the dispersion of Pd, both PZSA and Pd acetate were dissolved in acetone.",
+            "product": "Pd–ZrC",
+            "reactants": "Pd acetate, PZSA",
+            "reaction type": "sintering",
+            "solvent": "acetone"
+        }
+    ]
+}

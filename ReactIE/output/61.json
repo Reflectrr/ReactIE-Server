@@ -1,0 +1,104 @@
+{
+    "title": "A2B Adenosine Receptor Antagonists with Picomolar Potency",
+    "id": "jm9b00071",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The synthetic routes for the target compounds are described in Schemes 1 and 2. 3-Propyl-substituted 5,6-diaminouracil derivatives 10a–c were obtained according to previously reported procedures. Detailed synthetic information for compound 11 and some of the required amines (58, 60, 62–64, 81, 82, 85–87, and 89) is provided in the Supporting Information. Compounds 10a–c and 11 were subsequently condensed in the presence of N-(3-(dimethylamino)propyl)-N′-ethylcarbodiimide (EDC) to yield amides 12a–c (see Scheme 1). After ring closure of 12a–c using various condensation methods (see Scheme 1) yielding xanthines 13a–c, different piperazine derivatives (55–84 and 88–90) or other amines (91, 92) were introduced to obtain the corresponding xanthine sulfonamide derivatives 14–44 and 50–54 (see Scheme 1).",
+            "product": "12a–c",
+            "reactants": "10a–c, 11",
+            "reaction type": "condensed"
+        },
+        {
+            "text": "The synthetic routes for the target compounds are described in Schemes 1 and 2. 3-Propyl-substituted 5,6-diaminouracil derivatives 10a–c were obtained according to previously reported procedures. Detailed synthetic information for compound 11 and some of the required amines (58, 60, 62–64, 81, 82, 85–87, and 89) is provided in the Supporting Information. Compounds 10a–c and 11 were subsequently condensed in the presence of N-(3-(dimethylamino)propyl)-N′-ethylcarbodiimide (EDC) to yield amides 12a–c (see Scheme 1). After ring closure of 12a–c using various condensation methods (see Scheme 1) yielding xanthines 13a–c, different piperazine derivatives (55–84 and 88–90) or other amines (91, 92) were introduced to obtain the corresponding xanthine sulfonamide derivatives 14–44 and 50–54 (see Scheme 1).",
+            "product": "13a–c",
+            "reactants": "12a–c",
+            "reaction type": "using various condensation methods, ring closure"
+        },
+        {
+            "text": "Aminolysis was performed using optimized conditions in dry dimethyl sulfoxide (DMSO) under argon atmosphere, instead of dimethylformamide (DMF), which had been used before. Dry DMSO prevented ester hydrolysis observed in the presence of water, as well as side reactions with dimethylamine, which resulted from DMF decomposition yielding compound 53. In this modified nucleophilic substitution reaction, pure sulfonamide products were obtained for reactions of acyclic amines 91 and 92 yielding 53 and 54, while side products were obtained for sterically hindered piperazine derivatives.",
+            "product": "53",
+            "reactants": "91, 92",
+            "reaction type": "decomposition",
+            "solvent": "DMSO"
+        },
+        {
+            "text": "Aminolysis was performed using optimized conditions in dry dimethyl sulfoxide (DMSO) under argon atmosphere, instead of dimethylformamide (DMF), which had been used before. Dry DMSO prevented ester hydrolysis observed in the presence of water, as well as side reactions with dimethylamine, which resulted from DMF decomposition yielding compound 53. In this modified nucleophilic substitution reaction, pure sulfonamide products were obtained for reactions of acyclic amines 91 and 92 yielding 53 and 54, while side products were obtained for sterically hindered piperazine derivatives.",
+            "product": "54",
+            "reactants": "92"
+        },
+        {
+            "text": "The sulfonamide-substituted benzoic acid derivatives 85b-87b were prepared from piperazine derivatives 85-87 and 4-(chlorosulfonyl)benzoic acid (11a) and subsequently coupled with 10a yielding 85c-87c. The final ring closure reaction was performed with P2O5 for 10 min to yield xanthines 45-47. The methoxyphenyl derivatives 46 and 47 were further subjected to demethylation to furnish the phenol derivatives 48 and 49.",
+            "product": "85b-87b",
+            "reactants": "4-(chlorosulfonyl)benzoic acid, 10a, 11a, 85-87"
+        },
+        {
+            "text": "The sulfonamide-substituted benzoic acid derivatives 85b-87b were prepared from piperazine derivatives 85-87 and 4-(chlorosulfonyl)benzoic acid (11a) and subsequently coupled with 10a yielding 85c-87c. The final ring closure reaction was performed with P2O5 for 10 min to yield xanthines 45-47. The methoxyphenyl derivatives 46 and 47 were further subjected to demethylation to furnish the phenol derivatives 48 and 49.",
+            "product": "45-47",
+            "time": "10 min",
+            "reaction type": "ring closure",
+            "catalyst": "P2O5"
+        },
+        {
+            "text": "The sulfonamide-substituted benzoic acid derivatives 85b-87b were prepared from piperazine derivatives 85-87 and 4-(chlorosulfonyl)benzoic acid (11a) and subsequently coupled with 10a yielding 85c-87c. The final ring closure reaction was performed with P2O5 for 10 min to yield xanthines 45-47. The methoxyphenyl derivatives 46 and 47 were further subjected to demethylation to furnish the phenol derivatives 48 and 49.",
+            "product": "48",
+            "reactants": "46, 47",
+            "reaction type": "demethylation"
+        },
+        {
+            "text": "The sulfonamide-substituted benzoic acid derivatives 85b-87b were prepared from piperazine derivatives 85-87 and 4-(chlorosulfonyl)benzoic acid (11a) and subsequently coupled with 10a yielding 85c-87c. The final ring closure reaction was performed with P2O5 for 10 min to yield xanthines 45-47. The methoxyphenyl derivatives 46 and 47 were further subjected to demethylation to furnish the phenol derivatives 48 and 49.",
+            "product": "49",
+            "reactants": "47",
+            "reaction type": "demethylation"
+        },
+        {
+            "text": "Compound 21a was obtained according to method A by using 13a (0.15 mmol) and ethyl 4-(piperazin-1-ylmethyl)benzoate (61, 0.9 mmol). Lithium hydroxide (5 mmol) was added to the suspension of ethyl ester 21a (540 mg, 0.9 mmol) in a mixture of methanol and tetrahydrofuran (1:1; 10 mL).",
+            "product": "21a",
+            "reactants": "ethyl 4-(piperazin-1-ylmethyl)benzoate, 61, Lithium hydroxide, 13a",
+            "solvent": "methanol, tetrahydrofuran"
+        },
+        {
+            "text": "Compound 41a, containing a methoxymethyl-protected hydroxy group, was obtained according to method A by using 13a (0.15 mmol) and 1-(4-(methoxymethoxy)phenyl)piperazine (81, 0.9 mmol). To a suspension of 41a (20 mg, 0.036 mmol) in a solution of dichloromethane/methanol (1:1; 5 mL) was added 4 M HCl in dioxane (1.0 mL).",
+            "product": "41a",
+            "reactants": "81, 13a, 1-(4-(methoxymethoxy)phenyl)piperazine",
+            "solvent": "dichloromethane methanol, dioxane"
+        },
+        {
+            "text": "Method D. A mixture of 13a (50 mg, 0.11 mmol, 1 equiv) in 5 mL of dimethylamine (91, in ethanolic solution, 33% v/v) was stirred at rt for 16 h. Subsequently, the reaction mixture was concentrated under reduced pressure. The residue was purified by flash chromatography (eluent: dichloromethane/methanol = 9:1) giving product 53 as a beige-colored solid in a yield of 29%.",
+            "product": "53",
+            "reactants": "91, 13a",
+            "yield": "29%",
+            "temperature": "rt",
+            "time": "16 h",
+            "solvent": "ethanolic"
+        },
+        {
+            "text": "To this end, 4-(chlorosulfonyl)benzoic acid (11a) was reacted with 85-87 to obtain the intermediate sulfonamides 85b-87b. The sulfonamide intermediates were subsequently condensed with uracil derivative 10a to yield 85c-87c, followed by fast ring closure reaction with P2O5 for 10 min, yielding the final products 45-47 (Scheme 2).",
+            "product": "85b-87b, 85c-87c",
+            "reactants": "4-(chlorosulfonyl)benzoic acid, 85-87, 11a"
+        },
+        {
+            "text": "To this end, 4-(chlorosulfonyl)benzoic acid (11a) was reacted with 85-87 to obtain the intermediate sulfonamides 85b-87b. The sulfonamide intermediates were subsequently condensed with uracil derivative 10a to yield 85c-87c, followed by fast ring closure reaction with P2O5 for 10 min, yielding the final products 45-47 (Scheme 2).",
+            "product": "45-47",
+            "reactants": "P2O5, 85c-87c",
+            "time": "10 min",
+            "reaction type": "ring closure"
+        },
+        {
+            "text": "To a flask containing 0.09 mmol (50 mg) 46 or 47, 2 mL of BBr3 in DCM was added. The reaction was stirred under argon for 24 h. A mixture of ice and aqueous NaHCO3 solution (20 mL) was added and the mixture was subsequently extracted with ethyl acetate. The organic layer was dried over anhydrous Mg2SO4, filtered, and evaporated to give a crude product, which was further purified using column chromatography yielding 48 (25%) and 49 (13%).",
+            "product": "48",
+            "reactants": "46, 47, BBr3",
+            "yield": "25%",
+            "time": "24 h",
+            "solvent": "DCM"
+        },
+        {
+            "text": "To a flask containing 0.09 mmol (50 mg) 46 or 47, 2 mL of BBr3 in DCM was added. The reaction was stirred under argon for 24 h. A mixture of ice and aqueous NaHCO3 solution (20 mL) was added and the mixture was subsequently extracted with ethyl acetate. The organic layer was dried over anhydrous Mg2SO4, filtered, and evaporated to give a crude product, which was further purified using column chromatography yielding 48 (25%) and 49 (13%).",
+            "product": "49",
+            "reactants": "46, 47, BBr3",
+            "yield": "(13%)",
+            "time": "24 h",
+            "solvent": "DCM"
+        }
+    ]
+}

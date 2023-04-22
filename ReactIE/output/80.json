@@ -1,0 +1,23 @@
+{
+    "title": "Druggability Assessment of Targets Used in Kinetic Target-Guided Synthesis",
+    "id": "jm8b00266",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "For the proof-of-principle work, the authors first screened a library of triazoles by traditional synthesis against AChBP from Lymnaea (Ls), Aplysia californica (Ac), Y55W Aplysia mutant (AcY55W), and the best hit 46 was identified. In order to prove the methodology, the fragments of the best hit were incubated in the presence of Ls, Ac, AcY55W AChBP and they observed that Ls selectively templated the formation of 46 from the corresponding azide 44 and alkyne 45 (Scheme 11).",
+            "product": "46",
+            "reactants": "44, 45"
+        },
+        {
+            "text": "Accordingly, Deprez and co-workers proposed that inhibition of EthR would improve the efficacy of ethionamide by increasing the transcription of EthA. Upon screening of the azide 47 with a library of alkynes; they observed the protein-templated formation of hit 49 (Scheme 12).",
+            "product": "49",
+            "reactants": "47"
+        },
+        {
+            "text": "Factor Xa, a serine protease of the blood coagulation cascade and target of antithrombotic drugs, has been recently used in KTGS. Rademann and co-workers used factor Xa as a template for the formation of 68 from various activated carboxylic acid derivatives 66 and amine 67 by using fragment ligation screening (Scheme 15).",
+            "product": "68",
+            "reactants": "66, 67",
+            "reaction type": "fragment ligation"
+        }
+    ]
+}

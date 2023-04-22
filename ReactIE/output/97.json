@@ -1,0 +1,170 @@
+{
+    "title": "Pathways for N‑Nitroso Compound Formation: Secondary Amines and Beyond",
+    "id": "op0c00323",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "For example,2-(dimethylaminomethyl)pyrrole reacted in 3 min with 10 equiv of sodium nitrite in aqueous acetic acid at room temperature leading to dimethyl nitrosamine in 95% yield (Scheme 6, reaction (a)). Gramine and bromhexine, both containing an electron-rich N-benzylic substituent, have also been shown to undergo rapid nitrosamine formation (Scheme 6, reactions (b) and (c)).",
+            "product": "dimethyl nitrosamine",
+            "reactants": "sodium nitrite, 2-(dimethylaminomethyl)pyrrole",
+            "yield": "95%",
+            "temperature": "room",
+            "time": "3 min",
+            "solvent": "acetic acid"
+        },
+        {
+            "text": "The best-known reagent for the N-nitrosation of NH-containing compounds is sodium nitrite in aqueous acidic solutions (i.e., pH < 5). Neither nitrite anion nor nitrous acid formed by protonation of the former reacts with the unprotonated amine. The effective nitrosating agent is instead formed from the nucleophilic attack of a nucleophilic species X– to the protonated nitrous acid in a rapid equilibrium step (Scheme 7). In the absence of other nucleophiles, with high HNO2 concentration and pH > – 0.6, nitrite ion acts as the nucleophile X– and the reactive nitrosating agent is nitrous anhydride N2O3. Under very acidic conditions (pH < −0.6), the in situ formed HNO2 leads to the nitrosonium ion NO+. Another nitrosating agent, H2NO2+, can also operate at low concentrations of HNO2 and pH > −0.6. Finally, if a nucleophilic species X– is present, NOX type nitrosating agents will be formed.",
+            "product": "NO+, H2NO2+",
+            "reactants": "HNO2"
+        },
+        {
+            "text": "Another system that has been demonstrated to generate efficient nitrosating agents is based on sodium nitrite and a suitable Lewis acid. Stoichiometric tin(IV) chloride and bismuth(III) chloride are suggested to trigger the formation of the strong nitrosating agent NOCl when in combination with sodium nitrite.",
+            "product": "NOCl",
+            "reactants": "sodium nitrite",
+            "catalyst": "tin(IV) chloride, bismuth(III) chloride"
+        },
+        {
+            "text": "For example, triethylamine led to 71% yield of NDEA after 14 h in refluxing carbon tetrachloride.",
+            "product": "NDEA",
+            "reactants": "triethylamine",
+            "yield": "71%",
+            "temperature": "refluxing",
+            "time": "14 h",
+            "solvent": "triethylamine",
+            "catalyst": "carbon tetrachloride"
+        },
+        {
+            "text": "TBN initially undergoes thermal homolysis to generate NO and tBuO radicals. The NO radical is quickly oxidized to the NO2 radical by oxygen. For the C-nitration, the NO2 radical and substrate react through an electrophilic radical addition process (Scheme 28, path a). For N-dealkylation-N-nitrosation, the tBuO radical directly abstracts a hydrogen atom from the N-Me group providing an α-amino radical, which is immediately oxidized into an iminium intermediate that leads to formaldehyde and the corresponding secondary amine which can be nitrosated by TBN (Scheme 28, path b).",
+            "product": "NO2",
+            "reactants": "oxygen",
+            "reaction type": "oxidized"
+        },
+        {
+            "text": "TBN initially undergoes thermal homolysis to generate NO and tBuO radicals. The NO radical is quickly oxidized to the NO2 radical by oxygen. For the C-nitration, the NO2 radical and substrate react through an electrophilic radical addition process (Scheme 28, path a). For N-dealkylation-N-nitrosation, the tBuO radical directly abstracts a hydrogen atom from the N-Me group providing an α-amino radical, which is immediately oxidized into an iminium intermediate that leads to formaldehyde and the corresponding secondary amine which can be nitrosated by TBN (Scheme 28, path b).",
+            "product": "formaldehyde",
+            "reactants": "iminium intermediate, -amino",
+            "reaction type": "N-dealkylation-N-nitrosation"
+        },
+        {
+            "text": "Experiments carried out to gain insight into the mechanism of the process suggest that the methyl group of nitromethane is oxidized and that nitrous acid is a byproduct of the oxidation. Based on these findings, the authors proposed a mechanism that starts by the formation of an anionic complex from fluoride anion and IBX, which then reacts with the aci-tautomer of nitromethane to form a cyclic intermediate. The decomposition of the cyclic intermediate generates formaldehyde, nitrous acid and 2-iodosobenzoic acid (Scheme 38).",
+            "product": "2-iodosobenzoic acid, formaldehyde",
+            "reactants": "cyclic intermediate",
+            "reaction type": "decomposition"
+        },
+        {
+            "text": "Experiments carried out to gain insight into the mechanism of the process suggest that the methyl group of nitromethane is oxidized and that nitrous acid is a byproduct of the oxidation. Based on these findings, the authors proposed a mechanism that starts by the formation of an anionic complex from fluoride anion and IBX, which then reacts with the aci-tautomer of nitromethane to form a cyclic intermediate. The decomposition of the cyclic intermediate generates formaldehyde, nitrous acid and 2-iodosobenzoic acid (Scheme 38).",
+            "product": "nitrous acid",
+            "reactants": "nitromethane",
+            "reaction type": "decomposition"
+        },
+        {
+            "text": "The catalyst, now in the copper(I) form, would reduce intermediate B to produce formaldehyde, the NO2 radical and hydroxide ion, along with the regeneration of the copper(II) catalyst. Finally, a NO2 radical would abstract a hydrogen atom to produce nitrous acid as the final nitrosating agent precursor.",
+            "product": "formaldehyde",
+            "reactants": "intermediate B",
+            "reaction type": "reduce",
+            "catalyst": "copper(I)"
+        },
+        {
+            "text": "The catalyst, now in the copper(I) form, would reduce intermediate B to produce formaldehyde, the NO2 radical and hydroxide ion, along with the regeneration of the copper(II) catalyst. Finally, a NO2 radical would abstract a hydrogen atom to produce nitrous acid as the final nitrosating agent precursor.",
+            "product": "NO2, hydroxide",
+            "reactants": "B",
+            "reaction type": "reduce",
+            "catalyst": "copper(I)"
+        },
+        {
+            "text": "The catalyst, now in the copper(I) form, would reduce intermediate B to produce formaldehyde, the NO2 radical and hydroxide ion, along with the regeneration of the copper(II) catalyst. Finally, a NO2 radical would abstract a hydrogen atom to produce nitrous acid as the final nitrosating agent precursor.",
+            "product": "nitrous acid",
+            "reactants": "NO2"
+        },
+        {
+            "text": "In aqueous acidic media, N2O3 or N2O4 will be rapidly hydrolyzed to yield nitrous acid and its associated nitrosating species, previously covered in section 3.2.1.1.",
+            "product": "nitrous acid",
+            "reactants": "N2O4, N2O3",
+            "reaction type": "hydrolyzed",
+            "solvent": "aqueous acidic"
+        },
+        {
+            "text": "In organic solvents, secondary amines react readily at room temperature and below with N2O3 to give nitrosamines. The N-nitrosation step with N2O3 produces nitrosamine and nitrous acid.",
+            "product": "nitrosamine",
+            "reactants": "secondary amines, N2O3",
+            "temperature": "room",
+            "reaction type": "N-nitrosation"
+        },
+        {
+            "text": "In organic solvents, secondary amines react readily at room temperature and below with N2O3 to give nitrosamines. The N-nitrosation step with N2O3 produces nitrosamine and nitrous acid.",
+            "product": "nitrous acid",
+            "reactants": "N2O3",
+            "reaction type": "N-nitrosation"
+        },
+        {
+            "text": "Darbeau et al. carried out some kinetic studies on the N-nitrosation of secondary amides with N2O4(g) in organic media. N-Benzylpivalamides were N-nitrosated using with N2O4 in CDCl3 at −40 °C producing the corresponding N-benzyl-N-nitrosopivalamides. The rate of N-nitrosation was found to vary in a systematic way with the nature of para-substituent on the aromatic ring.",
+            "product": "N-benzyl-N-nitrosopivalamides",
+            "reactants": "N-Benzylpivalamides, N2O4",
+            "temperature": "40 °C",
+            "reaction type": "N-nitrosation",
+            "solvent": "CDCl3"
+        },
+        {
+            "text": "For example, when oxygen is present, NO is oxidized to NO2, which can subsequently dimerize to N2O4 and/or combine with NO to give N2O3 (Scheme 56). The nitrosating character of NO2 is suggested to occur though dimerization to lead to N2O4 (Scheme 56, reaction (2)).",
+            "product": "NO2",
+            "reactants": "NO, oxygen",
+            "reaction type": "oxidized"
+        },
+        {
+            "text": "For example, when oxygen is present, NO is oxidized to NO2, which can subsequently dimerize to N2O4 and/or combine with NO to give N2O3 (Scheme 56). The nitrosating character of NO2 is suggested to occur though dimerization to lead to N2O4 (Scheme 56, reaction (2)).",
+            "product": "N2O4",
+            "reactants": "NO2, dimerize",
+            "reaction type": "dimerize"
+        },
+        {
+            "text": "For example, when oxygen is present, NO is oxidized to NO2, which can subsequently dimerize to N2O4 and/or combine with NO to give N2O3 (Scheme 56). The nitrosating character of NO2 is suggested to occur though dimerization to lead to N2O4 (Scheme 56, reaction (2)).",
+            "product": "N2O3",
+            "reactants": "NO, NO2"
+        },
+        {
+            "text": "The activation of NO by HI is initiated by the oxidation of the iodide ion by NO under acidic conditions with concurrent formation of nitrous oxide (Scheme 61). Because the reaction of NO with iodine produces nitrosyl iodide, this species is believed to form the nitrosamine by reaction with unprotonated amine.",
+            "product": "nitrosyl iodide",
+            "reactants": "iodine, NO"
+        },
+        {
+            "text": "The activation of NO by HI is initiated by the oxidation of the iodide ion by NO under acidic conditions with concurrent formation of nitrous oxide (Scheme 61). Because the reaction of NO with iodine produces nitrosyl iodide, this species is believed to form the nitrosamine by reaction with unprotonated amine.",
+            "product": "nitrosamine",
+            "reactants": "nitrosyl iodide, unprotonated amine"
+        },
+        {
+            "text": "NO reacts rapidly with secondary amines under neutral conditions in the presence of iodide salts where solvolysis generates HI (i.e., in protic solvents, Scheme 62). This is the case with ZnI2 in ethanol or aqueous ethanol but not significantly in acetonitrile. Although water increases the amount of HI formed, it also inhibits the iodine-promoted nitrosamine formation by hydrolysis of the active nitrosyl iodide to nitrous acid and hydroiodic acid. Copper and silver salts have also been observed to promote the N-nitrosation of secondary amines with NO.",
+            "product": "HI",
+            "reactants": "NO, secondary amines, iodide salts",
+            "reaction type": "solvolysis"
+        },
+        {
+            "text": "To the best of our knowledge, there is one example of the use of palladium on activated carbon as the hydrogenation catalyst to form an N-nitroso compound from an N-nitro derivative. In Scheme 70, the hydrogenation of the aziridine ring in the presence of an N-nitro group gave the desired N-ethyl-N′-nitroguanidine product along with a further reduced N-ethyl-N′-nitrosoguanidine side-product in 5% yield.",
+            "product": "N-ethyl-N′-nitroguanidine, N-ethyl-N′-nitrosoguanidine",
+            "reactants": "aziridine, N-nitro",
+            "yield": "5%",
+            "reaction type": "hydrogenation"
+        },
+        {
+            "text": "Oxley reported that the longer alkyl chain nitramines decomposed at a faster rate than the shorter alkyl chain nitramines, and that cyclic nitramines decomposed at a higher rate with increasing ring strain. There are a number of mechanisms suggested for this transformation; however, Oxley proposes that a likely mechanism is the homolysis of the N–N bond followed by reduction of the nitrogen dioxide to nitric oxide and recombination with the amine radical to the nitrosamine (Scheme 74).",
+            "product": "nitric oxide",
+            "reactants": "nitrogen dioxide",
+            "reaction type": "reduction"
+        },
+        {
+            "text": "Oxley reported that the longer alkyl chain nitramines decomposed at a faster rate than the shorter alkyl chain nitramines, and that cyclic nitramines decomposed at a higher rate with increasing ring strain. There are a number of mechanisms suggested for this transformation; however, Oxley proposes that a likely mechanism is the homolysis of the N–N bond followed by reduction of the nitrogen dioxide to nitric oxide and recombination with the amine radical to the nitrosamine (Scheme 74).",
+            "product": "nitrosamine",
+            "reactants": "nitric oxide, amine",
+            "reaction type": "recombination"
+        },
+        {
+            "text": "provide an N-nitrosation procedure of N-chlorodialkylamines using two equivalents of sodium nitrite with excellent yields (Scheme 85). They propose a mechanism whereby one equivalent of sodium nitrite generates nitryl chloride, which reacts with a second equivalent of sodium nitrite to form dinitrogen tetroxide. Reaction of the dialkyl amine anion and the dinitrogen tetroxide results in the N-nitrosodialkylamine.",
+            "product": "dinitrogen tetroxide",
+            "reactants": "sodium nitrite, nitryl chloride"
+        },
+        {
+            "text": "provide an N-nitrosation procedure of N-chlorodialkylamines using two equivalents of sodium nitrite with excellent yields (Scheme 85). They propose a mechanism whereby one equivalent of sodium nitrite generates nitryl chloride, which reacts with a second equivalent of sodium nitrite to form dinitrogen tetroxide. Reaction of the dialkyl amine anion and the dinitrogen tetroxide results in the N-nitrosodialkylamine.",
+            "product": "N-nitrosodialkylamine",
+            "reactants": "dinitrogen tetroxide, dialkyl amine anion"
+        }
+    ]
+}

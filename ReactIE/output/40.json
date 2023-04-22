@@ -1,0 +1,44 @@
+{
+    "title": "Dual-Emissive Bis(diphenylphosphino)amine Platinum Complexes: Structural, Reactivity, Photophysical, and Theoretical Investigations",
+    "id": "om0c00301",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "The bis-chelate complexes [Pt(C∧N)dppa]X (2a–d) were obtained by reacting equimolar amounts of bis(diphenylphosphino)amine (dppa) and [Pt(C∧N)XL] complexes (1a–d), in which displacement of the dppa ligand with L (DMSO or SMe2) and X (Cl– or CF3CO2–) is followed by the movement of X to outer-sphere coordination (Scheme 1).",
+            "product": "(2a–d), [Pt(CN)dppa]X",
+            "reactants": "bis(diphenylphosphino)amine, [Pt(CN)XL] complexes, (1a–d), dppa"
+        },
+        {
+            "text": "The binuclear complexes 3a,b could be prepared by two reaction pathways. The basic strategy is the reaction of 1a,b with 0.5 equiv of dppa that resulted in the formation of 3a,b. The second route was proposed according to the successful synthesis of analogous dppm complexes from bis-chelate dppm complexes. Therefore, treatment of 1a,b with 2a,b for 1 h at room temperature gave 3a,b. On the basis of this strategy, the unsymmetrical binuclear complex 3c could be prepared by the reaction of [Pt(ppy)Cl(DMSO)] (1b) with 1 equiv of the bis-chelate complex [Pt(bhq)dppa]Cl (2a) in benzene.",
+            "product": "3a,b",
+            "reactants": "1a,b, dppa"
+        },
+        {
+            "text": "The binuclear complexes 3a,b could be prepared by two reaction pathways. The basic strategy is the reaction of 1a,b with 0.5 equiv of dppa that resulted in the formation of 3a,b. The second route was proposed according to the successful synthesis of analogous dppm complexes from bis-chelate dppm complexes. Therefore, treatment of 1a,b with 2a,b for 1 h at room temperature gave 3a,b. On the basis of this strategy, the unsymmetrical binuclear complex 3c could be prepared by the reaction of [Pt(ppy)Cl(DMSO)] (1b) with 1 equiv of the bis-chelate complex [Pt(bhq)dppa]Cl (2a) in benzene.",
+            "product": "3c",
+            "reactants": "[Pt(bhq)dppa]Cl (2a), [Pt(ppy)Cl(DMSO)] (1b)",
+            "solvent": "benzene"
+        },
+        {
+            "text": "Also, the 1c,d precursors were used to produce binuclear complexes by both strategies. In the reaction of complexes 1c,d with 0.5 equiv of dppa, it was observed that 0.5 equiv of bis-chelate complexes 2c,d were formed and 0.5 equiv of the unreacted precursors 1c,d remained, similar to the case for the dppm analogues.",
+            "product": "2c,d",
+            "reactants": "1c,d, dppa"
+        },
+        {
+            "text": "Two series of cycloplatinated(II) complexes were synthesized containing the dppa ligand in chelating mode, complexes 2, and the bridging mode, complexes 3. By an equimolar reaction of dppa and complexes 1, the bis-chelate complexes 2 were obtained. The binuclear complexes 3a,b were prepared by two reaction pathways: first, the reaction of 1a,b, with 0.5 equiv of dppa, and second, the treatment of 1a,b with 2a,b.",
+            "product": "2",
+            "reactants": "1, dppa",
+            "reaction type": "equimolar"
+        },
+        {
+            "text": "Two series of cycloplatinated(II) complexes were synthesized containing the dppa ligand in chelating mode, complexes 2, and the bridging mode, complexes 3. By an equimolar reaction of dppa and complexes 1, the bis-chelate complexes 2 were obtained. The binuclear complexes 3a,b were prepared by two reaction pathways: first, the reaction of 1a,b, with 0.5 equiv of dppa, and second, the treatment of 1a,b with 2a,b.",
+            "product": "3a,b",
+            "reactants": "1a,b, dppa"
+        },
+        {
+            "text": "The unsymmetrical binuclear complex 3c, which is the first unsymmetrical homobinuclear dppa complex, was prepared by the reaction of [Pt(ppy)Cl(DMSO)] (1b) with 1 equiv of the bis-chelate complex [Pt(bhq)dppa]Cl (2a).",
+            "product": "3c",
+            "reactants": "[Pt(bhq)dppa]Cl (2a), [Pt(ppy)Cl(DMSO)] (1b)"
+        }
+    ]
+}

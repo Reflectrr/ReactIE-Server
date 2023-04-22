@@ -1,0 +1,108 @@
+{
+    "title": "Suzuki–Miyaura Cross-Coupling of Sulfoxides",
+    "id": "cs0c01462",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "In the first attempt, the Suzuki cross-coupling reaction of (4-methoxyphenyl)boronic acid (1) with diphenyl sulfoxide (2) was investigated as a model reaction. Initially, stable SIPr-PdCl2-Py was selected as the catalyst because Pd–NHC is effective in the cleavage of C–N, C–S, and C–O bonds. Fortunately, a 65% yield of 4-methoxy-1,1′-biphenyl (3) was detected by HPLC with 5 mol % of SIPr-PdCl2-Py (Table 1, entry 1).",
+            "product": "(3), 4-methoxy-1,1′-biphenyl",
+            "reactants": "(2), diphenyl sulfoxide, (1), (4-methoxyphenyl)boronic acid",
+            "yield": "65%",
+            "reaction type": "Suzuki cross-coupling",
+            "catalyst": "SIPr-PdCl2-Py"
+        },
+        {
+            "text": "Given that increasing the amount of catalyst loading up to 10 mol % did not facilitate the reaction (Table 1, entry 5), different bases and solvents were screened (Table 1, entries 6–12). It was shown that t-BuONa was the best base and tetrahydrofuran (THF) was the best solvent in all tested conditions. Increasing the amount of 2 from 1 to 1.5 equiv slightly improved the reaction (Table 1, entry 13), whereas increasing the amount of t-BuONa to 3 equiv significantly facilitated the reaction with a 90% yield of 3 (Table 1, entry 14). Further increasing t-BuONa to 4 equiv had a negligible effect on the reaction (Table 1, entry 15). The reaction went smoothly and was quite clean under the optimum conditions, as the desired product was mainly generated with only 6% of unreacted boronic acid 1, 3% of diphenyl sulfide, and sulfoxide 2 (0.51 equiv).",
+            "product": "3",
+            "reactants": "t-BuONa, 2",
+            "yield": "90%",
+            "solvent": "tetrahydrofuran, THF"
+        },
+        {
+            "text": "These results showed that various substituted phenylboronic acids could be successfully converted to their corresponding biaryls in moderate to excellent yields. Either electron-rich or electron-deficient arylboronic acids are suitable for the reaction. In general, the yields of arylboronic acids with an electron-donating group are excellent. Furthermore, ortho-ethylphenylboronic acid did not diminish the yield of the product, and 85% of 2-ethyl-1,1′-biphenyl was isolated (Table 2, 7).",
+            "product": "2-ethyl-1,1′-biphenyl",
+            "reactants": "ortho-ethylphenylboronic acid",
+            "yield": "85%"
+        },
+        {
+            "text": "However, the yield of the product decreased dramatically (Table 2, 5, 37%) when ortho-methoxyphenylboronic acid was used; meanwhile, a large amount of anisole was detected in the reaction mixture by gas chromatography-mass spectrometry (GC-MS). Furthermore, it was found that (2-ethoxynaphthalen-1-yl)boronic acid totally transformed to 2-ethoxynaphthalene without any coupling product in the same reaction, including or excluding Pd, suggesting that the process of protodeboronation of arylboronic acids occurred. Compared to para-alkoxy arylboronic acids, the protodeboronation of ortho-alkoxy arylboronic acids is fast.",
+            "product": "2-ethoxynaphthalene",
+            "reactants": "(2-ethoxynaphthalen-1-yl)boronic acid"
+        },
+        {
+            "text": "The C–S bond of sulfoxide can be selectively functionalized over the thioether group, which remained intact during the reaction (Table 2, 11). Furthermore, in the reaction of (4-(trimethylsilyl)phenyl)boronic acid with 2, the arylation of phenyl occurred only through Suzuki reaction, leading to product 12 in 75% of yield, whereas Hiyama reaction did not take place (Table 2, 12). The coupling proceeded smoothly with the phenylboronic acid bearing hydroxyl substitution, achieving a good yield of 13 (72%) after acidic workup.",
+            "product": "12",
+            "reactants": "(4-(trimethylsilyl)phenyl)boronic acid, 2,",
+            "yield": "75%",
+            "reaction type": "Suzuki, arylation"
+        },
+        {
+            "text": "The C–S bond of sulfoxide can be selectively functionalized over the thioether group, which remained intact during the reaction (Table 2, 11). Furthermore, in the reaction of (4-(trimethylsilyl)phenyl)boronic acid with 2, the arylation of phenyl occurred only through Suzuki reaction, leading to product 12 in 75% of yield, whereas Hiyama reaction did not take place (Table 2, 12). The coupling proceeded smoothly with the phenylboronic acid bearing hydroxyl substitution, achieving a good yield of 13 (72%) after acidic workup.",
+            "product": "13",
+            "reactants": "phenylboronic acid",
+            "yield": "72%",
+            "reaction type": "coupling"
+        },
+        {
+            "text": "Furthermore, the scope of various diaryl sulfoxides was examined in the Suzuki reaction with (4-methoxyphenyl)boronic acid under optimum conditions (Table 2, 33–41). These diaryl sulfoxides bearing either electron-donating groups or electron-withdrawing groups were suitable for the reaction. Compared to that of its para- and meta-analogues, the reaction of ortho-substituted diaryl sulfoxide, 2,2′-sulfinylbis(methylbenzene) with 1 afforded comparable yield of the desired product (Table 2, 33–35). Thus, ortho-substitution did not diminish the yield of the product. Notably, 36 was generated in the yield of 82% when (sulfinylbis(4,1-phenylene))bis(trimethylsilane) was used, indicating that potentially labile trimethylsilyl (TMS) was inert in the reaction and thus facilitated further transformation.",
+            "product": "36",
+            "reactants": "(sulfinylbis(4,1-phenylene))bis(trimethylsilane)",
+            "yield": "82%"
+        },
+        {
+            "text": "In the reaction of 4,4″-sulfinyldi-1,1′-biphenyl, only 28% of 38 was isolated, accompanied by some amount of di([1,1′-biphenyl]-4-yl)sulfane reduced from 4,4″-sulfinyldi-1,1′- biphenyl (Table 2, 38). The Cl substitution on the diaryl sulfoxide interfered with the reaction and resulted in the low yield of the desired product 40. Usually, it is very difficult to successfully couple an electron-rich electrophile with an electron-deficient nucleophile, as it is well known that an electron-rich electrophile is not favorable to oxidative addition; meanwhile, an electron-deficient nucleophile is not beneficial for transmetalation. Fortunately, the reaction of the electron-rich 4,4′-sulfinylbis(methoxybenzene) with the electron-deficient (4-cyanophenyl)boronic acid successfully afforded 42 in 25% yield (Table 2, 42).",
+            "product": "40",
+            "reactants": "4,4′-sulfinylbis(methoxybenzene) with the electron-deficient (4-cyanophenyl)boronic",
+            "yield": "low",
+            "reaction type": "reduced"
+        },
+        {
+            "text": "Furthermore, the regioselective arylation of unsymmetrical diaryl sulfoxides is feasible through the electronic or steric bias of diaryl groups (Scheme 3). The arylation of largely electronically biased methoxyphenyl 4-(trifluoromethyl)phenyl sulfoxide with (6-methoxynaphthalen-2-yl)boronic acid proceeded mainly at the side of electron-poor (trifluoromethyl)phenyl with a 70% yield of 44. Similarly, in the reaction of the less electronically biased phenyl 4-cyanophenyl sulfoxide with (6-methoxynaphthalen-2-yl)boronic acid, 45 was obtained in 68% yield with excellent selectivity (selectivity rate: over 115/1). The good regioselectivity of arylation can be achieved through the Suzuki reaction compared to that of the Negishi reaction of an unsymmetrical diaryl sulfoxide.",
+            "product": "44",
+            "reactants": "(6-methoxynaphthalen-2-yl)boronic acid, methoxyphenyl 4-(trifluoromethyl)phenyl sulfoxide",
+            "yield": "70%",
+            "reaction type": "arylation"
+        },
+        {
+            "text": "Furthermore, the regioselective arylation of unsymmetrical diaryl sulfoxides is feasible through the electronic or steric bias of diaryl groups (Scheme 3). The arylation of largely electronically biased methoxyphenyl 4-(trifluoromethyl)phenyl sulfoxide with (6-methoxynaphthalen-2-yl)boronic acid proceeded mainly at the side of electron-poor (trifluoromethyl)phenyl with a 70% yield of 44. Similarly, in the reaction of the less electronically biased phenyl 4-cyanophenyl sulfoxide with (6-methoxynaphthalen-2-yl)boronic acid, 45 was obtained in 68% yield with excellent selectivity (selectivity rate: over 115/1). The good regioselectivity of arylation can be achieved through the Suzuki reaction compared to that of the Negishi reaction of an unsymmetrical diaryl sulfoxide.",
+            "product": "45",
+            "reactants": "(6-methoxynaphthalen-2-yl)boronic acid, phenyl 4-cyanophenyl sulfoxide",
+            "yield": "68%"
+        },
+        {
+            "text": "As expected, phenyl iodide and bromide showed high reactivity, whereas the reactivity of phenyl chloride was low. Phenyl fluoride, nitrobenzene, and diphenylsulfone were not effective in this system. Triphenylsulfonium chloride was less reactive, giving 3 in 22% yield. Surprisingly, the trace amount of 3 was detected in the reaction of tetraphenylphosphonium chloride, whereas 3% of 3 was achieved in the reaction of the less reactive triphenylphosphine oxide. The success of triphenylphosphine oxide as an electrophilic coupling partner has never been reported to the best of our knowledge.",
+            "product": "3",
+            "reactants": "Triphenylsulfonium chloride",
+            "yield": "22%"
+        },
+        {
+            "text": "The reaction starts with the oxidative addition of phenyl sulfoxide to the Pd(0) center via the cleavage of the C–S bond, which proceeds by way of the transition state TS1 and leads to the T-shaped Pd(II) intermediate IM2. This step has an energy barrier of 13.3 kcal/mol, and the optimized structure of which is shown in Figure 2.",
+            "product": "Pd(II) intermediate IM2",
+            "reactants": "Pd(0), phenyl sulfoxide",
+            "reaction type": "oxidative addition"
+        },
+        {
+            "text": "IM2 could be transformed to its isomer IM3 [SIPr-Pd(II)Ph(η2–OSPh)], which is more stable than the active catalyst IM1 by 2.6 kcal/mol.",
+            "product": "IM3 [SIPr-Pd(II)Ph(2–OSPh)]",
+            "reactants": "IM2"
+        },
+        {
+            "text": "Next, in the presence of arylboronic acid, transmetalation of IM3 takes place via adduct IM4 and transition state TS2 (19.7 kcal/mol). Alternatively, IM3 can undergo substitution of PhSO–  by t-BuO– to form complex IM5, which is exergonic by 5.0 kcal/mol. Afterward, the transmetalation of IM5 occurs via adduct IM6 and TS3 (12.1 kcal/mol), affording the Pd(II) complex IM7 and releasing t-BuOB(OH)2.",
+            "product": "IM5",
+            "reactants": "IM3",
+            "reaction type": "substitution"
+        },
+        {
+            "text": "Next, in the presence of arylboronic acid, transmetalation of IM3 takes place via adduct IM4 and transition state TS2 (19.7 kcal/mol). Alternatively, IM3 can undergo substitution of PhSO–  by t-BuO– to form complex IM5, which is exergonic by 5.0 kcal/mol. Afterward, the transmetalation of IM5 occurs via adduct IM6 and TS3 (12.1 kcal/mol), affording the Pd(II) complex IM7 and releasing t-BuOB(OH)2.",
+            "product": "IM7",
+            "reactants": "IM5",
+            "reaction type": "transmetalation"
+        },
+        {
+            "text": "Next, in the presence of arylboronic acid, transmetalation of IM3 takes place via adduct IM4 and transition state TS2 (19.7 kcal/mol). Alternatively, IM3 can undergo substitution of PhSO–  by t-BuO– to form complex IM5, which is exergonic by 5.0 kcal/mol. Afterward, the transmetalation of IM5 occurs via adduct IM6 and TS3 (12.1 kcal/mol), affording the Pd(II) complex IM7 and releasing t-BuOB(OH)2.",
+            "product": "t-BuOB(OH)2",
+            "reactants": "IM7",
+            "reaction type": "transmetalation"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Sublimation-Induced Sulfur Vacancies in MoS2 Catalyst for One-Pot Synthesis of Secondary Amines",
+    "id": "cs9b01429",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "The hydrothermal process for synthesizing MoS2 is based on a previous report. Typically, (NH4)6Mo7O24·4H2O (0.9 g) was dissolved in deionized water (20 mL) in a small beaker (50 mL) and transferred into a 100 mL autoclave (stainless steel). Then, carbon disulfide (10 mL) was introduced into the solution. The autoclave was sealed and heated at 400 °C for 4 h in a muffle furnace. The resulting product was filtered, washed several times with deionized water, and finally freeze-dried for 12 h.",
+            "product": "MoS2",
+            "reactants": "(NH4)6Mo7O244H2O, carbon disulfide",
+            "temperature": "400 °C",
+            "time": "4 h",
+            "reaction type": "hydrothermal",
+            "solvent": "deionized water"
+        },
+        {
+            "text": "The product was named as CAT. CAT (0.5 g) was then further calcined at 450 °C for 1 h in nitrogen atmosphere (40 mL/min) in a tube furnace, and the sample was named as CAT-450. If CAT-450 is exposed to air for a few days, the catalytic activity will decrease dramatically. The deactivated CAT-450 is named as CAT-450-D. Sodium molybdate was used instead of ammonium molybdate to synthesize the references. The corresponding references were named as CAT-Na and CAT-Na-450.",
+            "product": "CAT-Na",
+            "reactants": "Sodium molybdate"
+        },
+        {
+            "text": "The product was named as CAT. CAT (0.5 g) was then further calcined at 450 °C for 1 h in nitrogen atmosphere (40 mL/min) in a tube furnace, and the sample was named as CAT-450. If CAT-450 is exposed to air for a few days, the catalytic activity will decrease dramatically. The deactivated CAT-450 is named as CAT-450-D. Sodium molybdate was used instead of ammonium molybdate to synthesize the references. The corresponding references were named as CAT-Na and CAT-Na-450.",
+            "product": "CAT-Na-450",
+            "reactants": "CAT",
+            "temperature": "450 °C",
+            "time": "1 h",
+            "reaction type": "calcined"
+        },
+        {
+            "text": "The catalytic hydrogenation of nitrobenzene to aniline over hydrothermal synthesized CAT catalyst has been evaluated in the presence of 2 MPa H2 (Table S1). At 120 °C, 38% yield of aniline can be achieved in 1 h. Extending the reaction time to 4 h, the yield of aniline reached 98%.",
+            "product": "aniline",
+            "reactants": "nitrobenzene",
+            "yield": "38%, 98%",
+            "temperature": "120 °C",
+            "time": "1 h",
+            "reaction type": "catalytic hydrogenation",
+            "catalyst": "hydrothermal synthesized CAT"
+        },
+        {
+            "text": "In addition, a small amount of 2-phenylquinoline and its hydrogenated product 2-phenyl-1,2,3,4-tetrahydroquinoline were detected as side products, which is due to the reaction of ethanol solvent with the reaction substrates and further hydrogenation. To produce more defects in the MoS2, we tried to anneal the CAT catalyst at above 450 °C (the sublimation temperature of MoS2) and used the treated catalysts for the reaction. Under the same reaction conditions, CAT-450 presented 100% conversion of nitrobenzene and 73.2% selectivity to N-benzyl aniline (Table 1, entry 2). Further extending reaction times to 5 h, the selectivity to N-benzyl aniline reached 85.2% (Table 1, entry 3), suggesting that the thermal treatment has a positive influence on the yield of secondary amine product. To further confirm the effectiveness of thermal sublimation, we used sodium molybdate as the precursor and obtained another kind of CAT-Na using the same hydrothermal synthesis procedure.",
+            "product": "2-phenyl-1,2,3,4-tetrahydroquinoline",
+            "reactants": "2-phenylquinoline",
+            "reaction type": "hydrogenation",
+            "solvent": "ethanol"
+        },
+        {
+            "text": "To confirm this conclusion, control experiments starting with intermediate imine have been performed. With CAT-450 as the catalyst, 0.5 mmol of N-benzylideneaniline can be smoothly converted into N-benzyl aniline under 2 MPa H2 at 120 °C only in 0.5 h.",
+            "product": "N-benzyl aniline",
+            "reactants": "N-benzylideneaniline",
+            "temperature": "120 °C",
+            "time": "0.5 h",
+            "catalyst": "CAT-450"
+        }
+    ]
+}

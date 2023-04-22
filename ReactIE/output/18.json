@@ -1,0 +1,44 @@
+{
+    "title": "Design, Synthesis, and Evaluation of Orally Bioavailable Quinoline–Indole Derivatives as Innovative Multitarget-Directed Ligands: Promotion of Cell Proliferation in the Adult Murine Hippocampus for the Treatment of Alzheimer’s Disease",
+    "id": "jm7b01417",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The synthesis of the target compounds 9a, 9d, and 10d is described in Scheme 2. Compounds 2d and 2e, which were prepared according to a previous method, were reacted with chloro(methoxy)methane to give 2f and 2g. The subsequent reactions of 2f and 2g with o-nitrobenzaldehyde or its analogs in the presence of NaH gave 3i, 3j, and 4j, respectively.",
+            "product": "2f",
+            "reactants": "chloro(methoxy)methane, 2d"
+        },
+        {
+            "text": "The synthesis of the target compounds 9a, 9d, and 10d is described in Scheme 2. Compounds 2d and 2e, which were prepared according to a previous method, were reacted with chloro(methoxy)methane to give 2f and 2g. The subsequent reactions of 2f and 2g with o-nitrobenzaldehyde or its analogs in the presence of NaH gave 3i, 3j, and 4j, respectively.",
+            "product": "2g",
+            "reactants": "chloro(methoxy)methane, 2e"
+        },
+        {
+            "text": "The synthesis of the target compounds 9a, 9d, and 10d is described in Scheme 2. Compounds 2d and 2e, which were prepared according to a previous method, were reacted with chloro(methoxy)methane to give 2f and 2g. The subsequent reactions of 2f and 2g with o-nitrobenzaldehyde or its analogs in the presence of NaH gave 3i, 3j, and 4j, respectively.",
+            "product": "3i, 3j",
+            "reactants": "2f, o-nitrobenzaldehyde, NaH"
+        },
+        {
+            "text": "The synthesis of the target compounds 9a, 9d, and 10d is described in Scheme 2. Compounds 2d and 2e, which were prepared according to a previous method, were reacted with chloro(methoxy)methane to give 2f and 2g. The subsequent reactions of 2f and 2g with o-nitrobenzaldehyde or its analogs in the presence of NaH gave 3i, 3j, and 4j, respectively.",
+            "product": "4j",
+            "reactants": "o-nitrobenzaldehyde, NaH, 2g"
+        },
+        {
+            "text": "Finally, target compounds 9a, 9d, and 10d were produced by reductive cyclization of the o-nitrostyrene intermediate (3i, 3j, or 4j) with CO, followed by deprotection of the methoxymethane groups under acidic conditions.",
+            "product": "9a, 9d, 10d",
+            "reactants": "o-nitrostyrene intermediate (3i, CO, 3j, 4j",
+            "reaction type": "reductive cyclization"
+        },
+        {
+            "text": "The tested compound and fluorescein (FL) stock solution were diluted with 75 mM phosphate buffer (pH 7.4) to 10 μM (or 20 μM) and 0.117 μM, respectively. The solution of (±)-6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid (Trolox) was diluted with the same buffer to 100, 80, 60, 50, 40, 20, and 10 μM. The solution of 2,2′-azobis(amidinopropane) dihydrochloride (AAPH) was prepared by dissolving 108.4 mg of AAPH in 10 mL of 75 mM phosphate buffer (pH 7.4) to a final concentration of 40",
+            "product": "2,2′-azobis(amidinopropane) dihydrochloride",
+            "reactants": "AAPH",
+            "yield": "40"
+        },
+        {
+            "text": "The tested compound and fluorescein (FL) stock solution were diluted with 75 mM phosphate buffer (pH 7.4) to 10 μM (or 20 μM) and 0.117 μM, respectively. The solution of (±)-6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid (Trolox) was diluted with the same buffer to 100, 80, 60, 50, 40, 20, and 10 μM. The solution of 2,2′-azobis(amidinopropane) dihydrochloride (AAPH) was prepared by dissolving 108.4 mg of AAPH in 10 mL of 75 mM phosphate buffer (pH 7.4) to a final concentration of 40",
+            "product": "AAPH",
+            "reactants": "AAPH"
+        }
+    ]
+}

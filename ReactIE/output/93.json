@@ -1,0 +1,27 @@
+{
+    "title": "A High-Affinity Peptide Ligand Targeting Syntenin Inhibits Glioblastoma",
+    "id": "jm0c00382",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "Gratifyingly, by combining a tert-butyl glycine (Tle) at position −3 with a cyclohexyl glycine (Chg) at position −2, providing SHW(Tle)(Chg)DI (KSL-128018), a significant synergistic affinity effect was achieved. Peptide KSL-128018 had a 50-fold increase in affinity corresponding to a Ki value of 40 nM (Figure 2D and Table S1). The Kd value of the 5,6-carboxytetramethylrhodamine (TAMRA)-labeled KSL-128018 peptide to syntenin PDZ1-2 was determined to be 30 nM (Table S1). This is, to the best of our knowledge, the most potent monomeric inhibitor reported for any PDZ domain.",
+            "product": "KSL-128018, SHW(Tle)(Chg)DI",
+            "reactants": "tert-butyl glycine,Tle, cyclohexyl glycine,Chg"
+        },
+        {
+            "text": "Depsipeptide Ile0ι was manually synthesized using the Fmoc-based SPPS strategy by swelling 0.1 mmol 2-chlorotrityl chloride resin in dry DCM for 1 h, followed by the addition of 4 equiv (2S,3R)-2-hydroxy-3-methylpentanoic acid and 8 equiv DIPEA in dry DCM. The reaction was allowed to proceed for 1 h at room temperature, and the resin was subsequently washed with DCM and DMF. The reaction was repeated twice.",
+            "product": "Ile0",
+            "reactants": "DIPEA, 2-chlorotrityl chloride, (2S,3R)-2-hydroxy-3-methylpentanoic acid",
+            "temperature": "room",
+            "time": "1 h",
+            "solvent": "DCM"
+        },
+        {
+            "text": "Depsipeptide His-5η was synthesized as described above, except that the coupling of (S)-3-(1-((benzyloxy)methyl)-1H-imidazol-5-yl)-2-hydroxypropanoic acid was achieved by the addition of 3.8 equiv DIPEA, 4 equiv HOBt, and 4 equiv PyBOP for 1 h. The ester bond was formed by repeating the coupling of the subsequent α-amino acid four times.",
+            "product": "His-5",
+            "reactants": "HOBt, PyBOP, DIPEA, (S)-3-(1-((benzyloxy)methyl)-1H-imidazol-5-yl)-2-hydroxypropanoic acid",
+            "time": "1 h",
+            "reaction type": "coupling"
+        }
+    ]
+}

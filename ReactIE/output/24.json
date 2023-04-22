@@ -1,0 +1,106 @@
+{
+    "title": "Cr(II) and Cr(I) PCP Pincer Complexes: Synthesis, Structure, and Catalytic Reactivity",
+    "id": "om9b00651",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "When a suspension of [Cr(CO)6] and PO(C-Br)OP-tBu (1a) in toluene was placed in a sealed microwave glass vial and stirred for 3 h at 180 °C, after workup, the analytically pure 12e complex [Cr(POCOP-tBu)(Br)] (2a) was obtained in 76% isolated yield (Scheme 1).",
+            "product": "[Cr(POCOP-tBu)(Br)], (2a)",
+            "reactants": "PO(C-Br)OP-tBu, [Cr(CO)6], (1a)",
+            "yield": "76%",
+            "temperature": "180 °C",
+            "time": "3 h",
+            "solvent": "toluene"
+        },
+        {
+            "text": "In sharp contrast, with PO(C-Br)OP-iPr (1b), after recrystallization from THF, the dibromo Cr(III) complex trans-[Cr(POCOP-iPr)(Br)2(THF)] (2b) was formed in 36% isolated yield (Scheme 1) together with intractable materials. Changing the stoichiometry by adding 2 equiv of ligand 1b did not change the outcome of the reaction. This complex exhibits a solution magnetic moment of μeff = 4.0(1) μB (CH2Cl2, Evans method) consistent with three unpaired electrons as expected for a d3 configuration.",
+            "product": "trans-[Cr(POCOP-iPr)(Br)2(THF)], (2b)",
+            "reactants": "(1b), PO(C-Br)OP-iPr",
+            "yield": "36%"
+        },
+        {
+            "text": "Treatment of 2a with 2 equiv of LiBH4 in THF for 24 h afforded the borohydride complex [Cr(POCOP-tBu)(κ2-BH4)] (3) in 86% yield as an orange solid (Scheme 2). On the basis of EPR (see the Supporting Information) and solution magnetic susceptibility measurements (CH2Cl2, Evans method), 3 is also a d4 high-spin complex with a solution effective magnetic moment of 4.9(1) μB. The κ2 coordination mode of the BH4– ligand was first established by IR spectroscopy. Attenuated total reflectance IR spectra of the solid samples of 3 exhibit strong bands at 2407 and 2068 cm–1, which are attributed to the terminal and bridging hydrogen–boron stretches νB–Ht and νB–Hb, respectively.",
+            "product": "(3), [Cr(POCOP-tBu)(2-BH4)]",
+            "reactants": "2a, LiBH4",
+            "yield": "86%",
+            "time": "24 h",
+            "solvent": "THF"
+        },
+        {
+            "text": "Nitrosylation of complex 3 with nitric oxide at ambient pressure afforded the five-coordinate Cr(I) complex [Cr(POCOP-tBu)(NO)(κ2-BH4)] (4) in 88% isolated yield (Scheme 2).",
+            "product": "[Cr(POCOP-tBu)(NO)(2-BH4)] (4)",
+            "reactants": "nitric oxide, 3",
+            "yield": "88%",
+            "temperature": "ambient",
+            "reaction type": "Nitrosylation"
+        },
+        {
+            "text": "Exposure of a toluene solution of 2 to NO (1 bar) at room temperature affords [Cr(POCOP-tBu)(NO)(Br)] (5) in 95% isolated yield (Scheme 3). This reaction again can be viewed as a formal one-electron reduction of the metal center by the NO radical from Cr(II) to Cr(I). EPR studies (see the Supporting Information) and solution magnetic susceptibility measurements (CH2Cl2, Evans method) clearly show that this compound is a low-spin complex. The solution effective magnetic moment of 1.8(1) μB is in agreement with a low-spin d5 center (one unpaired electron). Complex 5 exhibits a strong band at 1654 cm–1 in the IR spectrum assignable to the NO frequency. In the X-band EPR spectrum, recorded in CH2Cl2 at 298 K, this compound displays an isotropic multiplet at giso = 1.9963 with a well-resolved hyperfine coupling to the nitrogen and phosphorus atoms (AN = 5.5 G and AP = 26.9 G) and again is consistent with low-spin Cr(I)",
+            "product": "[Cr(POCOP-tBu)(NO)(Br)] (5)",
+            "reactants": "NO, 2",
+            "yield": "95%",
+            "temperature": "room",
+            "reaction type": "one-electron reduction",
+            "solvent": "toluene"
+        },
+        {
+            "text": "When 5 was reacted with 2 equiv of LiBH4 in THF for 24 h, the borohydride complex [Cr(POCOP-tBu)(NO)(κ2-BH4)] (4) was obtained in 91% isolated yield (Scheme 3).",
+            "product": "[Cr(POCOP-tBu)(NO)(2-BH4)], (4)",
+            "reactants": "5, LiBH4",
+            "yield": "91%",
+            "time": "24 h",
+            "solvent": "THF"
+        },
+        {
+            "text": "The reaction proceeds along the spin sextet potential energy surface, starting with B, the pair of reactants of 3, and NO (NO being a doublet) producing complex C via transition state TSBC. In this transition state the new Cr–N bond is only incipient with a distance of 3.01 Å, which is still far away from the coordination distance of 2.21 Å in C. The energy barrier is 19 kcal/mol (from the separated reactants, A).",
+            "product": "C",
+            "reactants": "NO, B, 3"
+        },
+        {
+            "text": "Treatment of 2a with 1 equiv of Li[CH2SiMe3] in toluene for 4 h afforded the alkyl complex [Cr(POCOP-tBu)(CH2SiMe3)] (6) in 57% isolated yield as a red solid (Scheme 4). Solution magnetic susceptibility measurements (C6H6, Evans method) clearly show that this complex is a d4 high-spin complex with an effective magnetic moment of 4.8(1) μB. A structural view of 6 is shown in Figure 9 with selected bond distances and angles reported in the caption. The coordination geometry around the chromium center is best described by a slightly distorted square planar arrangement.",
+            "product": "[Cr(POCOP-tBu)(CH2SiMe3)] (6)",
+            "reactants": "2a, Li[CH2SiMe3]",
+            "yield": "57%",
+            "time": "4 h",
+            "solvent": "toluene"
+        },
+        {
+            "text": "The preparation and reactivity of the Cr(II) PCP complex [Cr(POCOP-tBu)Br] (2a) via a solvothermal reaction of [Cr(CO)6] with the ligand precursor PO(C-Br)OP-tBu (1a) is described. In contrast, with PO(C-Br)OP-iPr (1b) the dibromo Cr(III) complex trans-[Cr(POCOP-iPr)(Br)2(THF)] (2b) was formed, after recrystallization from THF. Treatment of 2a with LiBH4 in THF for 24 h afforded the borohydride complex",
+            "product": "[Cr(POCOP-tBu)Br] (a)",
+            "reactants": "PO(C-Br)OP-tBu (1a), [Cr(CO)6]",
+            "reaction type": "solvothermal"
+        },
+        {
+            "text": "The preparation and reactivity of the Cr(II) PCP complex [Cr(POCOP-tBu)Br] (2a) via a solvothermal reaction of [Cr(CO)6] with the ligand precursor PO(C-Br)OP-tBu (1a) is described. In contrast, with PO(C-Br)OP-iPr (1b) the dibromo Cr(III) complex trans-[Cr(POCOP-iPr)(Br)2(THF)] (2b) was formed, after recrystallization from THF. Treatment of 2a with LiBH4 in THF for 24 h afforded the borohydride complex",
+            "product": "trans-[Cr(POCOP-iPr)(Br)2(THF)]",
+            "reactants": "(1b), PO(C-Br)OP-iPr"
+        },
+        {
+            "text": "The preparation and reactivity of the Cr(II) PCP complex [Cr(POCOP-tBu)Br] (2a) via a solvothermal reaction of [Cr(CO)6] with the ligand precursor PO(C-Br)OP-tBu (1a) is described. In contrast, with PO(C-Br)OP-iPr (1b) the dibromo Cr(III) complex trans-[Cr(POCOP-iPr)(Br)2(THF)] (2b) was formed, after recrystallization from THF. Treatment of 2a with LiBH4 in THF for 24 h afforded the borohydride complex",
+            "product": "(2b)",
+            "reactants": "PO(C-Br)OP-iPr (1b)"
+        },
+        {
+            "text": "[Cr(POCOP-tBu)(κ2-BH4)] (3). Exposure of a toluene solution of 3 to NO gas (1 bar) at room temperature gave the Cr(I) complex [Cr(POCOP-tBu)(NO)(κ2-BH4)] (4). Alternatively, 4 was also obtained by reacting [Cr(POCOP-tBu)(NO)(Br)] (5) with LiBH4.",
+            "product": "[Cr(POCOP-tBu)(NO)(2-BH4)], (4)",
+            "reactants": "NO, 3",
+            "temperature": "room",
+            "solvent": "toluene"
+        },
+        {
+            "text": "On the basis of magnetic and EPR measurements as well as DFT calculations, compounds 4 and 5 were found to adopt a low-spin d5 configuration and feature a nearly linearly bound NO ligand, suggesting CrINO+ rather than CrIINO• character. Reacting 2a with 1 eqauiv of Li[CH2SiMe3] in toluene afforded the square-planar alkyl complex [Cr(POCOP-tBu)(CH2SiMe3)] (6) in 57% yield. This compound is catalytically active for the hydrosilylation of ketones with (MeO)3SiH at room temperature with a catalyst loading of as low as 0.5 mol %.",
+            "product": "[Cr(POCOP-tBu)(CH2SiMe3)] (6)",
+            "reactants": "2a, Li[CH2SiMe3]",
+            "yield": "57%",
+            "solvent": "toluene"
+        },
+        {
+            "text": "Nitric oxide was bubbled into a solution of 3 (20 mg, 0.043 mmol) in toluene (3 mL) for ca. 0.5 min, and the mixture was stirred for 20 min. All volatiles were removed under reduced pressure, yielding 19 mg (88%) of 4 as a brown solid. Anal.",
+            "product": "4",
+            "reactants": "Nitric oxide, 3",
+            "yield": "88%)",
+            "time": "0.5 min, 20 min",
+            "solvent": "toluene"
+        }
+    ]
+}

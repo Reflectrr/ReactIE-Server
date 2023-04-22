@@ -1,0 +1,49 @@
+{
+    "title": "Tuning the Latent Behavior of Molybdenum Imido Alkylidene N‑Heterocyclic Carbene Complexes in Dicyclopentadiene Polymerization",
+    "id": "om0c00740",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "Scheme 1 displays the route to the latent precatalysts LC-1–LC-6. With the exception of α-asarone, all other para-substituted 2-methoxystyrenes necessary for the synthesis of LC-1–LC-4 were not commercially available and had to be synthesized via the etherification of the corresponding salicylaldehyde and a consecutive Wittig-reaction to furnish the corresponding 4-Cl, 4-F and O–CF3 substituted 2-methoxystyrenes (Scheme S1 in the Supporting Information). These were then reacted with Mo(N-3,5-Me2-C6H3)(CHCMe2Ph)(IMes)(OTf)2 to yield LC-1–LC-4.",
+            "product": "LC-1–LC-4",
+            "reactants": "Mo(N-3,5-Me2-C6H3)(CHCMe2Ph)(IMes)(OTf)2"
+        },
+        {
+            "text": "Next, 2-vinylpyridine-derived Mo-alkylidenes were prepared, since the inherent strain in the four-membered N-chelate ring was expected to render chelation more labile at elevated temperature. Molybdenum imido alkylidene NHC complexes based on the 2,6-dimethylphenylimido, 3,5-dimethylphenylimido, 2,6-difluorophenylimido, and 2-(trifluoromethyl)phenylimido ligands were treated with 2 equiv of 2-vinylpyridine to yield Mo(N-2,6-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-7), Mo(N-3,5-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-8), Mo(N-2,6-F2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-9), and Mo(N-2-CF3–C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-10), respectively, in 55–69% isolated yields (Scheme 2).",
+            "product": "Mo(N-3,5-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2, Mo(N-2,6-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2",
+            "reactants": "2,6-difluorophenylimido, 2-(trifluoromethyl)phenylimido, 2,6-dimethylphenylimido, 3,5-dimethylphenylimido"
+        },
+        {
+            "text": "Next, 2-vinylpyridine-derived Mo-alkylidenes were prepared, since the inherent strain in the four-membered N-chelate ring was expected to render chelation more labile at elevated temperature. Molybdenum imido alkylidene NHC complexes based on the 2,6-dimethylphenylimido, 3,5-dimethylphenylimido, 2,6-difluorophenylimido, and 2-(trifluoromethyl)phenylimido ligands were treated with 2 equiv of 2-vinylpyridine to yield Mo(N-2,6-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-7), Mo(N-3,5-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-8), Mo(N-2,6-F2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-9), and Mo(N-2-CF3–C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-10), respectively, in 55–69% isolated yields (Scheme 2).",
+            "product": "LC-7",
+            "reactants": "2,6-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2"
+        },
+        {
+            "text": "Next, 2-vinylpyridine-derived Mo-alkylidenes were prepared, since the inherent strain in the four-membered N-chelate ring was expected to render chelation more labile at elevated temperature. Molybdenum imido alkylidene NHC complexes based on the 2,6-dimethylphenylimido, 3,5-dimethylphenylimido, 2,6-difluorophenylimido, and 2-(trifluoromethyl)phenylimido ligands were treated with 2 equiv of 2-vinylpyridine to yield Mo(N-2,6-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-7), Mo(N-3,5-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-8), Mo(N-2,6-F2-C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-9), and Mo(N-2-CF3–C6H3)(CHC5H4N)(IMes)(OTf)2 (LC-10), respectively, in 55–69% isolated yields (Scheme 2).",
+            "product": "LC-8",
+            "reactants": "2,5-Me2-C6H3)(CHC5H4N)(IMes)(OTf)2"
+        },
+        {
+            "text": "For these purposes, Mo(N-3,5-Me2-C6H3)(CHCMe2Ph)(IMes)(OTf)2 was treated with 2 equiv of 2-vinyl-N,N-dimethylaniline in CH2Cl2 to obtain Mo(N-3,5-Me2-C6H3)(CH-2-NMe2-C6H4)(IMes)(OTf)2 (LC-11) as a light orange solid in 78% isolated yield (Scheme 2).",
+            "product": "Mo(N-3,5-Me2-C6H3)(CH-2-NMe2-C6H4)(IMes)(OTf)2, LC-11",
+            "reactants": "2-vinyl-N,N-dimethylaniline, Mo(N-3,5-Me2-C6H3)(CHCMe2Ph)(IMes)(OTf)2",
+            "yield": "78%",
+            "solvent": "CH2Cl2"
+        },
+        {
+            "text": "Mo(N-2,6-Me2-C6H3)(CHCMe2Ph)(IMes)(OTf)2 was reacted with 1 equiv of the corresponding lithium aryloxide to yield Mo(N-2,6-Me2-C6H3)(CHCPhMe2)(IMes)(OC6H5)(OTf), (LC-12), Mo(N-2,6-Me2-C6H3)(CHCPhMe2)(IMes)(O-2-Cl-C6H4)(OTf), (LC-13), and Mo(N-2,6-Me2-C6H3)(CHCPhMe2)(IMes)(OC6F5)(OTf) (LC-14) as well as Mo(N-2,6-Me2-C6H3)(CH-2-iPrO-C6H4)(IMes)(OC6H5)(OTf), (LC-15) and Mo(N-2,6-Me2-C6H3)(CHC5H4N)(IMes)(O-2-Cl-C6H4)(OTf) (LC-16) (Scheme 3).",
+            "product": "Mo(N-2,6-Me2-C6H3)(CHCPhMe2)(IMes)(OC6H5)(OTf), (LC-12), (LC-13), Mo(N-2,6-Me2-C6H3)(CHCPhMe2)(IMes)(OC6F5)(OTf), (LC-15), Mo(N-2, Mo(N-2,6-Me2-C6H3)(CHCPhMe2)(IMes)(O-2-Cl-C6H4)(OTf)",
+            "reactants": "Mo(N-2,6-Me2-C6H3)(CHCMe2Ph)(IMes)(OTf)2, lithium aryloxide"
+        },
+        {
+            "text": "In an attempt to synthesize the hexacoordinate N-chelated alkylidene complexes (LC-16), LC-13 was reacted with 2-vinylpyridine. To our surprise, formation of one of the very rare examples of a Mo(IV) olefin complex (MOC1) was observed (Scheme 3) along with the formation of the target complex LC-16. Although, the crystal structure of LC-16 could not be determined, the JC–H coupling constant of 160.6 Hz indicates that an anti-alkylidene with N-chelation is present. MOC1 crystallizes in the triclinic space group P1̅, with a = 1025.46(6) pm, b = 1951.56(15) pm, c = 2372.1(2) pm; α = 72.382(6), β = 79.241(6)°, γ = 75.826(5)°, and Z = 4 (Figure 6).",
+            "product": "Mo(IV) olefin complex, LC-16",
+            "reactants": "LC-13, 2-vinylpyridine"
+        },
+        {
+            "text": "The low swelling propensity of poly(DCPD) prepared by the action of LC-8–LC-10, which was in the rage of 5–15%, suggests a high degree of cross-linking. For LC-7, along with the exotherm, we observed an endothermic peak at 200 °C as well (Figure 8), which is attributable to the evaporation of unreacted monomer and which suggests that a higher catalyst loading is needed. In line with a stronger binding of the pyridine moiety by the electron-deficient Mo center, precatalysts LC-9 and LC-10 bearing imido ligands with electron-withdrawing groups showed higher respective Tonset (124 and 130 °C) and Texo,max (164 and 167 °C) values in comparison to LC-7 and LC-8.",
+            "product": "poly(DCPD)",
+            "reactants": "LC-10, LC-8"
+        }
+    ]
+}

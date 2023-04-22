@@ -1,0 +1,24 @@
+{
+    "title": "Inhibition of the Oxygen-Sensing Asparaginyl Hydroxylase Factor Inhibiting Hypoxia-Inducible Factor: A Potential Hypoxia Response Modulating Strategy",
+    "id": "jm1c00415",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The distal superoxide oxygen then attacks the C-2 carbonyl of 2OG, resulting in oxidative decarboxylation with formation of succinate, carbon dioxide (which likely efficiently leaves the active site), and a Fe(IV)O intermediate, the latter of which is likely the active oxidant. The ferryl species then stereospecifically abstracts a hydrogen atom from C-3 of HIF-α Asn803 to form a substrate radical and ferric hydroxide; a radical rebound process then gives the hydroxylated product and restores the Fe(II) state. The hydroxylated product and succinate are then released, and the FIH-Fe(II) complex can transition into a new catalytic cycle (Figure 3).",
+            "product": "succinate",
+            "reactants": "2OG",
+            "reaction type": "oxidative decarboxylation"
+        },
+        {
+            "text": "Examples of assays that have been applied to the discovery and development of FIH inhibitors are given in Figure 7. In one assay, inhibitors of FIH can be evaluated by a 2OG depletion-based method, in which postreaction derivatization of 2OG by O-phenylenediamine (OPD) (Figure 7B) gives a fluorescent product, 3-(2-carboxyethyl)-2(1H)-quinoxalinone, the formation of which can be monitored by the excitation at 340 nm and emission measured at 420 nm. The depletion of 2OG by FIH also can be detected by NMR or by monitoring conversion of 1-[14C]-2OG to [14C]-CO2 (Figure 7D).",
+            "product": "3-(2-carboxyethyl)-2(1H)-quinoxalinone",
+            "reactants": "OPD, O-phenylenediamine, 2OG",
+            "reaction type": "postreaction derivatization"
+        },
+        {
+            "text": "Examples of assays that have been applied to the discovery and development of FIH inhibitors are given in Figure 7. In one assay, inhibitors of FIH can be evaluated by a 2OG depletion-based method, in which postreaction derivatization of 2OG by O-phenylenediamine (OPD) (Figure 7B) gives a fluorescent product, 3-(2-carboxyethyl)-2(1H)-quinoxalinone, the formation of which can be monitored by the excitation at 340 nm and emission measured at 420 nm. The depletion of 2OG by FIH also can be detected by NMR or by monitoring conversion of 1-[14C]-2OG to [14C]-CO2 (Figure 7D).",
+            "product": "[14C]-CO2",
+            "reactants": "1-[14C]-2OG"
+        }
+    ]
+}

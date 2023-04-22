@@ -1,0 +1,140 @@
+{
+    "title": "Bruce Gates: A Career in Catalysis",
+    "id": "cs0c03568",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "Subsequently, Lamb and Gates demonstrated the formation of anionic Os4 and Os10 carbonyl clusters on MgO from a mononuclear precursor under catalytic CO hydrogenation conditions. The weakly acidic hydrido carbonyl complex H2Os(CO)4 chemisorbed on MgO to form [HOs(CO)4]−. IR spectroscopy and solid-state 13C NMR suggested that the anion interacted strongly with {Mg2+} via a μ2-η2 CO ligand. Extraction of surface-bound anions using [N(PPh3)2]Cl/CH2Cl2 yielded [N(PPh3)2][HOs3(CO)11] consistent with the redox condensation chemistry in solution: [H3Os4(CO)12]− and [Os10C(CO)24]2– were formed on the MgO surface during CO hydrogenation catalysis at 548 K and 10 atm (3:1 H2:CO) for >18 h; these were the only Os species detected on the used catalyst. The products of the catalytic reaction were C1–C4 hydrocarbons as observed previously for catalysts derived from Os3(CO)12 on MgO. That these specific Os carbonyl clusters were formed from [HOs(CO)4]− via redox condensation under reaction conditions is consistent with their solution chemistry. Thus, Gates’s research showed that strong basicity and a CO + H2 atmosphere were keys to stabilizing molecular Os carbonyl clusters on a metal oxide support under high-temperature reaction conditions. The [H3Os4(CO)12]− /MgO was implicated in the catalysis, and [Os10C(CO)24]2–/MgO was thought to be associated with catalyst deactivation.",
+            "product": "[HOs(CO)4,]. [N(PPh3)2][HOs3(CO)11]",
+            "reactants": "[N(PPh3)2]Cl/CH2Cl2",
+            "reaction type": "Extraction"
+        },
+        {
+            "text": "Reductive carbonylation of H2OsCl6 on MgO in syngas (1:1 H2:CO) at 548 K and 0.1 MPa resulted in the ultrastable carbido carbonyl cluster [Os10C(CO)24]2–. Reductive carbonylation of RuCl3 on MgO under 1:1 H2:CO at 498 K and 1.0 MPa yielded [ Ru6C(CO)16]2–. The surface-mediated syntheses were followed by IR, and mononuclear carbonyl intermediates were observed.",
+            "product": "[Os10C(CO)24]2–",
+            "reactants": "H2OsCl6",
+            "temperature": "548 K",
+            "reaction type": "Reductive carbonylation"
+        },
+        {
+            "text": "Reductive carbonylation of H2OsCl6 on MgO in syngas (1:1 H2:CO) at 548 K and 0.1 MPa resulted in the ultrastable carbido carbonyl cluster [Os10C(CO)24]2–. Reductive carbonylation of RuCl3 on MgO under 1:1 H2:CO at 498 K and 1.0 MPa yielded [ Ru6C(CO)16]2–. The surface-mediated syntheses were followed by IR, and mononuclear carbonyl intermediates were observed.",
+            "product": "[ Ru6C(CO)16]2–",
+            "reactants": "RuCl3",
+            "temperature": "498 K",
+            "reaction type": "Reductive carbonylation"
+        },
+        {
+            "text": "For instance, Rh(CO)2 complexes were synthesized on dealuminated zeolite Y by reacting Rh(CO)2(acac) with partially dehydroxylated Y. A significant advance resulted from use of a precursor with reactive π-bonded C2H4 ligands instead of the nonreactive carbonyl ligands. They reacted Rh(C2H4)2(acac) with highly dehydroxylated MgO and obtained surface-site-isolated Rh(C2H4)2 complexes, as evidenced by EXAFS and IR data. Because these Rh complexes already possessed reactive C2H4 ligands, they provided a direct entry into a catalytic cycle for C2H4 conversion and offered an opportunity for facile conversion into other organic ligands.",
+            "product": "Rh(CO)2",
+            "reactants": "Y, Rh(CO)2(acac)"
+        },
+        {
+            "text": "For instance, Rh(CO)2 complexes were synthesized on dealuminated zeolite Y by reacting Rh(CO)2(acac) with partially dehydroxylated Y. A significant advance resulted from use of a precursor with reactive π-bonded C2H4 ligands instead of the nonreactive carbonyl ligands. They reacted Rh(C2H4)2(acac) with highly dehydroxylated MgO and obtained surface-site-isolated Rh(C2H4)2 complexes, as evidenced by EXAFS and IR data. Because these Rh complexes already possessed reactive C2H4 ligands, they provided a direct entry into a catalytic cycle for C2H4 conversion and offered an opportunity for facile conversion into other organic ligands.",
+            "product": "MgO",
+            "reactants": "Rh(C2H4)2(acac), MgO"
+        },
+        {
+            "text": "Typical oxide supports such as γ-Al2O3 and MgO contain various anchoring sites for metals, as demonstrated in work with Ir(C2H4)2 complexes prepared by the reaction of Ir(C2H4)2(acac) with MgO. Even when Ir(C2H4)2(acac) complexes are reacted with MgO at low Ir loading (0.5–1 wt %), the metal populates different sites, as discerned using aberration-corrected HAADF-STEM (Figure 11). Broad IR νCO bands were observed upon replacement of C2H4 ligands with CO. At a loading of 1 wt %, Ir complexes bond to the surface via two Ir–O bonds on average (EXAFS). But when the loading was lowered further to 0.1 and 0.01 wt %, the complexes preferentially populated edges and defect sites characterized by an Ir–O coordination number of 3. These tripod Ir(C2H4)2 complexes are more stable and resist aggregation in flowing H2 at 573 K, more so than those bonded through 2 Ir–O bonds on faces.",
+            "product": "Ir(C2H4)2",
+            "reactants": "Ir(C2H4)2(acac)"
+        },
+        {
+            "text": "For example, they found that ethene ligands in Ir(C2H4)2 complexes anchored in zeolite HY readily transform into ethyl ligands in the presence of H2, whereas isostructural complexes on MgO were stable and hindered the activation of H2. Rhodium dicarbonyl complexes anchored in zeolite HY readily transform into Rh(C2H4)(CO) in flowing C2H4, while the isostructural complexes on MgO do not.",
+            "product": "Rh(C2H4)(CO)",
+            "reactants": "Rhodium dicarbonyl complexes",
+            "solvent": "C2H4"
+        },
+        {
+            "text": "For example, they found that ethene ligands in Ir(C2H4)2 complexes anchored in zeolite HY readily transform into ethyl ligands in the presence of H2, whereas isostructural complexes on MgO were stable and hindered the activation of H2. Rhodium dicarbonyl complexes anchored in zeolite HY readily transform into Rh(C2H4)(CO) in flowing C2H4, while the isostructural complexes on MgO do not.",
+            "product": "in flowing C2H4)",
+            "reactants": "Rhodium dicarbonyl complexes, HY"
+        },
+        {
+            "text": "Supported Rh(C2H4)2 complexes were converted into Rh dimers via a stoichiometrically simple reaction in H2 (Figure 12, top). The presence of neighboring Rh atoms boosted the activation of H2, leading to a 60-fold enhancement in the hydrogenation rate of ethene (Figure 12, bottom). Selective poisoning of the dimers by CO resulted in high selectivity (100% selectivity at 97% conversion) for the partial hydrogenation of 1,3-butadiene to monoalkenes.",
+            "product": "Rh dimers",
+            "reactants": "Rh(C2H4)2",
+            "solvent": "H2"
+        },
+        {
+            "text": "The bridging lattice oxygen-Ti4+ bond is broken, an O– species is formed, leading to the reduction of Ti4+–OH to Ti3+–OH. When the Re precursor reacts with the TiO2, it donates a proton to a Ti3+ site, and the proton interacts with Ti4+–O–, forming an OH group. When the loading of the Re precursor is low (0.1 wt %), all the Re is present at the Ti3+ defect sites, bonded to the surface at a short Re–O distance.",
+            "product": "Ti3+–OH",
+            "reactants": "Ti4+–OH",
+            "reaction type": "reduction"
+        },
+        {
+            "text": "These were synthesized either by adsorption of ligated molecular Ir clusters with tetrahedral (Ir4) and octahedral (Ir6) frameworks, or by the treatment of single-Ir atom complexes under controlled reductive conditions following chemistry similar to that in the solution phase, as summarized in Figure 13. The formation of these clusters from single-Ir atom complexes was characterized by EXAFS and IR. The data demonstrated that the formation of Ir4 clusters from Ir(C2H4)2 in zeolite Y cages during a temperature ramp (to 353 K in H2) occurs first through conversion of π-bonded C2H4 into ethyl ligands and a decrease in Ir–C coordination number from ∼4 to ∼2.",
+            "product": "Ir4",
+            "reactants": "Ir(C2H4)2",
+            "temperature": "353 K"
+        },
+        {
+            "text": "Recently, Gates and co-workers also demonstrated that Rh(CO)2 supported in zeolite HY converts to Rh4(CO)12 under conditions relevant to the water–gas shift reaction. The cluster formation results in the generation of CO2 and a zeolite proton, and the reverse reaction proceeds via the half-reaction that completes the cycle of the water gas shift.",
+            "product": "Rh4(CO)12",
+            "reactants": "Rh(CO)2",
+            "reaction type": "water–gas shift"
+        },
+        {
+            "text": "Rh6(CO)16 formed along with Rh4(CO)12, but only in low yield, although it is more stable than Rh4(CO)12. The formation of Rh6(CO)16 was hindered by trapping of Rh4(CO)12 in the supercages and by the low rate of transport of the mononuclear rhodium species. However, the presence of water in the feed limited the oxidative fragmentation of Rh4(CO)12 to supported Rh(CO)2 complexes by surface OH groups and instead formed Rh6(CO)16.",
+            "product": "Rh6(CO)16",
+            "reactants": "Rh(CO)2, Rh4(CO)12",
+            "yield": "low",
+            "reaction type": "oxidative fragmentation",
+            "solvent": "water",
+            "catalyst": "water"
+        },
+        {
+            "text": "Rh6(CO)16 formed along with Rh4(CO)12, but only in low yield, although it is more stable than Rh4(CO)12. The formation of Rh6(CO)16 was hindered by trapping of Rh4(CO)12 in the supercages and by the low rate of transport of the mononuclear rhodium species. However, the presence of water in the feed limited the oxidative fragmentation of Rh4(CO)12 to supported Rh(CO)2 complexes by surface OH groups and instead formed Rh6(CO)16.",
+            "product": "Rh4(CO)12",
+            "reactants": "Rh4(CO)12",
+            "yield": "low",
+            "reaction type": "oxidative fragmentation",
+            "solvent": "water",
+            "catalyst": "water"
+        },
+        {
+            "text": "Industrial sulfonated copolymer catalysts are used (e.g.) in the production of isopropyl alcohol from propylene and water, and the reaction of methanol with isobutylene to give methyl-t-butyl ether. In the film work, a semicrystalline polymeric film was used to support the −SO3H groups; it was prepared by γ-radiation grafting of styrene onto commercial polyethylene, followed by sulfonation of the styrene. The polymer lamellae (plate-like crystals) were 20–60 nm thick and several hundred nm in length and width (Figure 17).",
+            "product": "isopropyl alcohol",
+            "reactants": "propylene, water",
+            "catalyst": "sulfonated copolymer"
+        },
+        {
+            "text": "Industrial sulfonated copolymer catalysts are used (e.g.) in the production of isopropyl alcohol from propylene and water, and the reaction of methanol with isobutylene to give methyl-t-butyl ether. In the film work, a semicrystalline polymeric film was used to support the −SO3H groups; it was prepared by γ-radiation grafting of styrene onto commercial polyethylene, followed by sulfonation of the styrene. The polymer lamellae (plate-like crystals) were 20–60 nm thick and several hundred nm in length and width (Figure 17).",
+            "product": "methyl-t-butyl ether",
+            "reactants": "methanol, isobutylene"
+        },
+        {
+            "text": "n-Pentane and n-hexane were also used to characterize the reactivity of SZ and FMSZ. For n-pentane, SZ produced only traces of isopentane at 313 K. The selectivity data suggested a unimolecular isomerization and a bimolecular disproportionation reaction.",
+            "product": "isopentane",
+            "reactants": "n-pentane",
+            "yield": "traces",
+            "temperature": "313 K"
+        },
+        {
+            "text": "The product distribution for the zirconia catalysts was quite different from that of the zeolite. USY produced methane and butenes in a 1.5:1 ratio, but the zirconia catalysts produced about 97% methane and no measurable isobutene.",
+            "product": "methane",
+            "yield": "97%",
+            "catalyst": "zirconia"
+        },
+        {
+            "text": "The product distribution for the zirconia catalysts was quite different from that of the zeolite. USY produced methane and butenes in a 1.5:1 ratio, but the zirconia catalysts produced about 97% methane and no measurable isobutene.",
+            "product": "isobutene",
+            "yield": "no measurable",
+            "catalyst": "zirconia"
+        },
+        {
+            "text": "The kinetics data were consistent with a compensation effect. The data showed a clear difference between zirconia-based catalysts and zeolites, the former exhibiting chemistry consistent with superacidity. Methane, which cannot be dehydrogenated, reacts on FMSZ at 623–723 K to form ethane, which can be explained by several alternatives: (1) a minority of very strong acid sites are protonating the methane to form carbonium ions; (2) oxidative formation of carbonium ions; or (3) coupling on the oxide surface.",
+            "product": "ethane",
+            "reactants": "Methane",
+            "temperature": "623–723 K",
+            "catalyst": "FMSZ"
+        },
+        {
+            "text": "Tungsten on ZrO2 was reduced to W5+ by n-pentane at 523 K, with formation of C5 radicals. It was inferred that W6+ is a stoichiometric redox initiator on WZ catalysts, perhaps similar to sulfate on ZrO2 and that the C5 radicals react with the surface in a one-electron transfer that leads to a surface carbenium ion.",
+            "product": "C5, W5+",
+            "reactants": "n-pentane",
+            "temperature": "523 K",
+            "reaction type": "reduced",
+            "catalyst": "n-pentane"
+        }
+    ]
+}

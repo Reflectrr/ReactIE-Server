@@ -1,0 +1,87 @@
+{
+    "title": "Development of a Scalable Route for a Highly Polar Heterocyclic Aminocyclopropyl Building Block",
+    "id": "op0c00358",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "The preparation of 1 via Kulinkovich–Szymoniak from 2-cyanopyrimidine (2) and ethylmagnesium bromide has been described in a patent. Compound 1 was reported to be isolated via silica gel column chromatography (CC) in 30% yield on a 5 g scale. In addition, the synthesis of the 2-pyridine analogue of 1 also has recently been reported via a Kulinkovich–Szymoniak reaction using bis[2-(N,N-dimethylamino)ethyl]ether as a Grignard chelator. However, in our hands, the use of identical or similar conditions with 2-cyanopyrimidine (2) or N,N-dibenzylpyrimidine-2-carboxamide (3) and ethylmagnesium bromide in combination with Ti(OiPr)4 resulted in reaction mixtures with very low-purity profiles and dark aspects. More importantly, only traces of 1 (or N,N-dibenzylated 1) were generated.",
+            "product": "1",
+            "reactants": "(2), 2-cyanopyrimidine, ethylmagnesium bromide",
+            "yield": "30%",
+            "reaction type": "Kulinkovich–Szymoniak"
+        },
+        {
+            "text": "For initial screenings of the cyclopropanation step, commercially available 2-pyrimidineacetic acid ethyl ester 6 was used. It was found that the cyclopropanation worked well with a combination of 1,3,2-dioxathiolane-2,2-dioxide (7) and lithium hexamethyldisilazide (LHMDS), and the intermediate ester 8 could be directly saponified by quenching with 1 M aq NaOH to give acid 4 in good yield (Scheme 2.). To the best of our knowledge, these are the first reported conditions for the direct cyclopropanation of 2-pyrimidyl esters.",
+            "product": "4",
+            "reactants": "lithium hexamethyldisilazide, 8, LHMDS, 6, 1,3,2-dioxathiolane-2,2-dioxide (7)",
+            "yield": "good",
+            "reaction type": "cyclopropanation"
+        },
+        {
+            "text": "The problem was solved by performing the reaction in 2-MeTHF and using NaHCO3 (2.5 equiv) instead of Na2CO3 to decrease the salt load of the aqueous phase and avoid precipitation of inorganic salts. Following the clean phase split and solvent switch to heptane, product 15 was isolated as a white crystalline solid in 85% yield with >99% a/a purity (Scheme 6.). After many attempts, we realized that direct conversion of the nitrile functionality of 15 into amidine 14 was difficult.",
+            "product": "15",
+            "yield": "85%",
+            "solvent": "2-MeTHF",
+            "catalyst": "NaHCO3"
+        },
+        {
+            "text": "The problem was solved by performing the reaction in 2-MeTHF and using NaHCO3 (2.5 equiv) instead of Na2CO3 to decrease the salt load of the aqueous phase and avoid precipitation of inorganic salts. Following the clean phase split and solvent switch to heptane, product 15 was isolated as a white crystalline solid in 85% yield with >99% a/a purity (Scheme 6.). After many attempts, we realized that direct conversion of the nitrile functionality of 15 into amidine 14 was difficult.",
+            "product": "14",
+            "reactants": "15",
+            "solvent": "2-MeTHF"
+        },
+        {
+            "text": "Therefore, a stepwise Pinner reaction approach was developed: the nitrile was first converted into imidate 16-HCl, followed by the addition of ammonia to generate amidine 14-HCl (Scheme 6.). During initial screenings, imidate 16-HCl was found to be moisture-sensitive and was hydrolyzed by traces of water (e.g., in commercial HCl in MeOH) to generate its methyl ester as the major impurity. By performing the reaction in a mixture of TBME and water-free HCl in MeOH, generated in situ from acetyl chloride and MeOH, nitrile 15 could be converted into imidate hydrochloride 16-HCl without generating large amounts of hydrolyzed impurities (below 4% a/a).",
+            "product": "16-HCl",
+            "reactants": "15"
+        },
+        {
+            "text": "Therefore, a stepwise Pinner reaction approach was developed: the nitrile was first converted into imidate 16-HCl, followed by the addition of ammonia to generate amidine 14-HCl (Scheme 6.). During initial screenings, imidate 16-HCl was found to be moisture-sensitive and was hydrolyzed by traces of water (e.g., in commercial HCl in MeOH) to generate its methyl ester as the major impurity. By performing the reaction in a mixture of TBME and water-free HCl in MeOH, generated in situ from acetyl chloride and MeOH, nitrile 15 could be converted into imidate hydrochloride 16-HCl without generating large amounts of hydrolyzed impurities (below 4% a/a).",
+            "product": "14-HCl, amidine",
+            "reactants": "ammonia, 16-HCl"
+        },
+        {
+            "text": "The product directly crystallized from the reaction mixture and was isolated by filtration in 96% yield and 96% a/a purity. The subsequent conversion of imidate 16-HCl into amidine 14-HCl was straightforward. The addition of 7 N NH3 in MeOH to a solution of 16-HCl in MeOH resulted in clean formation of the amidine.",
+            "product": "14-HCl",
+            "reactants": "16-HCl"
+        },
+        {
+            "text": "Solvent switch to tetrahydrofuran (THF) crystallized amidine 14 as its HCl salt, which was collected by filtration in high yield and purity.",
+            "product": "14",
+            "yield": "high",
+            "solvent": "tetrahydrofuran, THF"
+        },
+        {
+            "text": "The last hydrogenation step also presented two major challenges: (a) finding a catalyst that promoted the simultaneous Cbz deprotection and hydro-dechlorination of 21 while at the same time showing no activity toward over-reducing the pyrimidine ring and (b) finding a robust way to isolate the highly polar and water-soluble final product 1 in high yield and purity. MeOH was identified as the solvent of choice, as the free base 1 and its hydrochloride salt 1-HCl were both well soluble in this solvent.",
+            "product": "1",
+            "yield": "high",
+            "reaction type": "hydrogenation",
+            "solvent": "MeOH"
+        },
+        {
+            "text": "As a consequence, the excess NaOMe needed to be neutralized to allow for the isolation of hydrochloride salt 1-HCl. 5 M HCl  in iPrOH (4.0 equiv) was added prior to catalyst filtration to neutralize the excess base and simultaneously form 1-HCl. The precipitated NaCl was removed by filtrationtogether with the catalystand a final solvent switch to THF led to crystallization of 1-HCl.",
+            "product": "1-HCl",
+            "reactants": "HCl",
+            "solvent": "iPrOH"
+        },
+        {
+            "text": "In summary, a robust and scalable route toward key pyrimidine building block 1-HCl from 1-amino-1-cyclopropanecarbonitrile hydrochloride 13-HCl has been developed. The starting material was converted by three steps into key N-Cbz-protected amidine intermediate 14-HCl.",
+            "product": "14-HCl, 1-HCl",
+            "reactants": "1-amino-1-cyclopropanecarbonitrile hydrochloride 13-HCl"
+        },
+        {
+            "text": "The pyrimidine ring was then constructed via cyclization with chloro vinamidinium salt 20-PF6 under mild conditions, and chloropyrimidine 21 was isolated in high yield and purity. The final hydrogenationwhich simultaneously cleaved the Cbz group and dechlorinated the pyrimidine ringwas intensively optimized with regard to the suppression of the over-reduction of the heterocyclic ring and isolation of the final product in high yield and w/w purity.",
+            "product": "21",
+            "reactants": "20-PF6",
+            "yield": "high",
+            "reaction type": "cyclization"
+        },
+        {
+            "text": "It was discovered that the reaction can be reproducibly performed on a 150 g scale with a combination of Pd(OH)2/C as a catalyst and NaOMe as a base at 1 bar H2 pressure. After acidification with HCl and removal of the catalyst and NaCl by filtration, the final product 1 was isolated in high yield and purity as a bench-stable off-white solid.",
+            "product": "1",
+            "yield": "high",
+            "reaction type": "acidification",
+            "catalyst": "NaOMe, Pd(OH)2/C"
+        }
+    ]
+}

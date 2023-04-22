@@ -1,0 +1,3 @@
+[submodule "PDFConversion"]
+	path = PDFConversion
+	url = git@github.com:Reflectrr/PDF-Conversion.git

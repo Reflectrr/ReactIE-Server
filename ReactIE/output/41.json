@@ -1,0 +1,38 @@
+{
+    "title": "Addition of O–H, N–H, and F–H Bonds across a Boryl–Iridium Unit",
+    "id": "om8b00785",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "The reaction with Et3N·3HF yielded only the single product 9a. It is interesting to note that, under the conditions of the experiments in Scheme 2, the diarylboryl moiety appears to be resistant to protolysis of the boron–carbon bonds, in contrast to metal boryls with heteroatom substituents.",
+            "product": "9a",
+            "reactants": "Et3N3HF"
+        },
+        {
+            "text": "In support of this proposal, we prepared compound 11a by protonation of (PBP)Ir(CO)2 with [(Et2O)2H][B(C6F5)4]. It displays a 1H NMR Ir–H resonance at a frequency similar to that of 1a–10a and a pair of CO stretching bands in the IR spectrum. However, in contrast to 1a–10a, 11a gives rise to a 11B NMR chemical shift (95 ppm) indicative of an sp2 hybridization at B and two IR CO stretching bands at considerably higher energies.",
+            "product": "11a",
+            "reactants": "[(Et2O)2H][B(C6F5)4, (PBP)Ir(CO)2",
+            "reaction type": "protonation"
+        },
+        {
+            "text": "11a as an intermediate in O–H cleavage means that the reaction is not concerted and kinetic selectivity for the syn geometry for 1a–10a should not be expected. Thus, the anti geometry in the solid-state structure of 3a and presumably all of 1a–10a is not surprising. In addition, we determined that 11a undergoes ready exchange with free CD3OD (leading to the formation of 11a-d1 with an Ir-D) and with 2a-d4 derived from the addition of CD3OD to (PBP)Ir(CO)2 (leading to the observation of 11a-d and CD3OH). These experiments suggest that the O–H cleavage products under the reaction conditions may exchange protons (from Ir–H) and/or RO groups (from B–OR), potentially providing a path to the equilibration of the putative syn and anti isomers of 1a–10a. With regard to the formation of 10c, it is possible that the proton transfer (Scheme 6) is not intramolecular, and thus there may also be no reason to expect kinetic selectivity for the syn isomer. It is also possible that syn/anti equilibration pathways are available to 10c. The anti-monocarbonyl final product of N–H cleavage (10b) clearly forms via a sequence of multiple events which we have not established in full detail. It is thus not clear whether the anti geometry of 10b is a consequence of the initial anti-selective formation of 10c or follows from some other considerations.",
+            "product": "11a-d1",
+            "reactants": "CD3OD, Ir-D, 11a"
+        },
+        {
+            "text": "11a as an intermediate in O–H cleavage means that the reaction is not concerted and kinetic selectivity for the syn geometry for 1a–10a should not be expected. Thus, the anti geometry in the solid-state structure of 3a and presumably all of 1a–10a is not surprising. In addition, we determined that 11a undergoes ready exchange with free CD3OD (leading to the formation of 11a-d1 with an Ir-D) and with 2a-d4 derived from the addition of CD3OD to (PBP)Ir(CO)2 (leading to the observation of 11a-d and CD3OH). These experiments suggest that the O–H cleavage products under the reaction conditions may exchange protons (from Ir–H) and/or RO groups (from B–OR), potentially providing a path to the equilibration of the putative syn and anti isomers of 1a–10a. With regard to the formation of 10c, it is possible that the proton transfer (Scheme 6) is not intramolecular, and thus there may also be no reason to expect kinetic selectivity for the syn isomer. It is also possible that syn/anti equilibration pathways are available to 10c. The anti-monocarbonyl final product of N–H cleavage (10b) clearly forms via a sequence of multiple events which we have not established in full detail. It is thus not clear whether the anti geometry of 10b is a consequence of the initial anti-selective formation of 10c or follows from some other considerations.",
+            "product": "2a-d4",
+            "reactants": "(PBP)Ir(CO)2, CD3OD"
+        },
+        {
+            "text": "11a as an intermediate in O–H cleavage means that the reaction is not concerted and kinetic selectivity for the syn geometry for 1a–10a should not be expected. Thus, the anti geometry in the solid-state structure of 3a and presumably all of 1a–10a is not surprising. In addition, we determined that 11a undergoes ready exchange with free CD3OD (leading to the formation of 11a-d1 with an Ir-D) and with 2a-d4 derived from the addition of CD3OD to (PBP)Ir(CO)2 (leading to the observation of 11a-d and CD3OH). These experiments suggest that the O–H cleavage products under the reaction conditions may exchange protons (from Ir–H) and/or RO groups (from B–OR), potentially providing a path to the equilibration of the putative syn and anti isomers of 1a–10a. With regard to the formation of 10c, it is possible that the proton transfer (Scheme 6) is not intramolecular, and thus there may also be no reason to expect kinetic selectivity for the syn isomer. It is also possible that syn/anti equilibration pathways are available to 10c. The anti-monocarbonyl final product of N–H cleavage (10b) clearly forms via a sequence of multiple events which we have not established in full detail. It is thus not clear whether the anti geometry of 10b is a consequence of the initial anti-selective formation of 10c or follows from some other considerations.",
+            "product": "11a-d",
+            "reactants": "CD3OD, 2a-d4 derived from the addition of CD3OD, (PBP)Ir(CO)2, 11a"
+        },
+        {
+            "text": "11a as an intermediate in O–H cleavage means that the reaction is not concerted and kinetic selectivity for the syn geometry for 1a–10a should not be expected. Thus, the anti geometry in the solid-state structure of 3a and presumably all of 1a–10a is not surprising. In addition, we determined that 11a undergoes ready exchange with free CD3OD (leading to the formation of 11a-d1 with an Ir-D) and with 2a-d4 derived from the addition of CD3OD to (PBP)Ir(CO)2 (leading to the observation of 11a-d and CD3OH). These experiments suggest that the O–H cleavage products under the reaction conditions may exchange protons (from Ir–H) and/or RO groups (from B–OR), potentially providing a path to the equilibration of the putative syn and anti isomers of 1a–10a. With regard to the formation of 10c, it is possible that the proton transfer (Scheme 6) is not intramolecular, and thus there may also be no reason to expect kinetic selectivity for the syn isomer. It is also possible that syn/anti equilibration pathways are available to 10c. The anti-monocarbonyl final product of N–H cleavage (10b) clearly forms via a sequence of multiple events which we have not established in full detail. It is thus not clear whether the anti geometry of 10b is a consequence of the initial anti-selective formation of 10c or follows from some other considerations.",
+            "product": "CD3OH",
+            "reactants": "CD3OD, (PBP)Ir(CO)2, 11a"
+        }
+    ]
+}

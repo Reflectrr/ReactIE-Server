@@ -1,0 +1,39 @@
+{
+    "title": "Enzyme Electrochemistry for Industrial Energy ApplicationsA Perspective on Future Areas of Focus",
+    "id": "cs1c00708",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "The extensive number of existing enzymes can be grouped on the basis of the general chemistry they catalyze. This Perspective focuses on four main groups of enzymes that have been shown to have activity on electrodes and could play significant roles in the future of energy and catalysis: (i) hydrogenases for both hydrogen oxidation and enzymatic hydrogen formation, (ii) C1 dehydrogenases/reductases for the reduction of carbon dioxide to value-added products, (iii) oxygenases for the conversion of methane to methanol, and (iv) nitrogenases for the reduction of nitrogen compounds to ammonia.",
+            "product": "methanol",
+            "reactants": "methane",
+            "catalyst": "oxygenases"
+        },
+        {
+            "text": "The extensive number of existing enzymes can be grouped on the basis of the general chemistry they catalyze. This Perspective focuses on four main groups of enzymes that have been shown to have activity on electrodes and could play significant roles in the future of energy and catalysis: (i) hydrogenases for both hydrogen oxidation and enzymatic hydrogen formation, (ii) C1 dehydrogenases/reductases for the reduction of carbon dioxide to value-added products, (iii) oxygenases for the conversion of methane to methanol, and (iv) nitrogenases for the reduction of nitrogen compounds to ammonia.",
+            "product": "ammonia",
+            "reactants": "nitrogen",
+            "reaction type": "reduction",
+            "catalyst": "nitrogenases"
+        },
+        {
+            "text": "While they hydroxylate longer-chain hydrocarbons, they appear to lack substrate specificity to methane. However, recent studies have shown that several activators, such as perfluoro carboxylic acids and iodosylbenzene, induced methanol formation from methane by cytochrome P450 enzymes.",
+            "product": "methanol",
+            "reactants": "methane",
+            "catalyst": "iodosylbenzene, perfluoro carboxylic acids"
+        },
+        {
+            "text": "In vivo, the reduction of 1 mol of nitrogen to ammonia is coupled to the hydrolysis of 16 mol of ATP, as shown in eq .",
+            "product": "ammonia",
+            "reactants": "nitrogen",
+            "reaction type": "reduction"
+        },
+        {
+            "text": "In yet another approach to mitigating challenges surrounding O2 within an EFC, Milton et al. utilized a viologen-mediated nitrogenase at the cathode, rather than using oxygen as an oxidant, reducing molecular nitrogen to ammonia (Figure 7F). This proof of concept had several drawbacks, primarily a dependence on ATP and a low maximum power density (1.5 μW/cm2); however, this provided an example of a system that could act as a fuel cell while it makes a product of interest (in this case ammonia) rather than simply forming water.",
+            "product": "ammonia",
+            "reactants": "molecular nitrogen",
+            "reaction type": "reducing",
+            "catalyst": "viologen-mediated nitrogenase"
+        }
+    ]
+}

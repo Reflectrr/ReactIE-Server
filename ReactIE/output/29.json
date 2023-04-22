@@ -1,0 +1,92 @@
+{
+    "title": "Development and Scale-Up of a Manufacturing Route for the Non-nucleoside Reverse Transcriptase Inhibitor GSK2248761A (IDX-899): Synthesis of an Advanced Key Chiral Intermediate",
+    "id": "op7b00356",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "The resulting arylmagnesium species 3 was then quenched with diethyl chlorophosphite to give intermediate 4, which rearranged to ethyl H-phosphinate 5 upon workup with dilute hydrochloric acid. A toluene solution of 5 then underwent palladium-catalyzed phosphonylation with the iodocinnamonitrile 6 starting material to produce ethyl phosphinate ester 7. This ethyl phosphinate 7 was then cleaved with bromotrimethylsilane and subsequently chlorinated using oxalyl chloride in the presence of a catalytic amount of N,N-dimethylformamide (DMF). The resulting phosphinyl chloride was then quenched in situ with methanol to deliver the backbone of GSK2248761A containing the required methyl phosphinate moiety.",
+            "product": "4",
+            "reactants": "3"
+        },
+        {
+            "text": "The resulting arylmagnesium species 3 was then quenched with diethyl chlorophosphite to give intermediate 4, which rearranged to ethyl H-phosphinate 5 upon workup with dilute hydrochloric acid. A toluene solution of 5 then underwent palladium-catalyzed phosphonylation with the iodocinnamonitrile 6 starting material to produce ethyl phosphinate ester 7. This ethyl phosphinate 7 was then cleaved with bromotrimethylsilane and subsequently chlorinated using oxalyl chloride in the presence of a catalytic amount of N,N-dimethylformamide (DMF). The resulting phosphinyl chloride was then quenched in situ with methanol to deliver the backbone of GSK2248761A containing the required methyl phosphinate moiety.",
+            "product": "7",
+            "reactants": "5, 6, iodocinnamonitrile",
+            "reaction type": "phosphonylation",
+            "solvent": "toluene",
+            "catalyst": "palladium"
+        },
+        {
+            "text": "Ester 8 was saponified with lithium hydroxide in aqueous acetonitrile with the concomitant removal of the N-benzenesulfonyl protecting group, which provided a carboxylic acid handle for resolution. A classical resolution was performed using cinchonidine as the resolving agent, followed by salt dissociation to give the enantiomerically pure acid 10, a key intermediate in the synthesis. The final amide bond formation was performed via activation with 1,1′-carbonyldiimidazole (CDI) followed by treatment with gaseous ammonia, and the product was crystallized from aqueous methanol to give GSK2248761A (1).",
+            "product": "10",
+            "reactants": "lithium hydroxide, 8",
+            "reaction type": "salt dissociation, classical resolution"
+        },
+        {
+            "text": "Ester 8 was saponified with lithium hydroxide in aqueous acetonitrile with the concomitant removal of the N-benzenesulfonyl protecting group, which provided a carboxylic acid handle for resolution. A classical resolution was performed using cinchonidine as the resolving agent, followed by salt dissociation to give the enantiomerically pure acid 10, a key intermediate in the synthesis. The final amide bond formation was performed via activation with 1,1′-carbonyldiimidazole (CDI) followed by treatment with gaseous ammonia, and the product was crystallized from aqueous methanol to give GSK2248761A (1).",
+            "product": "GSK2248761A",
+            "reactants": "ammonia, 1,1′-carbonyldiimidazole, CDI",
+            "reaction type": "amide bond formation",
+            "solvent": "methanol"
+        },
+        {
+            "text": "Ester 8 was saponified with lithium hydroxide in aqueous acetonitrile with the concomitant removal of the N-benzenesulfonyl protecting group, which provided a carboxylic acid handle for resolution. A classical resolution was performed using cinchonidine as the resolving agent, followed by salt dissociation to give the enantiomerically pure acid 10, a key intermediate in the synthesis. The final amide bond formation was performed via activation with 1,1′-carbonyldiimidazole (CDI) followed by treatment with gaseous ammonia, and the product was crystallized from aqueous methanol to give GSK2248761A (1).",
+            "product": "(1)",
+            "reactants": "ammonia, 1,1′-carbonyldiimidazole, 8, CDI",
+            "reaction type": "crystallized"
+        },
+        {
+            "text": "Although the synthesis of the Grignard reagent proceeded smoothly, there were safety and environmental concerns over the use of superstoichiometric amounts of n-butyllithium and n-butylmagnesium chloride, which were needed to generate the active “ate” complex 3 under cryogenic conditions. A slight excess of n-butyllithium was required for this reaction to proceed robustly, as it was observed that only the “ate” complex was active in the reaction and the corresponding dibutylmagnesium species was completely inactive toward Br–Mg exchange. Moreover, when the reaction was performed under noncryogenic conditions, impurity 11 resulting from addition of a butyl group at the 3-position of the indole (Figure 2) was poorly controlled. The use of alternative Grignard technologies, such as the isopropylmagnesium chloride–lithium chloride reagent developed by Knochel, was unsuccessful. The diethyl chlorophosphite electrophile used in the process is highly toxic and moisture-sensitive, representing potential handling/quality issues, and the resulting toluene solution of the ethyl H-phosphinate product 5 had to be stored in a cold room because of concerns over its stability. The palladium-catalyzed P–C coupling performed well, but the product 7 was isolated in only 53% yield over the two stages. However, this chemistry installed the ethyl phosphinate 7 rather than the required methyl phosphinate 8, which required later modification in the synthesis. These steps involved the use of dichloromethane, a nonpreferred solvent, and the combination of oxalyl chloride and DMF, which is known to generate dimethylcarbamoyl chloride (DMCC) as a byproduct, as well as the gaseous byproducts generated during processing, which presented potential engineering/safety issues. DMCC is reasonably anticipated to be a human carcinogen, and its generation is strictly governed by COMAH regulations in the U.K. Some of the batches of bromotrimethylsilane had been shown in the laboratory to partially isomerize the cinnamonitrile double bond, forming impurity 12 (Figure 2), which was difficult to purge in the downstream chemistry. This impurity is probably formed as a result of the presence of small quantities of HBr present in the bromotrimethylsilane.",
+            "product": "3",
+            "reactants": "n-butyllithium, n-butylmagnesium chloride",
+            "temperature": "cryogenic"
+        },
+        {
+            "text": "We also investigated the coupling in the alternative synthetic direction starting from cinnamonitrile derivative 6 and found that methyl phosphinate 27 could be synthesized in 80% yield but was unstable and readily underwent demethylation to form 28, followed by oxidation to the phosphonate 29 in air upon storage (Scheme 3). Our optimized reaction conditions for the reaction giving 30 involved performing the reaction in N-methyl-2-pyrrolidinone (NMP) spiked with a small quantity of water, and it was necessary to add trimethyl orthoformate to retard demethylation during coupling.",
+            "product": "28",
+            "reactants": "27, methyl phosphinate",
+            "reaction type": "demethylation"
+        },
+        {
+            "text": "We also investigated the coupling in the alternative synthetic direction starting from cinnamonitrile derivative 6 and found that methyl phosphinate 27 could be synthesized in 80% yield but was unstable and readily underwent demethylation to form 28, followed by oxidation to the phosphonate 29 in air upon storage (Scheme 3). Our optimized reaction conditions for the reaction giving 30 involved performing the reaction in N-methyl-2-pyrrolidinone (NMP) spiked with a small quantity of water, and it was necessary to add trimethyl orthoformate to retard demethylation during coupling.",
+            "product": "29",
+            "reactants": "28",
+            "reaction type": "oxidation"
+        },
+        {
+            "text": "We elected to perform a weakly acidic workup of 20 followed by a filtration to remove the problematic silane byproducts, and we changed the solvent to toluene to facilitate this. The toluene solution of methyl H-phosphinate ester 20 was azeotropically dried, and we found that solid potassium carbonate was an excellent base in the second coupling, as no demethylation occurred and the rate of reaction was significantly increased. Indeed, only an additional charge of 0.5 mol % Pd(dppf)Cl2 catalyst was required to robustly perform the reaction within 2 h. After hot aqueous workup and azeotropic distillation, methyl phosphinate ester 8 crystallized as a toluene solvate, which provided excellent purification to give >98% a/a HPLC purity.",
+            "product": "8",
+            "reactants": "20",
+            "catalyst": "Pd(dppf)Cl2"
+        },
+        {
+            "text": "Ester 8 was saponified and deprotected using lithium hydroxide in aqueous acetonitrile at 40 °C on a 125 kg scale. The product 9 crystallized directly from the reaction mixture as the hydrate upon adjustment of the pH using aqueous hydrochloric acid in 90% yield with excellent purity. The acid provided a handle for a classical resolution in which the alkaloid cinchonidine had previously been shown to be a very efficient resolving agent.",
+            "product": "9",
+            "reactants": "8",
+            "reaction type": "saponified"
+        },
+        {
+            "text": "The addition of 1 equiv of cinchonidine (based on assay) to an acetone solution caused the desired diastereomeric salt 31 to crystallize out. The solvent was exchanged to ethyl acetate to increase the yield, and 31 was filtered to provide material with 96–97% d.r., which was immediately reslurried in ethyl acetate at 50 °C, followed by a cooling ramp to room temperature and filtration. The salt was washed with ethyl acetate to give material with >99.1% d.r. that was subsequently converted into chirally enriched S enantiomer 10 in an excellent yield of 42% for the whole process (Table 2).",
+            "product": "31",
+            "reactants": "cinchonidine",
+            "solvent": "acetone"
+        },
+        {
+            "text": "Lithium hydroxide monohydrate (5.3 kg, 126 mol) was added to a stirred solution of protected indole phosphinate 8 (42.6 kg, 63.1 mol) in acetonitrile (202 kg) and water (128 L), and the resulting mixture was stirred at 22 °C for 2 h. The reaction mixture was heated to 40 °C for 12 h and then cooled back to 25 °C, and the pH was adjusted to pH 1–1.5 using aqueous hydrochloric acid (2 M solution). Water (149 L) was added over 30 min and the resulting slurry was aged at 40 °C for 30 min, cooled to 25 °C over 2 h, and then stirred at this temperature for a further 2 h. Acid 9 (23.1 kg, 85%) was isolated by filtration, washed with 1:2 acetonitrile/water (86 L), water (85 L), and 9:1 acetone/water (86 L), and dried at 70 °C under vacuum in an agitated drier.",
+            "product": "9",
+            "reactants": "Water, Lithium hydroxide monohydrate, 8",
+            "yield": "85%",
+            "temperature": "25 °C, 22 °C",
+            "time": "2 h",
+            "solvent": "acetonitrile, water"
+        },
+        {
+            "text": "The crystallization mixture was cooled to 10 °C and stirred for 2 h, and the crystals were filtered off, washed with n-heptane (185 L), and dried in a vacuum oven at 58 °C to give chiral acid 10 (34.4 kg, 39.7%, 99.8% e.r.).",
+            "product": "10",
+            "yield": "99.8%, 39.7%",
+            "temperature": "10 °C",
+            "time": "2 h",
+            "reaction type": "crystallization"
+        }
+    ]
+}

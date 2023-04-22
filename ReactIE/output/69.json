@@ -1,0 +1,61 @@
+{
+    "title": "Dilithio Spiro Zincacyclopentadienes and Dizinca[10]cycles: Synthesis and Structural Characterization",
+    "id": "om9b00154",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "As shown in Scheme 2, the transmetalations of dilithio reagents 1, which were obtained by our previous reported method, with 0.5 equiv of ZnX2 (X = Cl, Br) in THF were carried out at room temperature for 1 h. Dilithio spiro zincacyclopentadienes 3a–c were thus obtained as red solids in excellent isolated yields. When dilithio reagents 1 reacted with 1.0 equiv of ZnX2 (X = Cl, Br) in THF, dizinca[10]cycles 4a–c were formed as colorless solids.",
+            "product": "3a–c, Dilithio spiro zincacyclopentadienes",
+            "reactants": "Br), 1, ZnX2 (X = Cl",
+            "yield": "excellent isolated",
+            "temperature": "room",
+            "time": "1 h",
+            "reaction type": "transmetalations",
+            "solvent": "THF"
+        },
+        {
+            "text": "As shown in Scheme 2, the transmetalations of dilithio reagents 1, which were obtained by our previous reported method, with 0.5 equiv of ZnX2 (X = Cl, Br) in THF were carried out at room temperature for 1 h. Dilithio spiro zincacyclopentadienes 3a–c were thus obtained as red solids in excellent isolated yields. When dilithio reagents 1 reacted with 1.0 equiv of ZnX2 (X = Cl, Br) in THF, dizinca[10]cycles 4a–c were formed as colorless solids.",
+            "product": "dizinca[10]cycles, 4a–c",
+            "reactants": "Br), 1, ZnX2 (X = Cl",
+            "solvent": "THF"
+        },
+        {
+            "text": "These results show that solvent is a key factor in the formation of 1,3-butadienylzinc trimer 2 or dizinca[10]cycles 4. As our previous work, 1,3-butadienylzinc trimer 2 could be obtained by the reaction of dilithio reagents 1 with 1.0 equiv of ZnBr2 in Et2O. When this reaction was carried out in THF, dizinca[10]cycles 4 were formed.",
+            "product": "2",
+            "reactants": "1, ZnBr2",
+            "solvent": "Et2O"
+        },
+        {
+            "text": "These results show that solvent is a key factor in the formation of 1,3-butadienylzinc trimer 2 or dizinca[10]cycles 4. As our previous work, 1,3-butadienylzinc trimer 2 could be obtained by the reaction of dilithio reagents 1 with 1.0 equiv of ZnBr2 in Et2O. When this reaction was carried out in THF, dizinca[10]cycles 4 were formed.",
+            "product": "4",
+            "reactants": "1, ZnBr2",
+            "solvent": "Et2O, THF"
+        },
+        {
+            "text": "Complex 3a reacted with 0.25 equiv of S8 to give the corresponding thiophene compound 5 in 86% isolated yield. When 3a was treated with 2.0 equiv of elemental Se, selenophene compound 6 was formed in 92% isolated yield. In comparison, 4a reacted with 0.25 equiv of S8 to give 5 in 58% isolated yield, while 4a did not react with Se under similar conditions. The higher reactivity of 3a may be because of its larger degree of ring strain than 4a (Scheme 3).",
+            "product": "5",
+            "reactants": "S8, 3a",
+            "yield": "86%"
+        },
+        {
+            "text": "Complex 3a reacted with 0.25 equiv of S8 to give the corresponding thiophene compound 5 in 86% isolated yield. When 3a was treated with 2.0 equiv of elemental Se, selenophene compound 6 was formed in 92% isolated yield. In comparison, 4a reacted with 0.25 equiv of S8 to give 5 in 58% isolated yield, while 4a did not react with Se under similar conditions. The higher reactivity of 3a may be because of its larger degree of ring strain than 4a (Scheme 3).",
+            "product": "6",
+            "reactants": "3a, Se",
+            "yield": "92%"
+        },
+        {
+            "text": "The reaction mixture was stirred at room temperature for 1 h and workup, and the residue was purified by column chromatography to give products 5 (for 3a, isolated yield 86%; for 4a, isolated yield 58%) and 6 (for 3a isolated yield 92%; for 4a, no reaction). Compounds 5 are known compounds.",
+            "product": "5",
+            "yield": "86%, 58%)",
+            "temperature": "room",
+            "time": "1 h"
+        },
+        {
+            "text": "The reaction mixture was stirred at room temperature for 1 h and workup, and the residue was purified by column chromatography to give products 5 (for 3a, isolated yield 86%; for 4a, isolated yield 58%) and 6 (for 3a isolated yield 92%; for 4a, no reaction). Compounds 5 are known compounds.",
+            "product": "6",
+            "yield": "92%",
+            "temperature": "room",
+            "time": "1 h"
+        }
+    ]
+}

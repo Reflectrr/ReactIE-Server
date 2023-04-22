@@ -1,0 +1,141 @@
+{
+    "title": "Expanding Benzoxazole-Based Inosine 5′-Monophosphate Dehydrogenase (IMPDH) Inhibitor Structure–Activity As Potential Antituberculosis Agents",
+    "id": "jm7b01839",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The synthesis used to generate ether-linked Q-series derivatives is illustrated in Scheme 1. Arylbenzoxazoles 4 were directly synthesized by oxidative cyclization methods using 2-amino-4-nitrophenol and aldehyde in the presence of activated carbon (Darco KB) under an oxygen atmosphere. The nitro group was reduced using Pd/C under 1 atm hydrogen to give 5-amine-2-arylbenzoxazoles 5. Enantiomerically pure phenyl ethers 6 were synthesized from (+)-methyl D-lactate and the corresponding phenol using Mitsunobu reaction conditions. The esters 6 were hydrolyzed to the corresponding acids 7 and then coupled with various 5-amine-2-arylbenzoxazoles in the presence of EDC·HCl in DMF to yield 8. Furthermore, 8 (Ar = 4-OMePh, R = 2,3-diCl) was treated with Lawesson’s reagent under standard conditions to generate thioamide 9 quantitatively. Ester 6a was also treated with 1 M DIBAL-H in DCM at −78 °C to generate aldehyde 10, which was subjected to reductive amination using 5 (Ar = 4-OMePh) and sodium triacetoxyborohydride in DCM to provide amine 11.",
+            "product": "6",
+            "reactants": "(+)-methyl D-lactate, phenol",
+            "reaction type": "Mitsunobu"
+        },
+        {
+            "text": "The synthesis used to generate ether-linked Q-series derivatives is illustrated in Scheme 1. Arylbenzoxazoles 4 were directly synthesized by oxidative cyclization methods using 2-amino-4-nitrophenol and aldehyde in the presence of activated carbon (Darco KB) under an oxygen atmosphere. The nitro group was reduced using Pd/C under 1 atm hydrogen to give 5-amine-2-arylbenzoxazoles 5. Enantiomerically pure phenyl ethers 6 were synthesized from (+)-methyl D-lactate and the corresponding phenol using Mitsunobu reaction conditions. The esters 6 were hydrolyzed to the corresponding acids 7 and then coupled with various 5-amine-2-arylbenzoxazoles in the presence of EDC·HCl in DMF to yield 8. Furthermore, 8 (Ar = 4-OMePh, R = 2,3-diCl) was treated with Lawesson’s reagent under standard conditions to generate thioamide 9 quantitatively. Ester 6a was also treated with 1 M DIBAL-H in DCM at −78 °C to generate aldehyde 10, which was subjected to reductive amination using 5 (Ar = 4-OMePh) and sodium triacetoxyborohydride in DCM to provide amine 11.",
+            "product": "7",
+            "reactants": "6",
+            "reaction type": "hydrolyzed"
+        },
+        {
+            "text": "The synthesis used to generate ether-linked Q-series derivatives is illustrated in Scheme 1. Arylbenzoxazoles 4 were directly synthesized by oxidative cyclization methods using 2-amino-4-nitrophenol and aldehyde in the presence of activated carbon (Darco KB) under an oxygen atmosphere. The nitro group was reduced using Pd/C under 1 atm hydrogen to give 5-amine-2-arylbenzoxazoles 5. Enantiomerically pure phenyl ethers 6 were synthesized from (+)-methyl D-lactate and the corresponding phenol using Mitsunobu reaction conditions. The esters 6 were hydrolyzed to the corresponding acids 7 and then coupled with various 5-amine-2-arylbenzoxazoles in the presence of EDC·HCl in DMF to yield 8. Furthermore, 8 (Ar = 4-OMePh, R = 2,3-diCl) was treated with Lawesson’s reagent under standard conditions to generate thioamide 9 quantitatively. Ester 6a was also treated with 1 M DIBAL-H in DCM at −78 °C to generate aldehyde 10, which was subjected to reductive amination using 5 (Ar = 4-OMePh) and sodium triacetoxyborohydride in DCM to provide amine 11.",
+            "product": "9",
+            "reactants": "8",
+            "yield": "quantitative",
+            "catalyst": "Lawesson’s"
+        },
+        {
+            "text": "2-Amino-4-nitrophenol was coupled with a 1,1-dibromoethylene derivative using DABCO in NMP at 100 °C to generate 14. The nitro group was reduced using 10% Pd/C under a hydrogen atmosphere and the resulting amine was coupled with 7 (R = 2,3-diCl) using EDC·HCl in DMF to yield 15.",
+            "product": "14",
+            "reactants": "2-Amino-4-nitrophenol, 1,1-dibromoethylene derivative",
+            "temperature": "100 °C",
+            "solvent": "NMP",
+            "catalyst": "DABCO"
+        },
+        {
+            "text": "2-Amino-4-nitrophenol was coupled with a 1,1-dibromoethylene derivative using DABCO in NMP at 100 °C to generate 14. The nitro group was reduced using 10% Pd/C under a hydrogen atmosphere and the resulting amine was coupled with 7 (R = 2,3-diCl) using EDC·HCl in DMF to yield 15.",
+            "product": "7. 15",
+            "reactants": "14, 7",
+            "reaction type": "reduced",
+            "solvent": "DMF",
+            "catalyst": "Pd/C, EDCHCl"
+        },
+        {
+            "text": "l-Alanine was treated with aryl iodides in the presence of cesium carbonate and CuI in DMF for 24 h to provide N-arylated amino acids 16a–b. Attempts to couple these materials with 5 (Ar = 4-CNPh) using EDC·HCl failed. However, using HATU as the coupling reagent in DMF resulted in the formation of 17a–b.",
+            "product": "16a–b",
+            "reactants": "cesium carbonate, aryl iodides, l-Alanine",
+            "time": "24 h",
+            "solvent": "DMF",
+            "catalyst": "CuI"
+        },
+        {
+            "text": "l-Alanine was treated with aryl iodides in the presence of cesium carbonate and CuI in DMF for 24 h to provide N-arylated amino acids 16a–b. Attempts to couple these materials with 5 (Ar = 4-CNPh) using EDC·HCl failed. However, using HATU as the coupling reagent in DMF resulted in the formation of 17a–b.",
+            "product": "17a–b",
+            "reactants": "5, aryl iodides, l-Alanine, cesium carbonate, CuI",
+            "reaction type": "coupling",
+            "solvent": "DMF",
+            "catalyst": "HATU"
+        },
+        {
+            "text": "Compounds 8i and 8j were subjected to alkylation reactions with ethyl 2-bromoacetate in the presence of K2CO3 and DMF to give 18a and 18b, respectively. These compounds were hydrolyzed using LiOH in THF/MeOH (1:3) to yield 19a and 19b, respectively. Carboxylic acid 19a was also converted to ester 20 using propargyl bromide and K2CO3 in dry DMF. Ester 8h was also converted to an array of derivatives.",
+            "product": "18,a",
+            "reactants": "8i, ethyl 2-bromoacetate",
+            "reaction type": "alkylation",
+            "catalyst": "K2CO3"
+        },
+        {
+            "text": "Compounds 8i and 8j were subjected to alkylation reactions with ethyl 2-bromoacetate in the presence of K2CO3 and DMF to give 18a and 18b, respectively. These compounds were hydrolyzed using LiOH in THF/MeOH (1:3) to yield 19a and 19b, respectively. Carboxylic acid 19a was also converted to ester 20 using propargyl bromide and K2CO3 in dry DMF. Ester 8h was also converted to an array of derivatives.",
+            "product": "18b",
+            "reactants": "8j, ethyl 2-bromoacetate",
+            "reaction type": "alkylation",
+            "solvent": "DMF"
+        },
+        {
+            "text": "Compounds 8i and 8j were subjected to alkylation reactions with ethyl 2-bromoacetate in the presence of K2CO3 and DMF to give 18a and 18b, respectively. These compounds were hydrolyzed using LiOH in THF/MeOH (1:3) to yield 19a and 19b, respectively. Carboxylic acid 19a was also converted to ester 20 using propargyl bromide and K2CO3 in dry DMF. Ester 8h was also converted to an array of derivatives.",
+            "product": "19,a",
+            "reactants": "8i, LiOH",
+            "reaction type": "hydrolyzed",
+            "solvent": "MeOH, THF"
+        },
+        {
+            "text": "Compounds 8i and 8j were subjected to alkylation reactions with ethyl 2-bromoacetate in the presence of K2CO3 and DMF to give 18a and 18b, respectively. These compounds were hydrolyzed using LiOH in THF/MeOH (1:3) to yield 19a and 19b, respectively. Carboxylic acid 19a was also converted to ester 20 using propargyl bromide and K2CO3 in dry DMF. Ester 8h was also converted to an array of derivatives.",
+            "product": "19b",
+            "reactants": "8j",
+            "reaction type": "hydrolyzed",
+            "solvent": "THF MeOH"
+        },
+        {
+            "text": "For example, it was treated with hydroxylamine hydrochloride to provide corresponding hydroxamic acid 21. Base-catalyzed ester hydrolysis of 8h in MeOH/THF/H2O (3:1:1) yielded carboxylic acid 22. Finally, ester 8h was converted to hydrazide 23 using hydrazine hydrate in EtOH followed by treatment with carbonyl diimidazole (CDI) in the presence of DIPEA in DMF yielding 1,3,4-oxadiazolone 24.",
+            "product": "21",
+            "reactants": "hydroxylamine hydrochloride"
+        },
+        {
+            "text": "For example, it was treated with hydroxylamine hydrochloride to provide corresponding hydroxamic acid 21. Base-catalyzed ester hydrolysis of 8h in MeOH/THF/H2O (3:1:1) yielded carboxylic acid 22. Finally, ester 8h was converted to hydrazide 23 using hydrazine hydrate in EtOH followed by treatment with carbonyl diimidazole (CDI) in the presence of DIPEA in DMF yielding 1,3,4-oxadiazolone 24.",
+            "product": "22",
+            "reactants": "8h",
+            "reaction type": "ester hydrolysis",
+            "solvent": "MeOH,THF, H2O"
+        },
+        {
+            "text": "For example, it was treated with hydroxylamine hydrochloride to provide corresponding hydroxamic acid 21. Base-catalyzed ester hydrolysis of 8h in MeOH/THF/H2O (3:1:1) yielded carboxylic acid 22. Finally, ester 8h was converted to hydrazide 23 using hydrazine hydrate in EtOH followed by treatment with carbonyl diimidazole (CDI) in the presence of DIPEA in DMF yielding 1,3,4-oxadiazolone 24.",
+            "product": "24",
+            "reactants": "DIPEA, carbonyl diimidazole, 23, CDI",
+            "solvent": "DMF, EtOH"
+        },
+        {
+            "text": "For example, 8f was treated with hydroxylamine hydrochloride in absolute ethanol in the presence of triethylamine to afford hydroxamidine 25, which upon treatment with CDI and DIPEA gave 1,2,4-oxadiazolone 26. Tetrazole derivative 27 was prepared by the treatment of 8f with sodium azide in the presence of ammonium chloride in dry DMF. Primary amide 28 was generated by treating 8f with t-BuOK in t-BuOH. Finally, 8f was treated with NiCl2·6H2O and NaBH4 in the presence of Boc2O in MeOH/THF to give the Boc-protected primary amine, which was deprotected using trifluoroacetic acid in DCM to provide 29.",
+            "product": "25",
+            "reactants": "triethylamine, hydroxylamine hydrochloride, 8f",
+            "solvent": "ethanol"
+        },
+        {
+            "text": "For example, 8f was treated with hydroxylamine hydrochloride in absolute ethanol in the presence of triethylamine to afford hydroxamidine 25, which upon treatment with CDI and DIPEA gave 1,2,4-oxadiazolone 26. Tetrazole derivative 27 was prepared by the treatment of 8f with sodium azide in the presence of ammonium chloride in dry DMF. Primary amide 28 was generated by treating 8f with t-BuOK in t-BuOH. Finally, 8f was treated with NiCl2·6H2O and NaBH4 in the presence of Boc2O in MeOH/THF to give the Boc-protected primary amine, which was deprotected using trifluoroacetic acid in DCM to provide 29.",
+            "product": "1,2,4-oxadiazolone, 26",
+            "reactants": "DIPEA, 25, CDI"
+        },
+        {
+            "text": "For example, 8f was treated with hydroxylamine hydrochloride in absolute ethanol in the presence of triethylamine to afford hydroxamidine 25, which upon treatment with CDI and DIPEA gave 1,2,4-oxadiazolone 26. Tetrazole derivative 27 was prepared by the treatment of 8f with sodium azide in the presence of ammonium chloride in dry DMF. Primary amide 28 was generated by treating 8f with t-BuOK in t-BuOH. Finally, 8f was treated with NiCl2·6H2O and NaBH4 in the presence of Boc2O in MeOH/THF to give the Boc-protected primary amine, which was deprotected using trifluoroacetic acid in DCM to provide 29.",
+            "product": "28",
+            "reactants": "t-BuOK, 8f",
+            "solvent": "t-BuOH"
+        },
+        {
+            "text": "For example, 8f was treated with hydroxylamine hydrochloride in absolute ethanol in the presence of triethylamine to afford hydroxamidine 25, which upon treatment with CDI and DIPEA gave 1,2,4-oxadiazolone 26. Tetrazole derivative 27 was prepared by the treatment of 8f with sodium azide in the presence of ammonium chloride in dry DMF. Primary amide 28 was generated by treating 8f with t-BuOK in t-BuOH. Finally, 8f was treated with NiCl2·6H2O and NaBH4 in the presence of Boc2O in MeOH/THF to give the Boc-protected primary amine, which was deprotected using trifluoroacetic acid in DCM to provide 29.",
+            "product": "29",
+            "reactants": "Boc-protected primary amine, trifluoroacetic acid",
+            "reaction type": "deprotected",
+            "solvent": "DCM"
+        },
+        {
+            "text": "The nitrile in 8u was reduced using NiCl2·6H2O and NaBH4 then protected as the corresponding t-butyl carbamate. The removal of the protecting group using trifluoroacetic acid in DCM provided amine 32.",
+            "product": "32",
+            "reaction type": "removal",
+            "solvent": "DCM"
+        },
+        {
+            "text": "The benzyl ether of 8v was removed by hydrogenolysis in the presence of Pd/C under a hydrogen atmosphere to yield 33.",
+            "product": "33",
+            "reactants": "8v",
+            "reaction type": "hydrogenolysis",
+            "catalyst": "Pd/C"
+        }
+    ]
+}

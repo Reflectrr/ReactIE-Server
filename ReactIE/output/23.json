@@ -1,0 +1,82 @@
+{
+    "title": "Design, Synthesis, and Characterization of Ogerin-Based Positive Allosteric Modulators for G Protein-Coupled Receptor 68 (GPR68)",
+    "id": "jm9b00869",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "Intermediates 4 and 9 were prepared according to the previously reported procedures from 2,4,6-trichloro-1,3,5-triazine (2) and 2,6-dichlorpyrimidin-4-amine (8). Briefly, alkylamine substitution of one chloro group on trichlorotriazine 1 at low temperature provided alkylamino-substituted dichlorotriazines 3. Benzylamine substitution of one chloro group on dichlorotriazines 3 or dicholoropyrimidine 8 at an elevated temperature yielded intermediates 4 or 9, respectively. Suzuki coupling between intermediates 4 or 9 and commercially available (2-(hydroxymethyl)phenyl)boronic acid provided the designed compounds 5–7 and 10 (Scheme 1).",
+            "product": "9, 4",
+            "reactants": "2,6-dichlorpyrimidin-4-amine (8), 2,4,6-trichloro-1,3,5-triazine, (2)",
+            "temperature": "elevated",
+            "reaction type": "Benzylamine substitution"
+        },
+        {
+            "text": "Intermediates 4 and 9 were prepared according to the previously reported procedures from 2,4,6-trichloro-1,3,5-triazine (2) and 2,6-dichlorpyrimidin-4-amine (8). Briefly, alkylamine substitution of one chloro group on trichlorotriazine 1 at low temperature provided alkylamino-substituted dichlorotriazines 3. Benzylamine substitution of one chloro group on dichlorotriazines 3 or dicholoropyrimidine 8 at an elevated temperature yielded intermediates 4 or 9, respectively. Suzuki coupling between intermediates 4 or 9 and commercially available (2-(hydroxymethyl)phenyl)boronic acid provided the designed compounds 5–7 and 10 (Scheme 1).",
+            "product": "5–7",
+            "reactants": "9, 4",
+            "reaction type": "Suzuki coupling"
+        },
+        {
+            "text": "Intermediates 4 and 9 were prepared according to the previously reported procedures from 2,4,6-trichloro-1,3,5-triazine (2) and 2,6-dichlorpyrimidin-4-amine (8). Briefly, alkylamine substitution of one chloro group on trichlorotriazine 1 at low temperature provided alkylamino-substituted dichlorotriazines 3. Benzylamine substitution of one chloro group on dichlorotriazines 3 or dicholoropyrimidine 8 at an elevated temperature yielded intermediates 4 or 9, respectively. Suzuki coupling between intermediates 4 or 9 and commercially available (2-(hydroxymethyl)phenyl)boronic acid provided the designed compounds 5–7 and 10 (Scheme 1).",
+            "product": "10",
+            "reactants": "(2-(hydroxymethyl)phenyl)boronic acid",
+            "reaction type": "Suzuki coupling"
+        },
+        {
+            "text": "Intermediate 3 was prepared according to previously published procedures starting with 4,6-dichloro-N-methyl-1,3,5-triazin-2-amine (2) and benzylamine. The white solid 3 (24.9 mg, 0.1 mmol) was suspended in dioxane (0.8 mL) and water (0.2 mL) in a microwave tube. Then, tetrakis(triphenylphosphine)palladium(0) (5.8 mg, 5 mol %), potassium carbonate (27.6 mg, 0.2 mmol), and (2-(hydroxymethyl)phenyl)boronic acid (30.4 mg, 0.2 mmol) were added. The mixture was heated to 120 °C for 20 min under microwave irradiation.",
+            "product": "3",
+            "reactants": "4,6-dichloro-N-methyl-1,3,5-triazin-2-amine, (2), benzylamine",
+            "temperature": "120 °C",
+            "time": "20 min",
+            "solvent": "dioxane, water",
+            "catalyst": "tetrakis(triphenylphosphine)palladium(0), potassium carbonate, (2-(hydroxymethyl)phenyl)boronic acid"
+        },
+        {
+            "text": "Compound 10 was synthesized following the same procedure for preparing 5 starting with 2,6-dichloropyrimidin-4-amine 8 and benzylamine. The title compound 10 was obtained as a white solid (27.2 mg, 92%).",
+            "product": "10",
+            "reactants": "8, 2,6-dichloropyrimidin-4-amine, benzylamine",
+            "yield": "(27.2 mg, 92%)"
+        },
+        {
+            "text": "Compound 15 (15 mg, 0.05 mmol) was dissolved in THF (mL). After the mixture was cooled to 0 °C, sodium borohydride (4 mg, 0.1 mmol) was added slowly. The reaction was monitored by TLC until 15 disappeared. Methanol (1 mL) was added slowly to quench the reaction. The mixture was filtered and concentrated in vacuo. The resulting residue was dissolved in 1.5 mL of methanol and purified by preparative HPLC to yield 16 as a white solid (16 mg, 51%).",
+            "product": "16",
+            "reactants": "15, sodium borohydride",
+            "yield": "51%)",
+            "temperature": "0 °C",
+            "solvent": "THF"
+        },
+        {
+            "text": "Intermediate 17 (123 mg, 86%) was prepared following the same procedures that were used to prepare 13 starting with 2-formylphenyl boronic acid and intermediate 12. To a suspension of intermediate 17 (47 mg, 0.15 mmol), magnesium sulfate (200 mg) and NH3·H2O (0.75 mmol, 107 μL) in THF (2 mL) was added sodium borohydride (5.7 mg, 0.15 mmol) slowly. After stirring for 2 days at room temperature, methanol (1 mL) was added slowly to quench the reaction. The mixture was filtered and concentrated in vacuo. The resulting residue was dissolved in 1.5 mL of methanol and purified by preparative HPLC to yield 18 as yellow oil (21 mg, 45%).",
+            "product": "17",
+            "reactants": "17, NH3H2O, sodium borohydride",
+            "yield": "86%)",
+            "temperature": "room",
+            "time": "2 days",
+            "solvent": "THF"
+        },
+        {
+            "text": "Intermediate 17 (123 mg, 86%) was prepared following the same procedures that were used to prepare 13 starting with 2-formylphenyl boronic acid and intermediate 12. To a suspension of intermediate 17 (47 mg, 0.15 mmol), magnesium sulfate (200 mg) and NH3·H2O (0.75 mmol, 107 μL) in THF (2 mL) was added sodium borohydride (5.7 mg, 0.15 mmol) slowly. After stirring for 2 days at room temperature, methanol (1 mL) was added slowly to quench the reaction. The mixture was filtered and concentrated in vacuo. The resulting residue was dissolved in 1.5 mL of methanol and purified by preparative HPLC to yield 18 as yellow oil (21 mg, 45%).",
+            "product": "18",
+            "reactants": "intermediate 17, NH3H2O, sodium borohydride",
+            "temperature": "room",
+            "time": "2 days",
+            "solvent": "THF"
+        },
+        {
+            "text": "Compound 19 was prepared following the general procedure for preparing compound 18 from intermediate 17 and methylamine (2 M in THF). Yellow oil (22 mg, 67%).",
+            "product": "19",
+            "reactants": "18",
+            "yield": "67%, 22 mg"
+        },
+        {
+            "text": "Compounds 21–19, 31 and 32 were prepared following the general procedure for preparing compound 13 from intermediate 12 and commercially available substituted phenylboronic acids.",
+            "product": "21,-19, 31, 32",
+            "reactants": "13"
+        },
+        {
+            "text": "Intermediate 40 was prepared from intermediates 3 and 11 and commercially available amines (intermediate 39) according to the previously reported procedures.",
+            "product": "40",
+            "reactants": "11, 3, 39"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Inhibitors of HIV‑1 Attachment: The Discovery and Development of Temsavir and its Prodrug Fostemsavir",
+    "id": "jm7b01337",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The final process relied upon a regioselective Friedel–Crafts acetylation of N-benzenesulfonyl pyrrole (36) and was followed by chlorination of the ketone to afford intermediate 37, which was amidated with the sodium salt of N-formyl tosylamide to yield the protected 3-ketopyrrole derivative 38. Following formation of ketal 39, a Pictet−Spengler cyclization afforded 40, providing a rapid assembly of the core bicyclic ring system. The challenge presented by forming the fully aromatic azaindole heterocycle and installing the 4-methoxy substituent was completed using an unprecedented radical-mediated aromatization promoted by cumene hydroperoxide that was developed to provide access to the N-protected 4-methoxy-6-azaindole 41 (Scheme 1).",
+            "product": "37",
+            "reactants": "(36), N-benzenesulfonyl pyrrole",
+            "reaction type": "regioselective Friedel–Crafts acetylation, chlorination"
+        },
+        {
+            "text": "The final process relied upon a regioselective Friedel–Crafts acetylation of N-benzenesulfonyl pyrrole (36) and was followed by chlorination of the ketone to afford intermediate 37, which was amidated with the sodium salt of N-formyl tosylamide to yield the protected 3-ketopyrrole derivative 38. Following formation of ketal 39, a Pictet−Spengler cyclization afforded 40, providing a rapid assembly of the core bicyclic ring system. The challenge presented by forming the fully aromatic azaindole heterocycle and installing the 4-methoxy substituent was completed using an unprecedented radical-mediated aromatization promoted by cumene hydroperoxide that was developed to provide access to the N-protected 4-methoxy-6-azaindole 41 (Scheme 1).",
+            "product": "38",
+            "reactants": "37, N-formyl tosylamide"
+        },
+        {
+            "text": "The final process relied upon a regioselective Friedel–Crafts acetylation of N-benzenesulfonyl pyrrole (36) and was followed by chlorination of the ketone to afford intermediate 37, which was amidated with the sodium salt of N-formyl tosylamide to yield the protected 3-ketopyrrole derivative 38. Following formation of ketal 39, a Pictet−Spengler cyclization afforded 40, providing a rapid assembly of the core bicyclic ring system. The challenge presented by forming the fully aromatic azaindole heterocycle and installing the 4-methoxy substituent was completed using an unprecedented radical-mediated aromatization promoted by cumene hydroperoxide that was developed to provide access to the N-protected 4-methoxy-6-azaindole 41 (Scheme 1).",
+            "product": "40",
+            "reactants": "39",
+            "reaction type": "cyclization"
+        },
+        {
+            "text": "A novel bromination process for the preparation of the C-7 bromo azaindole 44 that relied upon an efficient three-step telescope sequence was developed. N-oxidation of 41 was followed by regioselective bromination of the N-oxide 42 to afford the C-7 bromide 43. Deprotection of the benzenesulfonyl protecting group of 43 followed by isolation of the hydrochloride salt provided the 7-bromoazaindole 44 in 62–69% yield over the multiple transformations. While procedures for the introduction of the triazole ring to 44 to provide 45 were developed, the timing of triazole incorporation was reassessed and a strategy was pursued that relied upon appending the oxalyl amide side chain to the azaindole core prior to the triazole installation.",
+            "product": "44",
+            "reactants": "43",
+            "yield": "62–69%",
+            "reaction type": "bromination"
+        },
+        {
+            "text": "A novel bromination process for the preparation of the C-7 bromo azaindole 44 that relied upon an efficient three-step telescope sequence was developed. N-oxidation of 41 was followed by regioselective bromination of the N-oxide 42 to afford the C-7 bromide 43. Deprotection of the benzenesulfonyl protecting group of 43 followed by isolation of the hydrochloride salt provided the 7-bromoazaindole 44 in 62–69% yield over the multiple transformations. While procedures for the introduction of the triazole ring to 44 to provide 45 were developed, the timing of triazole incorporation was reassessed and a strategy was pursued that relied upon appending the oxalyl amide side chain to the azaindole core prior to the triazole installation.",
+            "product": "45",
+            "reactants": "44"
+        },
+        {
+            "text": "The highly regioselective, copper-mediated Ullmann–Goldberg–Buchwald coupling that originally had been developed to install the challenging 3-methyl-1,2,4-triazole substituent to 44 was now performed on the elaborated azaindole 46 to produce 31. Isolation of 31 in the original route had been abandoned due to the extremely poor physical properties associated with the free form of the compound, which resulted in unacceptably long filtration times on a relatively small pilot plant batch, albeit with significant purification from the in-process impurities.",
+            "product": "31",
+            "reactants": "46",
+            "reaction type": "Ullmann–Goldberg–Buchwald coupling",
+            "catalyst": "copper"
+        },
+        {
+            "text": "In addition, its low solubility in CH3CN (<0.5 mg/mL) offered the potential of high product recovery from the Ullmann–Goldberg–Buchwald coupling. At the completion of the Ullmann–Goldberg–Buchwald coupling reaction, LiI was added to crystallize the lithium salt, cleanly providing the desired triazole isomer 31 in 65–70% yield.",
+            "product": "31",
+            "yield": "65–70%",
+            "reaction type": "Ullmann–Goldberg–Buchwald coupling"
+        },
+        {
+            "text": "The final steps in the synthesis of 35 required installation of the phosphonooxymethyl prodrug element for which di-tert-butyl (chloromethyl) phosphate is an ideal reagent to provide 47.",
+            "product": "47",
+            "reactants": "di-tert-butyl (chloromethyl) phosphate"
+        },
+        {
+            "text": "However, numerous obstacles were encountered during the initial scale up of the process to prepare di-tert-butyl(chloromethyl)phosphate, leading to an extensive interrogation of this reagent that extended to the preparation of the starting materials, chloromethyl chlorosulfate and di-tert-butyl potassium phosphate. The reaction between chloromethyl chlorosulfate and di-tert-butyl potassium phosphate to afford di-tert-butyl (chloromethyl) phosphate was systematically optimized, leading to the identification of conditions that allowed for the successful preparation and handling of this reagent on scale.",
+            "product": "di-tert-butyl(chloromethyl)phosphate",
+            "reactants": "chloromethyl chlorosulfate, di-tert-butyl potassium phosphate"
+        },
+        {
+            "text": "The lithium salt of 31 was found to be unreactive toward alkylation with di-tert-butyl (chloromethyl) phosphate, necessitating the development of a salt metathesis process that converted the Li salt to the K salt, providing access to a more soluble and reactive alkylation partner. Overall, the final processing conditions resulted in the isolation of 47 in 70% yield and with high purity.",
+            "product": "47",
+            "reactants": "31",
+            "yield": "70%"
+        }
+    ]
+}

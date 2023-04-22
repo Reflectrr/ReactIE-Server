@@ -1,0 +1,39 @@
+{
+    "title": "A Chemical Probe for Tudor Domain Protein Spindlin1 to Investigate Chromatin Function",
+    "id": "jm9b00562",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "A selective nitration was achieved at low temperature, which was followed by debenzylation by hydrogenolysis to give the nitrophenol 6. The solvent mixture (9:1 EtOAc:EtOH) was decisive in determining the outcome of this reaction, with most other solvent mixtures leading to significant reduction of the nitro group.",
+            "product": "6",
+            "temperature": "low",
+            "reaction type": "hydrogenolysis, debenzylation",
+            "solvent": "EtOH, EtOAc"
+        },
+        {
+            "text": "and Magano et al., which involved nucleophilic displacement of the phenoxide by an in situ generated thiolate. Demethylation via a Lewis acid (e.g., BBr3) led to mixtures of phenols 6 and 9. Alkylation of phenol 9 with bulkier alkyl halides was followed by nitro group reduction with zinc in acetic acid.",
+            "product": "6",
+            "reaction type": "Demethylation",
+            "catalyst": "BBr3"
+        },
+        {
+            "text": "Chemoproteomics was employed to identify cellular interacting partners of compound 35. Compound 41 was prepared by subjecting isoindoline 39 and chloride 19 to general conditions (f) and (i) to give the benzyl protected 40. Hydrogenolysis, followed by alkylation with 4-(Boc-amino)butyl bromide, and Boc deprotection, gave the amino functionalized 41 (Scheme 3). The affinity probe 41 was coupled to NHS-activated sepharose beads and incubated with SCC040 cell lysates in the presence of compound 35 or 38. Label-free quantification (LFQ) protein mass spectrometry was used to identify compound-specific interactors. The SCC040 head and neck squamous cell carcinoma (HNSCC) cell line was chosen because SPIN1 expression in squamous cell carcinoma tumors was strongly correlated to smooth muscle actin and galectin-1, which may contribute to cell invasion and proliferation.",
+            "product": "41",
+            "reactants": "40, 4-(Boc-amino)butyl bromide",
+            "reaction type": "Boc deprotection, followed by alkylation, Hydrogenolysis"
+        },
+        {
+            "text": "A solution of the 2-(4-(benzyloxy)-3-methoxyphenyl)acetonitrile 1 (1.387 g, 5.48 mmol, 1 equiv) and sodium hydroxide (aq 50 wt %, 1.752 g, 21.90 mmol, 4 equiv) in DMSO (10 mL) were cooled to 0 °C. Iodomethane (1.36 mL, 21.90 mmol, 4 equiv) was added dropwise, and the mixture was stirred at room temperature for 1 h after the addition. The mixture was diluted with water (100 mL), and the product was extracted with toluene (3 × 30 mL), dried (Na2SO4), and evaporated to give compound 3 (1.508 g, 5.36 mmol, 98%) as a yellow oil.",
+            "product": "3",
+            "reactants": "sodium hydroxide, 1, Iodomethane, 2-(4-(benzyloxy)-3-methoxyphenyl)acetonitrile",
+            "temperature": "0 °C",
+            "time": "1 h",
+            "solvent": "DMSO, water"
+        },
+        {
+            "text": "Amine functionalized compound 41 was coupled to NHS-activated Sepharose 4 fast flow beads (GE Healthcare).",
+            "product": "NHS-activated Sepharose 4",
+            "reactants": "41"
+        }
+    ]
+}

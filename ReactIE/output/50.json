@@ -1,0 +1,82 @@
+{
+    "title": "Development of a Scalable Synthesis of Mevidalen (LY3154207), an Orally Available Positive Allosteric Modulator of the Human Dopamine D1 Receptor",
+    "id": "op0c00229",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "Esterification followed by methyl carbamate formation afforded the fully protected 8, and the THIQ ring was subsequently formed through a Pictet–Spengler reaction (Scheme 3). Over several steps, 9 was converted to imine 16 after N-chlorination and base-mediated dehydrohalogenation.",
+            "product": "16",
+            "reactants": "9",
+            "reaction type": "N-chlorination, base-mediated dehydrohalogenation"
+        },
+        {
+            "text": "Reduction of carboxylic acid was achieved using lithium aluminum hydride (LAH), and crude amino alcohol 14 can be telescoped into the tert-butyl dimethylsilyl (TBS) protection. Oxidation to imine 16 was achieved in tetrahydrofuran (THF) rather than diethyl ether, which was originally used and was not desirable for work at scale, and subsequent addition of Grignard reagent MeMgCl afforded 17 with good levels of diastereoselectivity.",
+            "product": "16",
+            "reaction type": "Oxidation",
+            "solvent": "tetrahydrofuran, THF"
+        },
+        {
+            "text": "Reduction of carboxylic acid was achieved using lithium aluminum hydride (LAH), and crude amino alcohol 14 can be telescoped into the tert-butyl dimethylsilyl (TBS) protection. Oxidation to imine 16 was achieved in tetrahydrofuran (THF) rather than diethyl ether, which was originally used and was not desirable for work at scale, and subsequent addition of Grignard reagent MeMgCl afforded 17 with good levels of diastereoselectivity.",
+            "product": "17",
+            "reactants": "16",
+            "solvent": "tetrahydrofuran, THF",
+            "catalyst": "Grignard reagent"
+        },
+        {
+            "text": "The conditions that were used to prepare 7·HCl from 1 (Scheme 6) were equally applicable to the formation of 11·HCl from 10·HCl and successfully applied in campaign 2 (Scheme 7). It was found that 11, obtained after freebasing in CH2Cl2/aqueous K2CO3, could be solvent swapped into methanol and reduced cleanly with portionwise additions of NaBH4. Thermal hazard analysis of the borohydride reduction revealed a high adiabatic temperature increase (89 °C) and a maximum heat flow of 455 W/kg. Portionwise addition of NaBH4 was used to help enable the safe venting of hydrogen gas generated during the addition.",
+            "product": "11HCl",
+            "reactants": "10HCl"
+        },
+        {
+            "text": "The medicinal chemistry conversion of intermediate 17 to 3 was achieved in five steps and 30% overall yield (Scheme 11). This sequence was potentially manageable at scale, but there were opportunities to simultaneously shorten the route and remove some of the more challenging steps.",
+            "product": "3",
+            "reactants": "17",
+            "yield": "30%"
+        },
+        {
+            "text": "For further development, we therefore sought to install the side chain in such a way as to avoid the unnecessary use of ethyl acrylate (used in the conversion of 24 to 25) and MeLi (used in the subsequent formation of 26), using an alkene with the gem-dimethyl group already installed. We also sought to replace the expensive rhodium catalyst that was employed to avoid dehalogenation.",
+            "product": "26, 25",
+            "reactants": "24"
+        },
+        {
+            "text": "Starting with conditions that were obtained for the same transformation on a different aryl halide during another discovery program a small number of bases were surveyed (iPr2NEt, Cy2NMe, and K2CO3). When using freebase 17, Cy2NMe was the preferred base, but if 17·HCl was used directly, potassium carbonate was the superior base, affording 29 in reasonable yield. This Heck reaction performed on compound 24 (Scheme 11) was considerably less efficient as significant participation of the aryl chlorides was observed. As expected, the alkene reduction could be achieved easily using palladium on carbon at modest pressure. The amide formation was facile using 1,1′-carbonyldiimidazole (CDI) as a simple, inexpensive, and nonallergenic coupling agent with easily purged byproducts. Identical TBS deprotection conditions were then employed to generate 3.",
+            "product": "29",
+            "reactants": "17, 17HCl, potassium carbonate",
+            "yield": "reasonable"
+        },
+        {
+            "text": "The reaction mixture was cooled to 0–10 °C and water (1000 kg) was added, maintaining the internal temperature below 30 °C (5.5 h). EtOAc was added (463 kg) and the mixture was stirred between 6 and 9 °C for 30 min, and the layers were separated. The aqueous layer was extracted with EtOAc (350 kg), and the combined organic layers were concentrated to afford a solution of 9 and 18 in EtOAc (406.2 kg). In a separate reactor, conc.",
+            "product": "9",
+            "reactants": "EtOAc, water",
+            "temperature": "0–10 °C",
+            "time": "30 min",
+            "solvent": "EtOAc"
+        },
+        {
+            "text": "The reaction mixture was cooled to 0–10 °C and water (1000 kg) was added, maintaining the internal temperature below 30 °C (5.5 h). EtOAc was added (463 kg) and the mixture was stirred between 6 and 9 °C for 30 min, and the layers were separated. The aqueous layer was extracted with EtOAc (350 kg), and the combined organic layers were concentrated to afford a solution of 9 and 18 in EtOAc (406.2 kg). In a separate reactor, conc.",
+            "product": "18",
+            "reactants": "water",
+            "temperature": "0–10 °C"
+        },
+        {
+            "text": "The mixture was then cooled to 20–25 °C and held for 5 h, and then the solids were collected by filtration. The cake was washed with water (135.65 kg) and then slurried in CH2Cl2 (680 kg) at 20–30 °C for 5 h. The solids were collected by filtration, and the wet cake was washed with CH2Cl2 (138.5 kg). The wet cake was dried under vacuum at 40–45 °C for 50 h to afford 10·HCl as a white solid (106.4 kg of salt, 87.0% freebase assay, 361.5 mol freebase, 84.0% yield, 99.4% purity by HPLC, 98% ee).",
+            "product": "10HCl",
+            "yield": "84.0%",
+            "time": "5 h"
+        },
+        {
+            "text": "The continuous flow equipment set utilized three feed streams: 21 in 2-MeTHF was pumped using a diaphragm metering pump (232 mL/min), MeLi (0.6 M in 2-MeTHF, 143.8 mL/min) was fed by a peristaltic pump, and aq NH4Cl (prepared by dissolving 264 kg of solid NH4Cl in 1152 kg of water) was fed by a peristaltic pump (320 mL/min, PFA tubing used). All feeds were on balances for periodic mass flow checks, and the flow rates were also monitored by in-line mass flow meters.",
+            "product": "NH4Cl",
+            "reactants": "NH4Cl",
+            "reaction type": "dissolving",
+            "solvent": "water",
+            "catalyst": "PFA tubing"
+        },
+        {
+            "text": "5–6 h. The solids were collected by filtration and washed with iPrOAc (2 × 0.55 L) that had been precooled to 3 °C. The solids were dried in an oven at 50 °C overnight (18–20 h) to afford 3 as an off-white granular solid (358.7 g, 73%, 99.3% purity by HPLC).",
+            "product": "3",
+            "yield": "99.3%, 73%",
+            "time": "5–6 h"
+        }
+    ]
+}

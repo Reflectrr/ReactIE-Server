@@ -1,0 +1,25 @@
+{
+    "title": "Highly Active and Selective RuPd Bimetallic NPs for the Cleavage of the Diphenyl Ether C–O Bond",
+    "id": "cs8b03253",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "With RuPd5/NH2–SiO2 as a model catalyst, the product selectivity as a function of reaction time was investigated (Table 1). The DPE conversion increased steadily with reaction time and approached 99% in 60 min. Benzene, cyclohexanol, and cyclohexanone together with a small amount of phenol were detected in the initial 3 min. No phenol was detected after 15 min because of its high hydrogenation activity on RuPd5/NH2–SiO2. The selectivity to cyclohexane and cyclohexanol increased while the selectivity to benzene and cyclohexanone decreased as the reaction time was prolonged. This indicated that benzene, phenol, and cyclohexanone were hydrogenated into saturated products, cyclohexane and cyclohexanol. Only 1% CHPE was detected throughout the whole reaction process, suggesting that CHPE is not the intermediate for C–O bond cleavage of DPE. This was further confirmed by poor activity and selectivity of RuPd5/NH2–SiO2 in the cleavage of CHPE (26% conversion with 31% selectivity). Furthermore, DCHE cannot be converted on RuPd5/NH2–SiO2 under the current reaction conditions. This could exclude the reaction pathway via hydrogenolysis/hydrolysis of DCHE. It can be concluded that the C–O bond of DPE is directly cleaved on RuPd5/NH2–SiO2.",
+            "product": "cyclohexane",
+            "reactants": "cyclohexanone, benzene",
+            "reaction type": "hydrogenated",
+            "catalyst": "RuPd5/NH2–SiO2"
+        },
+        {
+            "text": "With RuPd5/NH2–SiO2 as a model catalyst, the product selectivity as a function of reaction time was investigated (Table 1). The DPE conversion increased steadily with reaction time and approached 99% in 60 min. Benzene, cyclohexanol, and cyclohexanone together with a small amount of phenol were detected in the initial 3 min. No phenol was detected after 15 min because of its high hydrogenation activity on RuPd5/NH2–SiO2. The selectivity to cyclohexane and cyclohexanol increased while the selectivity to benzene and cyclohexanone decreased as the reaction time was prolonged. This indicated that benzene, phenol, and cyclohexanone were hydrogenated into saturated products, cyclohexane and cyclohexanol. Only 1% CHPE was detected throughout the whole reaction process, suggesting that CHPE is not the intermediate for C–O bond cleavage of DPE. This was further confirmed by poor activity and selectivity of RuPd5/NH2–SiO2 in the cleavage of CHPE (26% conversion with 31% selectivity). Furthermore, DCHE cannot be converted on RuPd5/NH2–SiO2 under the current reaction conditions. This could exclude the reaction pathway via hydrogenolysis/hydrolysis of DCHE. It can be concluded that the C–O bond of DPE is directly cleaved on RuPd5/NH2–SiO2.",
+            "product": "cyclohexanol",
+            "reaction type": "hydrogenated",
+            "catalyst": "RuPd5/NH2–SiO2"
+        },
+        {
+            "text": "Oxydicyclohexane was synthesized according to the previous method. (3-Aminepropyl)triethoxysilane (APTES), tetraethoxysilane (TEOS), cetyltrimethylammonium bromide (CTAB), and other reagents were purchased from Shanghai Chemical Reagent, Inc., of the Chinese Medicine Group.",
+            "product": "Oxydicyclohexane",
+            "reactants": "(3-Aminepropyl)triethoxysilane, TEOS, APTES"
+        }
+    ]
+}

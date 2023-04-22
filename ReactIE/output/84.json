@@ -1,0 +1,34 @@
+{
+    "title": "Photohormones Enable Optical Control of the Peroxisome Proliferator-Activated Receptor γ (PPARγ)",
+    "id": "jm0c00654",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The synthesis route for AzoGW1929 and derivative AzoGW1929-2 started from (S)-4-nitrophenylalanine methyl ester hydrochloride 2, which was reduced to the corresponding amino compound using palladium on charcoal and hydrogen (Scheme 1B). Baeyer–Mills coupling of methyl (S)-2-amino-3-(4-aminophenyl)propanoate 3 with the corresponding aniline (unsubstituted aniline for AzoGW1929 or 4-chloroaniline for AzoGW1929-2) and subsequent Buchwald–Hartwig cross-coupling to the free amine of the amino acid afforded the methyl ester derivatives of the corresponding photohormones. Cleavage of the methyl esters with lithium hydroxide yielded AzoGW1929 and AzoGW1929-2.",
+            "product": "AzoGW1929, AzoGW1929-2",
+            "reactants": "lithium hydroxide, 2, (S)-4-nitrophenylalanine methyl ester hydrochloride",
+            "reaction type": "Cleavage",
+            "catalyst": "palladium on charcoal"
+        },
+        {
+            "text": "Photoswitchable derivatives of rosiglitazone (AzoRosi, AzoRosi-2-4) were obtained in four steps (Scheme 1C), starting with the coupling of para-nitrobenzaldehyde to thiazolidinedione 6 in a Knoevenagel-type reaction. Two subsequent reduction steps with Hantzsch ester and palladium on charcoal under a hydrogen atmosphere gave 5-(4-aminobenzyl)thiazolidine-2,4-dione 7.",
+            "product": "5-(4-aminobenzyl)thiazolidine-2,4-dione",
+            "reactants": "6, para-nitrobenzaldehyde, thiazolidinedione",
+            "reaction type": "reduction",
+            "catalyst": "palladium on charcoal"
+        },
+        {
+            "text": "Photoswitchable derivatives of rosiglitazone (AzoRosi, AzoRosi-2-4) were obtained in four steps (Scheme 1C), starting with the coupling of para-nitrobenzaldehyde to thiazolidinedione 6 in a Knoevenagel-type reaction. Two subsequent reduction steps with Hantzsch ester and palladium on charcoal under a hydrogen atmosphere gave 5-(4-aminobenzyl)thiazolidine-2,4-dione 7.",
+            "product": "7",
+            "reactants": "6, Hantzsch ester",
+            "reaction type": "reduction",
+            "catalyst": "palladium on charcoal"
+        },
+        {
+            "text": "The final step comprised Baeyer–Mills coupling with the corresponding (para-substituted) anilines to afford AzoRosi and derivatives AzoRosi-2 to AzoRosi-4. The required aniline 9 for AzoRosi-4 was synthesized in a Suzuki reaction from para-aminoboronic acid 8 and 2-bromotoluene (Scheme S1).",
+            "product": "9",
+            "reactants": "2-bromotoluene, 8",
+            "reaction type": "Suzuki"
+        }
+    ]
+}

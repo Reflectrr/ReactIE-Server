@@ -1,0 +1,40 @@
+{
+    "title": "Probing and Engineering Key Residues for Bis‑C‑glycosylation and Promiscuity of a C‑Glycosyltransferase",
+    "id": "cs8b00376",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "We recently identified two novel benzophenone CGTs, MiCGT and MiCGTb, from , sharing 90% sequence identity. They are suggested to be involved in the biosynthesis of mangiferin, a xanthonoid C-glucoside of various pharmacological potentials, including antioxidant and antidiabetic activity. Thus, further investigation of the catalytic potential of MiCGT and MiCGTb could be useful in pharmacological applications. Interestingly, we found that MiCGTb can catalyze the first C-glycosylation and successive second C-glycosylation of 2-phenyl-2′,4′,6′-trihydroxyacetophenone (1) with UDP-Glc to yield a bis-C-glucosyl compound (1a), while MiCGT only produces the mono-C-glucosyl derivative (1b) (Scheme 1).",
+            "product": "(1a)",
+            "reactants": "UDP-Glc, 2-phenyl-2′,4′,6′-trihydroxyacetophenone, (1)",
+            "reaction type": "successive second C-glycosylation, C-glycosylation",
+            "catalyst": "MiCGTb"
+        },
+        {
+            "text": "We recently identified two novel benzophenone CGTs, MiCGT and MiCGTb, from , sharing 90% sequence identity. They are suggested to be involved in the biosynthesis of mangiferin, a xanthonoid C-glucoside of various pharmacological potentials, including antioxidant and antidiabetic activity. Thus, further investigation of the catalytic potential of MiCGT and MiCGTb could be useful in pharmacological applications. Interestingly, we found that MiCGTb can catalyze the first C-glycosylation and successive second C-glycosylation of 2-phenyl-2′,4′,6′-trihydroxyacetophenone (1) with UDP-Glc to yield a bis-C-glucosyl compound (1a), while MiCGT only produces the mono-C-glucosyl derivative (1b) (Scheme 1).",
+            "product": "(1b)",
+            "reactants": "UDP-Glc, 2-phenyl-2′,4′,6′-trihydroxyacetophenone, (1)"
+        },
+        {
+            "text": "Notably, 7 MiCGT mutants with isoleucine, methionine, valine, asparagine, threonine, alanine, or leucine led to high yields of 1a with respect to MiCGTb (Table S2), whereas no bis-C-glucoside formation was observed when residue 152 was mutated to proline, arginine, aspartate, tryptophan, or tyrosine. Similarly, MiCGTb mutants with methionine, valine, or threonine were detected with enhanced activity for the second C-glycosylation of 1, and the I152 M mutant showed the highest activity (Figure S3).",
+            "product": "1a",
+            "reactants": "isoleucine, asparagine, alanine, leucine, threonine, valine, methionine",
+            "yield": "high"
+        },
+        {
+            "text": "The sugar donors included UDP-α-d-glucose (16), TDP-α-d-glucose (17), UDP-α-d-galactose (18), UDP-β-l-rhamnose (19), UDP-β-l-arabinose (20), UDP-α-d-N-acetylglucosamine (21), UDP-α-d-xylose (22), UDP-α-d-glucuronic acid (23), UDP-β-l-fucose (24), UDP-α-d-N-acetylgalactosamine (25), GDP-α-d-mannose (26), and UDP-α-d-N-acetylgulosamine (27). The sugar donors 19, 20, and 27 were each prepared according to the literature.",
+            "product": "19",
+            "reactants": "19, UDP--d-rhamnose"
+        },
+        {
+            "text": "The sugar donors included UDP-α-d-glucose (16), TDP-α-d-glucose (17), UDP-α-d-galactose (18), UDP-β-l-rhamnose (19), UDP-β-l-arabinose (20), UDP-α-d-N-acetylglucosamine (21), UDP-α-d-xylose (22), UDP-α-d-glucuronic acid (23), UDP-β-l-fucose (24), UDP-α-d-N-acetylgalactosamine (25), GDP-α-d-mannose (26), and UDP-α-d-N-acetylgulosamine (27). The sugar donors 19, 20, and 27 were each prepared according to the literature.",
+            "product": "20",
+            "reactants": "UDP--l-arabinose, 20"
+        },
+        {
+            "text": "The sugar donors included UDP-α-d-glucose (16), TDP-α-d-glucose (17), UDP-α-d-galactose (18), UDP-β-l-rhamnose (19), UDP-β-l-arabinose (20), UDP-α-d-N-acetylglucosamine (21), UDP-α-d-xylose (22), UDP-α-d-glucuronic acid (23), UDP-β-l-fucose (24), UDP-α-d-N-acetylgalactosamine (25), GDP-α-d-mannose (26), and UDP-α-d-N-acetylgulosamine (27). The sugar donors 19, 20, and 27 were each prepared according to the literature.",
+            "product": "27",
+            "reactants": "UDP--d-N-acetylgulosamine"
+        }
+    ]
+}

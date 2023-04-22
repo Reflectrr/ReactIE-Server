@@ -1,0 +1,137 @@
+{
+    "title": "Formation of Cyclopropanes via Activation of (γ-Methoxy)alkyl Gold(I) Complexes with Lewis Acids",
+    "id": "om0c00324",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "Thermally stable 1 was synthesized via transmetalation of (P)AuCl with either (3-methoxy-3-phenylpropyl)lithium or (3-phenyl-3-phenylpropyl)pinacol borane (2) (Scheme 2) and was characterized by spectroscopy, mass spectrometry, and elemental analysis. In particular, the 13C NMR spectrum of 1 displayed a diagnostic doublet at δ 24.8 (J = 92.5 Hz) assigned to the gold-bound carbon atom.",
+            "product": "1",
+            "reactants": "(3-phenyl-3-phenylpropyl)pinacol borane, (2), (3-methoxy-3-phenylpropyl)lithium, (P)AuCl",
+            "reaction type": "transmetalation"
+        },
+        {
+            "text": "Treatment of 1 (24 mM) with AlCl3 (1.6 equiv) in CD2Cl2 at −78 °C led to the immediate consumption of 1 to form a 4:1 mixture of phenylcyclopropane (3) and 1-methoxy-1-phenylpropane (4) in ≥86 ± 5% combined yield by 1H NMR analysis (Table 1, entry 1).",
+            "product": "(3), (4)",
+            "reactants": "AlCl3, 1",
+            "yield": "86  5%",
+            "temperature": "78 °C",
+            "solvent": "CD2Cl2"
+        },
+        {
+            "text": "We were surprised by the apparent high sensitivity of 1 toward protodeauration and questioned whether the γ-methoxy group facilitated protodeauration relative to a simple gold alkyl complex. However, a pair of control experiments argued against this contention as independent treatment of both 1 and the gold n-butyl complex (P)Au(CH2CH2 CH2CH3) with TfOH (24 mM; 1 equiv) at −78 °C led to immediate formation of 4 and n-butane, respectively, as the exclusive organic products (eqs  and ).",
+            "product": "4, n-butane",
+            "reactants": "1, TfOH",
+            "temperature": "78 °C"
+        },
+        {
+            "text": "Indeed, in situ alkylation of the (3-methylthiol-3-phenylpropyl)gold complex 5 with methyl trifluoromethanesulfonate from −78 to −10 °C formed a ∼2:1 mixture of 3 and methyl(1-phenylpropyl)sulfane in 95 ± 5% combined yield (1H NMR) without observation of the presumed gold (γ-sulfonium) propyl intermediate I (Scheme 3).",
+            "product": "3",
+            "reactants": "5, (5-methylthiol-3-phenylpropyl)gold complex, methyl trifluoromethanesulfonate",
+            "yield": "95  5%",
+            "temperature": "78 to 10 °C",
+            "reaction type": "alkylation"
+        },
+        {
+            "text": "Indeed, in situ alkylation of the (3-methylthiol-3-phenylpropyl)gold complex 5 with methyl trifluoromethanesulfonate from −78 to −10 °C formed a ∼2:1 mixture of 3 and methyl(1-phenylpropyl)sulfane in 95 ± 5% combined yield (1H NMR) without observation of the presumed gold (γ-sulfonium) propyl intermediate I (Scheme 3).",
+            "product": "methyl(1-phenylpropyl)sulfane",
+            "reactants": "5, (5-methylthiol-3-phenylpropyl)gold complex, methyl trifluoromethanesulfonate",
+            "yield": "95  5%",
+            "temperature": "78 to 10 °C",
+            "reaction type": "in situ alkylation"
+        },
+        {
+            "text": "Our first objective in this area was to determine the stereochemistry of the Lewis acid-mediated cyclopropanation of (3-phenyl-3-methoxy)propyl gold complexes with respect to the γ-position, which also proved critical to the determination of stereochemistry with respect to the α-position (see below). To this end, we targeted the stereochemically pure 2-deuterio-3-phenyl-3-methoxypropyl gold isotopomer erythro-(P)AuCH2CHDCH(OMe)Ph (erythro-1-2-d1), generated via transmetalation of erythro-(Bpin)CH2CHDCH(OMe)Ph (erythro-2-2-d1) with (P)AuCl (Scheme 4). Treatment of erythro-1-2-d1 (≥95% d) with AlCl3 at −78 °C led to formation of a 4.4:1 mixture of cis-2-deuterio-1-phenylcyclopropane (cis-3-2-d1) and 2-deuterio-1-methoxy-1-phenylpropane (4-2-d1) in 103 ± 5% combined (Scheme 4). Formation of cis-3-2-d1 as a single stereoisomer (≥95%) was established by 1H NMR analysis and homonuclear 1H–1H decoupling experiments. The stereoselective conversion of erythro-1-2-d1 to cis-3-2-d1 established that cyclopropanation occurred with inversion of configuration of the γ-stereocenter.",
+            "product": "erythro-(P)AuCH2CHDCH(OMe)Ph",
+            "reactants": "erythro-(Bpin)CH2CHDCH(OMe)Ph (erythro-2-2-d1), (P)AuCl",
+            "reaction type": "transmetalation"
+        },
+        {
+            "text": "Our first objective in this area was to determine the stereochemistry of the Lewis acid-mediated cyclopropanation of (3-phenyl-3-methoxy)propyl gold complexes with respect to the γ-position, which also proved critical to the determination of stereochemistry with respect to the α-position (see below). To this end, we targeted the stereochemically pure 2-deuterio-3-phenyl-3-methoxypropyl gold isotopomer erythro-(P)AuCH2CHDCH(OMe)Ph (erythro-1-2-d1), generated via transmetalation of erythro-(Bpin)CH2CHDCH(OMe)Ph (erythro-2-2-d1) with (P)AuCl (Scheme 4). Treatment of erythro-1-2-d1 (≥95% d) with AlCl3 at −78 °C led to formation of a 4.4:1 mixture of cis-2-deuterio-1-phenylcyclopropane (cis-3-2-d1) and 2-deuterio-1-methoxy-1-phenylpropane (4-2-d1) in 103 ± 5% combined (Scheme 4). Formation of cis-3-2-d1 as a single stereoisomer (≥95%) was established by 1H NMR analysis and homonuclear 1H–1H decoupling experiments. The stereoselective conversion of erythro-1-2-d1 to cis-3-2-d1 established that cyclopropanation occurred with inversion of configuration of the γ-stereocenter.",
+            "product": "erythro-1-2-d1)",
+            "reactants": "erythro-2-2-d1, erythro-(Bpin)CH2CHDCH(OMe)Ph, (P)AuCl",
+            "reaction type": "transmetalation"
+        },
+        {
+            "text": "In an initial attempt toward this objective, we targeted the diastereomeric 1,2-dideuterated gold alkyl complexes threo- and erythro-(P)AuCHDCHDC(OMe)Ph, which we reasoned could be generated via transmetalation of (P)AuCl with the appropriate 1,2-dideuterio-3-methoxy-3-phenylpropyl pinacol boranes threo-2-1,2-d2 and erythro-2-1,2-d2, respectively (Scheme 5). The stereochemically pure boronic esters threo-2-1,2-d2 and erythro-2-1,2-d2 were synthesized via rhodium-catalyzed deuteration of vinylboronic esters trans-6 and cis-6, respectively. Independent transmetalation of (P)AuCl with threo-2-1,2-d2 and erythro-2-1,2-d2 led to isolation of the gold propyl complex 1-1,2-d2 in 47% and 14% yield, respectively (Scheme 5). Unfortunately, 1H NMR analyses of the gold complexes 1-1,2-d2 generated from threo-2-1,2-d2 and erythro-2-1,2-d2 were indistinguishable, indicating that transmetalation had occurred with loss of configuration at the Cα.",
+            "product": "threo-2-1,2-d2",
+            "reactants": "threo-2-1,2-d2, (P)AuCl",
+            "reaction type": "transmetalation",
+            "catalyst": "rhodium"
+        },
+        {
+            "text": "In an initial attempt toward this objective, we targeted the diastereomeric 1,2-dideuterated gold alkyl complexes threo- and erythro-(P)AuCHDCHDC(OMe)Ph, which we reasoned could be generated via transmetalation of (P)AuCl with the appropriate 1,2-dideuterio-3-methoxy-3-phenylpropyl pinacol boranes threo-2-1,2-d2 and erythro-2-1,2-d2, respectively (Scheme 5). The stereochemically pure boronic esters threo-2-1,2-d2 and erythro-2-1,2-d2 were synthesized via rhodium-catalyzed deuteration of vinylboronic esters trans-6 and cis-6, respectively. Independent transmetalation of (P)AuCl with threo-2-1,2-d2 and erythro-2-1,2-d2 led to isolation of the gold propyl complex 1-1,2-d2 in 47% and 14% yield, respectively (Scheme 5). Unfortunately, 1H NMR analyses of the gold complexes 1-1,2-d2 generated from threo-2-1,2-d2 and erythro-2-1,2-d2 were indistinguishable, indicating that transmetalation had occurred with loss of configuration at the Cα.",
+            "product": "erythro-2-1,2-d2",
+            "reactants": "1,2-dideuterio-3-methoxy-3-phenylpropyl pinacol boranes threo-2-1,2-d2, (P)AuCl",
+            "reaction type": "transmetalation",
+            "catalyst": "rhodium"
+        },
+        {
+            "text": "In an initial attempt toward this objective, we targeted the diastereomeric 1,2-dideuterated gold alkyl complexes threo- and erythro-(P)AuCHDCHDC(OMe)Ph, which we reasoned could be generated via transmetalation of (P)AuCl with the appropriate 1,2-dideuterio-3-methoxy-3-phenylpropyl pinacol boranes threo-2-1,2-d2 and erythro-2-1,2-d2, respectively (Scheme 5). The stereochemically pure boronic esters threo-2-1,2-d2 and erythro-2-1,2-d2 were synthesized via rhodium-catalyzed deuteration of vinylboronic esters trans-6 and cis-6, respectively. Independent transmetalation of (P)AuCl with threo-2-1,2-d2 and erythro-2-1,2-d2 led to isolation of the gold propyl complex 1-1,2-d2 in 47% and 14% yield, respectively (Scheme 5). Unfortunately, 1H NMR analyses of the gold complexes 1-1,2-d2 generated from threo-2-1,2-d2 and erythro-2-1,2-d2 were indistinguishable, indicating that transmetalation had occurred with loss of configuration at the Cα.",
+            "product": "1-1",
+            "reactants": "threo-2-1,2-d2, (P)AuCl",
+            "reaction type": "transmetalation"
+        },
+        {
+            "text": "As an alternative approach to determine the stereochemistry of cyclopropanation with respect to Cα, we targeted the cis-3-methoxycyclohexyl gold complex cis-(P)AuCHCH2CH(OMe)CH2CH2CH2(cis-7). This approach was inspired by the work of Glueck and co-workers, who reported the stereoselective formation of the all equatorial gold menthyl complex (PPh3)AuCHCH2CH(Me)CH2CH2CH(CHMe2) via transmetalation of Ph3PAuCl with the Grignard reagent derived from (−)menthyl chloride.",
+            "product": "(PPh3)AuCHCH2CH(Me)CH2CH2CH(CHMe2)",
+            "reactants": "Ph3PAuCl, ()menthyl chloride",
+            "reaction type": "transmetalation"
+        },
+        {
+            "text": "Transmetalation of (P)AuCl with the Grignard reagent generated from cis-1-chloro-3-methoxycyclohexane led to isolation of cis-7 in 20% yield as a single diastereomer as determined by 1H and 31P NMR analysis. The 13C NMR spectrum of cis-7 displayed a diagnostic doublet at δ 42.7 (d, J = 99.2 Hz) assigned to the gold-bound carbon atom. The equatorial orientation of both the (P)Au and methoxy groups of cis-7 was established by the presence of large 3JHH axial–axial coupling constants for both the Hα (δ 0.58, J = 12.5 Hz) and Hγ protons (δ 2.76, J = 10.3) in the 1H NMR spectrum. Treatment of cis-7 with TMSOTf/pyridine (10:1) at −78 °C led to immediate formation of a 5.1:1 mixture of bicyclo[3.1.0]hexane and cyclohexyl methyl ether in 98 ± 5% combined yield as determined by 1H NMR spectroscopy (Scheme 6), thereby validating a double inversion mechanism for the cyclopropanation of γ-methoxy gold alkyl complexes.",
+            "product": "cis-7",
+            "reactants": "cis-1-chloro-3-methoxycyclohexane, (P)AuCl",
+            "yield": "20%",
+            "reaction type": "Transmetalation",
+            "catalyst": "Grignard reagent"
+        },
+        {
+            "text": "The double inversion mechanism validated for the conversion of cis-7 to bicyclo[3.1.0]hexane is consistent with a W-shaped transition state where the back lobe of the Au–Cα σ-bond attacks the back lobe of the Cγ–O σ-bond of the oxonium intermediate (Figure 1). W-shaped transition states have been invoked on the basis of stereochemical analysis for a number of similar cyclopropane forming transformations including the Lewis acid-mediated 1,3-elimination of γ-trialkylstannyl alcohols and 3-methoxy-3-phenylpropyl zirconocene complexes, the solvolysis of γ-trialkylstannyl mesylates and γ-trimethylsilyl sulfonates, the base-promoted 1,3-elimination of γ-haloalkylboranes and γ-sulfonylalkylboranes, and the 1,3-elimination of γ-functionalized alkyl iron complexes. There are however exceptions to the preferential inversion of the Cα stereocenter in the formation of cyclopropanes via 1,3-elimination.",
+            "product": "bicyclo[3.1.0]hexane",
+            "reactants": "cis-7",
+            "reaction type": "double inversion"
+        },
+        {
+            "text": "The Lewis acid activation of gold γ-methoxy and γ-(thiomethyl) alkyl complexes forms cyclopropanes, suggesting that gold to alkene carbene transfer similarly involves intermediates and/or transition states bearing full or partial positive charge at the γ-carbon atom. The Lewis acid-mediated cyclopropanation of erythro-1-2-d1 to form cis-3-2-d1 established inversion of the γ-stereocenter, consistent with backside displacement of the γ-oxonium leaving group by the Au–C electron pair as opposed to formation of a free carbenium ion intermediate.",
+            "product": "cis-3-2-d1",
+            "reactants": "erythro-1-2-d1",
+            "reaction type": "cyclopropanation"
+        },
+        {
+            "text": "This observation, coupled with the facile Lewis acid mediated cyclopropanation of cis-7 to form bicyclo[3.1.0]hexane validated a double inversion mechanism for cyclopropane formation consistent with a W-shaped transition state where the back lobe of the Au–Cα σ-bond attacks the back lobe of the Cγ–O σ-bond (Figure 1). The Lewis acid mediated cyclopropanation of 3-phenyl-3-(thiomethyl)propyl gold complexes also supports Maulide’s proposed mechanism for the gold-catalyzed cyclopropanation of alkenes and allenes with stabilized sulfonium ylides involving the electrophilic attack of Cγ on Cα of a gold (γ-sulfonium)alkyl intermediate.",
+            "product": "bicyclo[3.1.0]hexane",
+            "reactants": "cis-7",
+            "reaction type": "cyclopropanation"
+        },
+        {
+            "text": "Isotopomer 1-1,2-d2 was synthesized from boronic esters threo-2-1,2-d2 or erythro-2-1,2-d2 by employing procedures analogous to that used to synthesize erythro-1-2-d1 in 72% yield (from threo-2-1,2-d2) and 14% yield (from erythro-2-1,2-d2) as white solids. The 1H NMR spectra of 1-1,2-d2 prepared from both threo-2-1,2-d2 and erythro-2-1,2-d2 were indistinguishable as were homonuclear 1H–1H decoupling experiments, thus confirming the scrambling of the Cα stereocenter.",
+            "product": "1-1,2-d2",
+            "reactants": "threo-2-1,2-d2, erythro-2-1,2-d2",
+            "yield": "14%, 72%"
+        },
+        {
+            "text": "A solution of CH2Br2 (0.73 mg, 4.2 × 10–3 mmol; internal standard), TMSOTf (3.5 mg, 1.6 × 10–2 mmol), and pyridine (0.20 μL, 2.6 × 10–3 mmol) in CD2Cl2 (0.3 mL) was added to a solution of cis-7 (8 mg, 1.3 × 10–2 mmol) in CD2Cl2 (0.2 mL) at −78 °C, and the tube was washed with additional CD2Cl2 (0.15 mL). The tube was placed in the probe of an NMR spectrometer precooled at −78 °C and monitored by 1H NMR spectroscopy. Consumption of cis-7 was complete within 15 min to form a mixture of TMSOMe, bicyclo[3.1.0]hexane (82%), and cyclohexyl methyl ether (16%). The yields of bicyclo[3.1.0]hexane and cyclohexyl methyl ether were determined by integrating the exo cyclopropyl proton of bicyclo[3.1.0]hexane at δ 0.26 and the methoxy resonance of cyclohexyl methyl ether at δ 3.28 relative to the resonance of CH2Br2 at δ 4.96 in the 1H NMR spectrum.",
+            "product": "TMSOMe",
+            "reactants": "pyridine, TMSOTf, CH2Br2, cis-7",
+            "temperature": "78 °C",
+            "time": "15 min",
+            "solvent": "CD2Cl2"
+        },
+        {
+            "text": "A solution of CH2Br2 (0.73 mg, 4.2 × 10–3 mmol; internal standard), TMSOTf (3.5 mg, 1.6 × 10–2 mmol), and pyridine (0.20 μL, 2.6 × 10–3 mmol) in CD2Cl2 (0.3 mL) was added to a solution of cis-7 (8 mg, 1.3 × 10–2 mmol) in CD2Cl2 (0.2 mL) at −78 °C, and the tube was washed with additional CD2Cl2 (0.15 mL). The tube was placed in the probe of an NMR spectrometer precooled at −78 °C and monitored by 1H NMR spectroscopy. Consumption of cis-7 was complete within 15 min to form a mixture of TMSOMe, bicyclo[3.1.0]hexane (82%), and cyclohexyl methyl ether (16%). The yields of bicyclo[3.1.0]hexane and cyclohexyl methyl ether were determined by integrating the exo cyclopropyl proton of bicyclo[3.1.0]hexane at δ 0.26 and the methoxy resonance of cyclohexyl methyl ether at δ 3.28 relative to the resonance of CH2Br2 at δ 4.96 in the 1H NMR spectrum.",
+            "product": "bicyclo[3.1.0]hexane",
+            "reactants": "pyridine, TMSOTf, CH2Br2, cis-7",
+            "yield": "(82%)",
+            "temperature": "78 °C",
+            "time": "15 min",
+            "solvent": "CD2Cl2"
+        },
+        {
+            "text": "A solution of CH2Br2 (0.73 mg, 4.2 × 10–3 mmol; internal standard), TMSOTf (3.5 mg, 1.6 × 10–2 mmol), and pyridine (0.20 μL, 2.6 × 10–3 mmol) in CD2Cl2 (0.3 mL) was added to a solution of cis-7 (8 mg, 1.3 × 10–2 mmol) in CD2Cl2 (0.2 mL) at −78 °C, and the tube was washed with additional CD2Cl2 (0.15 mL). The tube was placed in the probe of an NMR spectrometer precooled at −78 °C and monitored by 1H NMR spectroscopy. Consumption of cis-7 was complete within 15 min to form a mixture of TMSOMe, bicyclo[3.1.0]hexane (82%), and cyclohexyl methyl ether (16%). The yields of bicyclo[3.1.0]hexane and cyclohexyl methyl ether were determined by integrating the exo cyclopropyl proton of bicyclo[3.1.0]hexane at δ 0.26 and the methoxy resonance of cyclohexyl methyl ether at δ 3.28 relative to the resonance of CH2Br2 at δ 4.96 in the 1H NMR spectrum.",
+            "product": "cyclohexyl methyl ether",
+            "reactants": "pyridine, TMSOTf, CH2Br2, cis-7",
+            "temperature": "78 °C",
+            "solvent": "CD2Cl2"
+        }
+    ]
+}

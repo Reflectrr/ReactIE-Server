@@ -1,0 +1,48 @@
+{
+    "title": "Ligand–Phospholipid Conjugation: A Versatile Strategy for Developing Long-Acting Ligands That Bind to Membrane Proteins by Restricting the Subcellular Localization of the Ligand",
+    "id": "jm8b00041",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "The transphosphatidylation is an enzymatic phosphatidyl group transfer reaction with a two-phase system of CHCl3-acetate buffer that effectively provides a variety of phospholipid derivatives from a phosphatidylcholine (phosphatidyl donor) and an alkanol (phosphatidyl acceptor). The initial attempt using free amine PEG units as phosphatidyl acceptors afforded almost none of the transphosphatidylation products, and most of the distearoylphosphatidylcholine (DSPC) remained intact, suggesting that the PLDP was denatured under the alkaline conditions due to the basic acceptors. Therefore, we used hydrochloride salts of the PEG units as acceptors, which gave the desired PL–PEG units 9–14 as transphosphatidylation products in excellent yields. Thus, we efficiently synthesized a series of the key PL–PEG units that could be generally used for the synthesis of various LPCs, by the PLDP-catalyzed transphosphatidylation.",
+            "product": "9–14",
+            "yield": "excellent",
+            "reaction type": "transphosphatidylation"
+        },
+        {
+            "text": "The phenolic hydroxyl group of tolterodine was protected by a benzyl group to yield compound 15. The benzylic methyl group of 15 was oxidized with ceric ammonium nitrate (CAN) to yield the corresponding aldehyde, which was subsequently reduced to alcohol with NaBH4 in methanol. The resulting alcohol was successively treated with SOCl2 and NaCN to yield nitrile 16. The cyano group of 16 was reduced with DIBAL, and the resulting amino group was condensed with carboxylic acid 17 by the mixed anhydride method to afford compound 18. The two benzyl groups of 18 were simultaneously removed by hydrogenolysis to yield the tolterodine unit 19.",
+            "product": "15",
+            "reactants": "tolterodine"
+        },
+        {
+            "text": "The phenolic hydroxyl group of tolterodine was protected by a benzyl group to yield compound 15. The benzylic methyl group of 15 was oxidized with ceric ammonium nitrate (CAN) to yield the corresponding aldehyde, which was subsequently reduced to alcohol with NaBH4 in methanol. The resulting alcohol was successively treated with SOCl2 and NaCN to yield nitrile 16. The cyano group of 16 was reduced with DIBAL, and the resulting amino group was condensed with carboxylic acid 17 by the mixed anhydride method to afford compound 18. The two benzyl groups of 18 were simultaneously removed by hydrogenolysis to yield the tolterodine unit 19.",
+            "product": "16",
+            "reactants": "NaCN, SOCl2, alcohol",
+            "reaction type": "reduced"
+        },
+        {
+            "text": "The phenolic hydroxyl group of tolterodine was protected by a benzyl group to yield compound 15. The benzylic methyl group of 15 was oxidized with ceric ammonium nitrate (CAN) to yield the corresponding aldehyde, which was subsequently reduced to alcohol with NaBH4 in methanol. The resulting alcohol was successively treated with SOCl2 and NaCN to yield nitrile 16. The cyano group of 16 was reduced with DIBAL, and the resulting amino group was condensed with carboxylic acid 17 by the mixed anhydride method to afford compound 18. The two benzyl groups of 18 were simultaneously removed by hydrogenolysis to yield the tolterodine unit 19.",
+            "product": "19",
+            "reactants": "18",
+            "reaction type": "hydrogenolysis"
+        },
+        {
+            "text": "LPC 6 (59.2 mg, 0.0386 mmol, 92%) was prepared from PL–PEG unit 12. [α]20D 3.97 (c 0.87, CHCl3/MeOH 2:1); 1H NMR (500 MHz, CDCl3/CD3OD 3:1) δ 7.45 (br, 1H, amide NH), 7.36 (d, J = 7.6 Hz, 2H, aromatic), 7.30 (dd, J = 7.6, 7.6 Hz, 2H, aromatic), 7.28 (br, 1H, amide NH), 7.20 (t, J = 7.6 Hz, 1H, aromatic), 6.99 (d, J = 1.9 Hz, 1H, aromatic), 6.88 (dd, J = 8.6, 1.9 Hz, 1H, aromatic), 6.74 (d, J = 8.6 Hz, 1H, aromatic), 5.25–5.17 (m, 1H, glycerol CH), 4.38 (dd, J = 12.4, 2.9 Hz, 1H, glycerol CH2), 4.31 (t, J = 6.7 Hz, 1H, benzyl CH), 4.15 (dd, J = 12.4, 7.6 Hz, 1H, glycerol CH2), 4.03–3.91 (m, 4H, POCH2 and glycerol CH2), 3.71–3.57 (m, 26H, OCH2), 3.57–3.47 (m, 4H, OCH2 and NCH), 3.43–3.30 (m, 4H, CONHCH2), 2.94–2.78 (m, 2H, NCH2), 2.67 (t, J = 6.7 Hz, 2H, benzyl CH2), 2.63–2.47 (m, 2H, NCH2CH2), 2.36–2.23 (m, 4H, COCH2), 2.17–2.02 (m, 4H, NHCOCH2), 1.66 (m, 8H, COCH2CH2), 1.37–1.17 (m, 70H, CH2 and isopropyl CH3), 0.88 (t, J = 6.7 Hz, 3H, CH3), 0.88 (t, J = 6.7 Hz, 3H, CH3); 13C NMR (100 MHz, CDCl3/CD3OD 3:1) δ 174.1, 173.9, 173.5, 173.1, 152.5, 142.4, 130.0, 129.4, 128.2, 127.8, 127.8, 127.5, 126.3, 115.4, 70.4 (d, J = 8.5 Hz), 70.1, 70.0, 69.7, 69.3, 64.2 (d, J = 5.6 Hz), 63.1 (d, J = 4.7 Hz), 62.4, 54.1, 46.1, 41.6, 40.4, 38.9, 35.6, 35.6, 34.3, 33.9, 33.8, 31.6, 29.4, 29.3, 29.2, 29.2, 29.0, 29.0, 28.8, 28.8, 28.2, 25.0, 24.6, 24.5, 22.3, 18.0, 16.4, 13.7; 31P NMR (202 MHz, CDCl3/CD3OD 3:1) δ 3.02.",
+            "product": "LPC 6",
+            "reactants": "[]20D, 12, 3.97",
+            "yield": "92%)"
+        },
+        {
+            "text": "LPC 7 (59.3 mg, 0.0365 mmol, 87%) was prepared from PL–PEG unit 13. [α]20D 5.06 (c 0.98, CHCl3/MeOH 2:1); 1H NMR (500 MHz, CDCl3/CD3OD 3:1) δ 7.44 (br, 1H, amide NH), 7.36 (d, J = 7.6 Hz, 2H, aromatic), 7.30 (dd, J = 7.6, 7.6 Hz, 2H, aromatic), 7.26 (br, 1H, amide NH), 7.20 (t, J = 7.6 Hz, 1H, aromatic), 6.98 (d, J = 1.9 Hz, 1H, aromatic), 6.88 (dd, J = 7.6, 1.9 Hz, 1H, aromatic), 6.74 (d, J = 7.6 Hz, 1H, aromatic), 5.25–5.17 (m, 1H, glycerol CH), 4.38 (dd, J = 11.5, 2.9 Hz, 1H, glycerol CH2), 4.31 (dd, J = 7.6, 7.6 Hz, 1H, benzyl CH), 4.15 (dd, J = 11.5, 6.7 Hz, 1H, glycerol CH2), 4.03–3.89 (m, 4H, POCH2 and glycerol CH2), 3.71–3.57 (m, 34H, OCH2), 3.57–3.48 (m, 4H, OCH2 and NCH), 3.43–3.29 (m, 4H, CONHCH2), 2.93–2.81 (m, 2H, NCH2), 2.71–2.63 (m, 2H, benzyl CH2), 2.63–2.47 (m, 2H, NCH2CH2), 2.35–2.24 (m, 4H, COCH2), 2.17–2.03 (m, 4H, NHCOCH2), 1.66–1.45 (m, 8H, COCH2CH2), 1.40–1.17 (m, 70H, CH2 and isopropyl CH3), 0.88 (t, J = 6.7 Hz, 3H, CH3), 0.88 (t, J = 6.7 Hz, 3H, CH3); 13C NMR (100 MHz, CDCl3/CD3OD 3:1) δ 174.1, 173.8, 173.5, 173.0, 152.5, 142.4, 130.0, 129.3, 128.2, 127.9, 127.7, 127.5, 126.3, 115.4, 70.3 (d, J = 8.5 Hz), 70.1, 70.0, 70.0, 69.8, 69.7, 69.3, 64.2 (d, J = 5.6 Hz), 63.1 (d, J = 4.7 Hz), 62.4, 54.1, 54.1, 46.1, 41.7, 40.4, 38.8, 35.6, 35.6, 34.3, 33.9, 33.7, 31.6, 29.4, 29.3, 29.2, 29.2, 29.0, 29.0, 28.8, 28.8, 28.2, 25.0, 24.6, 24.5, 22.3, 18.0, 17.9, 16.3, 13.6; 31P NMR (202 MHz, CDCl3/CD3OD 3:1) δ 3.15.",
+            "product": "LPC, 7",
+            "reactants": "13. []20D",
+            "yield": "87%)"
+        },
+        {
+            "text": "LPC 8 (58.8 mg, 0.0344 mmol, 82%) was prepared from PL–PEG unit 14.",
+            "product": "LPC 8",
+            "reactants": "14, PL–PEG",
+            "yield": "82%)"
+        }
+    ]
+}

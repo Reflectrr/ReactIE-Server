@@ -1,0 +1,42 @@
+{
+    "title": "Controlling Selectivity in the Hydroboration of Carbon Dioxide to the Formic Acid, Formaldehyde, and Methanol Oxidation Levels",
+    "id": "cs8b03894",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "CO2 is a sustainable C1 feedstock for the synthesis of fine and commodity chemicals, which could potentially replace our current petrochemical derived C1 sources. In particular, there is interest in the generation of products such as formic acid, formaldehyde, and methanol from CO2, as they are currently synthesized from nonrenewable feedstocks. The direct hydrogenation of CO2 to formic acid, formaldehyde, and methanol is the most atom efficient route to these products, but the best conditions for these reactions are harsh and we currently lack the ability to sustainably generate H2 on a large scale.",
+            "product": "methanol, formic acid",
+            "reactants": "CO2",
+            "reaction type": "direct hydrogenation"
+        },
+        {
+            "text": "To understand the fate of the catalyst after CO2 reduction, we attempted to isolate a metal complex at the completion of the reaction. Using 5 mol % (tBuPCP)PdH as the catalyst, we fully converted HBPin and CO2 to boryl formate and removed the solvent in vacuo.",
+            "product": "boryl formate",
+            "reactants": "HBPin, CO2",
+            "reaction type": "reduction",
+            "catalyst": "(tBuPCP)PdH"
+        },
+        {
+            "text": "After separation of the organic products (see the Supporting Informationes1), the metal containing product was recrystallized from toluene layered with pentane and crystals suitable for X-ray diffraction were obtained. We crystallographically characterized (tBuPCP)Pd{OC(O)H}[B{OC(O)H}3] (1), which is an adduct between triformatoborane and (tBuPCP)Pd{OC(O)H} (Figure 5a,b). 1H and 31P NMR spectroscopy indicated that 1 was also the major metal containing species present in the sample before recrystallization.",
+            "product": "(1), (tBuPCP)PdOC(O)H[BOC(O)H3]",
+            "reactants": "triformatoborane, (tBuPCP)PdOC(O)H"
+        },
+        {
+            "text": "The formation of (tBuPCP)Pd{OC(O)H} is unsurprising, as it is known that this complex rapidly forms from CO2 insertion into (tBuPCP)PdH. However, the formation of triformatoborane is unexpected, as there was no evidence that this compound was directly formed during catalysis. We propose that this species results from decomposition of the boryl formate product, which is known to be unstable, after catalysis has finished. Consistent with this hypothesis, when a vacuum was applied to the boryl formate derived from HBPin and CO2, the formation of the known compound B2Pin3 was observed by NMR spectroscopy and X-ray crystallography (Scheme 1 and the Supporting Informationes1). The other decomposition product from this process is presumably triformatoborane, which balances the stoichiometry of the proposed decomposition pathway. Once generated, the triformatoborane can act as a Lewis acid and coordinate to the Lewis basic carbonyl oxygen in (tBuPCP)Pd{OC(O)H}.",
+            "product": "(tBuPCP)PdOC(O)H",
+            "reactants": "(tBuPCP)PdH"
+        },
+        {
+            "text": "Over time, the ratio of the bis(boryl)acetal product to the methoxy borane product changed from 3.4 to 0.2. An analysis of the mass balance indicated that most of the 9-BBN added to the reaction mixture was either unreacted or had been incorporated into the methoxy borane product. Given that there is no CO2 present in this reaction to directly form the methoxy borane product, this experiment establishes that bis(boryl)acetal can be converted into methoxy borane under the reaction conditions.",
+            "product": "methoxy borane",
+            "reactants": "bis(boryl)acetal"
+        },
+        {
+            "text": "Furthermore, in the experiment described in Figure 7, 9 days were required for the conversion of bis(boryl)acetal to methoxy borane, which shows that the rate of this process is slow when (tBuPCP)NiH is used as the catalyst. This conversion is likely even slower in the presence of CO2, which lowers the concentration of the metal hydride catalyst. Moreover, the elementary steps involved in the conversion of bis(boryl)acetal to methoxy borane are likely slower for (tBuPCP)NiH, as it is the most sterically bulky catalyst studied in this work. As a consequence, (tBuPCP)NiH gives more bis(boryl)acetal with 9-BBN than the less sterically bulky (tBuPCP)PdH, which is able to more readily convert any bis(boryl)acetal that is formed to methoxy borane (see the Supporting Informationes1).",
+            "product": "methoxy borane",
+            "reactants": "bis(boryl)acetal",
+            "time": "9 days",
+            "catalyst": "(tBuPCP)NiH"
+        }
+    ]
+}

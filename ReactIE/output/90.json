@@ -1,0 +1,29 @@
+{
+    "title": "Targeting Bromodomain and Extraterminal Proteins for Drug Discovery: From Current Progress to Technological Development",
+    "id": "jm0c01487",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "Starting with I-BET151 guided by structural information leads to imidazoquinoline compound 9 with 150-fold BD1 selectivity over BD2. Compound 9 reduces the production of IL-6 and MCP-1 in LPS-stimulated human peripheral blood mononuclear cells (PBMCs) and whole blood and suppresses MV4-11 lymphoblast leukemia cell growth (pIC50 = 7.0), indicating that BD1-selective inhibitor compound 9 is sufficient to maintain the anti-inflammatory and antiproliferative activity of pan-BET inhibition.",
+            "product": "9",
+            "reactants": "I-BET151"
+        },
+        {
+            "text": "Currently, ABBV-744 (13), a highly effective inhibitor of the BD2 domain with more than 300 times higher selectivity for BD2 over BD1, is synthesized and shows moderate preclinical PK profiles, including a moderate to high volume of distribution, a 2.0–4.4 h half life, and moderate clearance. The structural modification of an ABBV-075 analog leads to compound 13. 2,6-Dimethylphenyl ether in compound 13 contributes to BD2 selectivity, with a tertiary alcohol on the central phenyl ring suppressing the activity against BRD4-BD1 and a fluorine atom on the phenyl ether improving the pharmacokinetic properties of compound 13.",
+            "product": "13, ABBV-744",
+            "reactants": "ABBV-075",
+            "reaction type": "structural modification"
+        },
+        {
+            "text": "Another study applying a template hopping approach based on the orthogonal template (compound 14) leads to the synthesis of compounds GSK620 (15) and GSK549 (16) with high selectivity and low levels of inhibition against indicators of hepatoxicity. SJ018 (17) and SJ432 (18), two tetrahydroquinoline analogs, inhibit the expression of MYC and downstream targets but display no rebound effects, as compared with JQ1 in pediatric tumor cell lines, suggesting that BD2-selective inhibitors are effective candidates for the design of antitumor drugs for MYC-driven pediatric malignancies.",
+            "product": "GSK620, 15, GSK549",
+            "reactants": "14",
+            "reaction type": "template hopping"
+        },
+        {
+            "text": "Another study applying a template hopping approach based on the orthogonal template (compound 14) leads to the synthesis of compounds GSK620 (15) and GSK549 (16) with high selectivity and low levels of inhibition against indicators of hepatoxicity. SJ018 (17) and SJ432 (18), two tetrahydroquinoline analogs, inhibit the expression of MYC and downstream targets but display no rebound effects, as compared with JQ1 in pediatric tumor cell lines, suggesting that BD2-selective inhibitors are effective candidates for the design of antitumor drugs for MYC-driven pediatric malignancies.",
+            "product": "16",
+            "reactants": "14"
+        }
+    ]
+}

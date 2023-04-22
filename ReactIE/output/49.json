@@ -1,0 +1,209 @@
+{
+    "title": "Rhodium-Mediated Dehydrogenative Borylation–Hydroborylation of Bis(alkyl)alkynes: Intermediates and Mechanism",
+    "id": "om9b00104",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "The formation of isomer Z is favored because the reductive elimination of Z-1,2-diborylalkene is very fast. However, when the formation of the abovementioned key intermediate, by oxidative addition of diborane, and/or the reductive elimination of Z-1,2-diborylalkene occurs at rates comparable to the rate of the Z–E isomerization of the β-borylalkenyl group or are slower steps, the formation of E-1,2-diborylalkene is observed.",
+            "product": "E-1,2-diborylalkene",
+            "reactants": "diborane",
+            "reaction type": "oxidative addition of diborane, and/or the reductive elimination of Z-1,2-diborylalkene"
+        },
+        {
+            "text": "In the presence of 6.0 × 10–3 M 1, the treatment of 0.2 M 3-hexyne with 0.2 M B2pin2, in n-octane, at 70 °C, under argon atmosphere leads after 20 h to the transformation of the 80% of the alkyne into an equimolecular mixture of 4-pinacolboryl-(3E)-1,3-hexadiene and 3-pinacolboryl-3-hexene. The latter is composed by the isomers E and Z in a 2:1 molar ratio (eq ). Under the same conditions, the 90% of 4-octyne is transformed into equimolecular amounts of 5-pinacolboryl-2,4-octadiene and 4-pinalcolboryl-4-octene.",
+            "product": "4-pinacolboryl-(3E)-1,3-hexadiene, 3-pinacolboryl-3-hexene",
+            "reactants": "B2pin2, 3-hexyne",
+            "temperature": "70 °C",
+            "time": "20 h",
+            "solvent": "n-octane"
+        },
+        {
+            "text": "In the presence of 6.0 × 10–3 M 1, the treatment of 0.2 M 3-hexyne with 0.2 M B2pin2, in n-octane, at 70 °C, under argon atmosphere leads after 20 h to the transformation of the 80% of the alkyne into an equimolecular mixture of 4-pinacolboryl-(3E)-1,3-hexadiene and 3-pinacolboryl-3-hexene. The latter is composed by the isomers E and Z in a 2:1 molar ratio (eq ). Under the same conditions, the 90% of 4-octyne is transformed into equimolecular amounts of 5-pinacolboryl-2,4-octadiene and 4-pinalcolboryl-4-octene.",
+            "product": "5-pinacolboryl-2,4-octadiene",
+            "reactants": "4-octyne"
+        },
+        {
+            "text": "In the presence of 6.0 × 10–3 M 1, the treatment of 0.2 M 3-hexyne with 0.2 M B2pin2, in n-octane, at 70 °C, under argon atmosphere leads after 20 h to the transformation of the 80% of the alkyne into an equimolecular mixture of 4-pinacolboryl-(3E)-1,3-hexadiene and 3-pinacolboryl-3-hexene. The latter is composed by the isomers E and Z in a 2:1 molar ratio (eq ). Under the same conditions, the 90% of 4-octyne is transformed into equimolecular amounts of 5-pinacolboryl-2,4-octadiene and 4-pinalcolboryl-4-octene.",
+            "product": "4-pinalcolboryl-4-octene",
+            "reactants": "4-octyne",
+            "temperature": "70 °C",
+            "solvent": "n-octane"
+        },
+        {
+            "text": "Addition of 1.0 equiv of 3-hexyne to toluene solutions of 1 at 253 K leads to Rh{(Z)-C(Et)C(Et)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (2) as a result of the insertion of the alkyne into the Rh–Bpin bond (Scheme 3). At room temperature, the β-boryl alkenyl group isomerizes to afford Rh{(E)-C(Et)C(Et)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (3). Both insertion and isomerization reactions are quantitative processes.",
+            "product": "(2), Rh(Z)-C(Et)C(Et)Bpin3-P,O,P-[xant(PiPr2)2]",
+            "reactants": "3-hexyne, 1",
+            "temperature": "253 K",
+            "reaction type": "insertion",
+            "solvent": "toluene"
+        },
+        {
+            "text": "The C–H bond activation of the methyl group of the ethyl substituent at the Cα atom of the β-borylalkenyl ligand of 3 should afford intermediate A, which could evolve into B by migration of the hydride ligand from the metal center to Cα. Then, the subsequent β-hydrogen elimination should lead to hydride C, bearing 4-pinalcolboryl-(3E)-1,3-hexadiene η2-coordinated through the terminal C–C double bond. Thus, the coordination of the internal C–C double bond of the generated diene followed by the migration of the hydride ligand from the rhodium atom to the boron-substituted carbon atom in the resulting intermediate D would give the allyl complex 4. Under catalytic conditions, the displacement of the coordinated C–C double bond of C by an alkyne molecule yields 4-pinalcolboryl-(3E)-1,3-hexadiene, whereas the generated hydride-π-alkyne species leads to the hydroborylation products (vide infra).",
+            "product": "4-pinalcolboryl-(3E)-1,3-hexadiene",
+            "reactants": "C"
+        },
+        {
+            "text": "The C–C triple bond inserts into the Rh–B bond of 1 to initially afford the Z-β-borylalkenyl derivative Rh{(Z)-C(Pr)C(Pr)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (5), which evolves into the E-isomer Rh{(E)–C(Et)C(Et)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (6), in pentane, at room temperature. In agreement with the ethyl counterpart, at 50 °C, complex 6 is quantitatively transformed into the allyl derivative Rh{η3-CH2CHCHCH2CH(Bpin)Pr}{κ2-P,P-[xant(PiPr2)2]} (7), which reacts with B2pin2 to give 1,5-dipinacolboryl-(E)-2-octene and 1, closing a cycle for the stoichiometric rhodium-mediated 1,5-addition of the diborane to the alkyne.",
+            "product": "Z--borylalkenyl derivative Rh(Z)-C(Pr)C(Pr)Bpin3-P,O,P-[xant(PiPr2)2] (5)",
+            "reactants": "1"
+        },
+        {
+            "text": "The C–C triple bond inserts into the Rh–B bond of 1 to initially afford the Z-β-borylalkenyl derivative Rh{(Z)-C(Pr)C(Pr)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (5), which evolves into the E-isomer Rh{(E)–C(Et)C(Et)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (6), in pentane, at room temperature. In agreement with the ethyl counterpart, at 50 °C, complex 6 is quantitatively transformed into the allyl derivative Rh{η3-CH2CHCHCH2CH(Bpin)Pr}{κ2-P,P-[xant(PiPr2)2]} (7), which reacts with B2pin2 to give 1,5-dipinacolboryl-(E)-2-octene and 1, closing a cycle for the stoichiometric rhodium-mediated 1,5-addition of the diborane to the alkyne.",
+            "product": "Rh(E)–C(Et)C(Et)Bpin3-P,O,P-[xant(PiPr2)2] (6)",
+            "temperature": "room",
+            "solvent": "pentane"
+        },
+        {
+            "text": "The C–C triple bond inserts into the Rh–B bond of 1 to initially afford the Z-β-borylalkenyl derivative Rh{(Z)-C(Pr)C(Pr)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (5), which evolves into the E-isomer Rh{(E)–C(Et)C(Et)Bpin}{κ3-P,O,P-[xant(PiPr2)2]} (6), in pentane, at room temperature. In agreement with the ethyl counterpart, at 50 °C, complex 6 is quantitatively transformed into the allyl derivative Rh{η3-CH2CHCHCH2CH(Bpin)Pr}{κ2-P,P-[xant(PiPr2)2]} (7), which reacts with B2pin2 to give 1,5-dipinacolboryl-(E)-2-octene and 1, closing a cycle for the stoichiometric rhodium-mediated 1,5-addition of the diborane to the alkyne.",
+            "product": "Rh3-CH2CHCH2CH(Bpin)Pr2-P,P-[xant(PiP",
+            "reactants": "6, B2pin",
+            "temperature": "50 °C"
+        },
+        {
+            "text": "The key intermediate for the formation of the dienes is F. This species can exist as a mixture of conformers Fa and Fb, resulting from the free rotation of the alkenyl moiety around the RhCH–CH2 bond. They would generate Ga and Gb, respectively, containing the diolefin η2-coordinated to the rhodium atom.",
+            "product": "Ga",
+            "reactants": "Fa",
+            "reaction type": "free rotation"
+        },
+        {
+            "text": "The key intermediate for the formation of the dienes is F. This species can exist as a mixture of conformers Fa and Fb, resulting from the free rotation of the alkenyl moiety around the RhCH–CH2 bond. They would generate Ga and Gb, respectively, containing the diolefin η2-coordinated to the rhodium atom.",
+            "product": "Gb",
+            "reactants": "Fb"
+        },
+        {
+            "text": "In order to confirm this, we added 1.0 equiv of 3-hexyne to a toluene-d8 solution of 4 contained in an NMR tube. As expected, at 50 °C, 4-pinacolboryl-(3E)-1,3-hexadiene was reached and a sequence of three new organometallic compounds was observed.",
+            "product": "4-pinacolboryl-(3E)-1,3-hexadiene, 3 new organometallic compounds",
+            "reactants": "3-hexyne, 4",
+            "temperature": "50 °C",
+            "solvent": "toluene-d8"
+        },
+        {
+            "text": "Treatment of pentane solutions of 8 with 1.0 equiv of the alkynes, at room temperature, instantaneously leads to Rh{(Z)-C(R)C(R)H}{κ3-P,O,P-[xant(PiPr2)2]} (R =",
+            "product": "Rh(Z)-C(R)C(R)H3-P,O,P-[xant(PiPr2)2]",
+            "reactants": "8, alkynes",
+            "temperature": "room",
+            "solvent": "pentane"
+        },
+        {
+            "text": "Allyl complexes 13 and 14 show a similar behavior to 4 and 7 in the presence of B2pin2. The addition of 1.5 equiv of the latter to toluene solutions of 13 and 14 at room temperature affords 1-pinacolboryl-2-hexene and 1-pinacolboryl-2-octene, respectively, along with 1.",
+            "product": "1-pinacolboryl-2-hexene",
+            "reactants": "13, 14",
+            "temperature": "room",
+            "solvent": "toluene"
+        },
+        {
+            "text": "Allyl complexes 13 and 14 show a similar behavior to 4 and 7 in the presence of B2pin2. The addition of 1.5 equiv of the latter to toluene solutions of 13 and 14 at room temperature affords 1-pinacolboryl-2-hexene and 1-pinacolboryl-2-octene, respectively, along with 1.",
+            "product": "1-pinacolboryl-2-octene",
+            "reactants": "B2pin2, 14",
+            "temperature": "room",
+            "solvent": "toluene"
+        },
+        {
+            "text": "Allyl complexes 13 and 14 show a similar behavior to 4 and 7 in the presence of B2pin2. The addition of 1.5 equiv of the latter to toluene solutions of 13 and 14 at room temperature affords 1-pinacolboryl-2-hexene and 1-pinacolboryl-2-octene, respectively, along with 1.",
+            "product": "1",
+            "reactants": "B2pin2, 7",
+            "temperature": "room",
+            "solvent": "toluene"
+        },
+        {
+            "text": "The hydride–rhodium(I)-(η2-alkyne) intermediates evolve by means of the migratory insertion of the C–C triple bond of the alkyne into the Rh–H bond, to give Z-alkenyl species (complexes 9 and 10). In contrast to the β-borylalkenyl counterparts, these compounds can be isolated as solids in almost quantitative yield because their transformation into E isomers is slow at room temperature (complexes 11 and 12). Both Z- and E-alkenyl compounds react with diborane to give the Z and E isomers of the hydroborylation products 3-pinacolboryl-3-hexene and 4-pinacolboryl-4-octene and to regenerate the catalyst, complex 1. The formation of both isomers of each olefin indicates that in both cases, the rate of the Z–E isomerization is similar to the rate of the reactions of the alkenyl isomers with the diborane. In the absence of the latter, the metal center of the E-alkenyl complexes is also able to promote the C–H bond activation of a Cγ–H bond of the alkyl substituent attached at the alkenyl Cα atom to generate the allyl derivatives 13 and 14, which leads to the internal olefins, boryl substituted at a terminal position, 1-pinacolboryl-2-hexene and 1-pinacolboryl-2-octene. Because this C–H bond activation is slower than the reactions of the alkenyl complexes with the diborane, these olefins are not observed under catalytic conditions.",
+            "product": "4-pinacolboryl-4-octene, 3-pinacolboryl-3-hexene",
+            "reactants": "E-alkenyl compounds, Z-, diborane",
+            "reaction type": "hydroborylation"
+        },
+        {
+            "text": "A Schlenk flask provided with a Teflon closure was filled with a solution of 3 (100 mg, 0.13 mmol) in pentane (5 mL) and heated in an oil bath (50 °C) for 24 h. After this, the resulting solution was checked by 31P{1H} NMR spectroscopy, showing quantitative conversion to complex 4. The solution was then concentrated to dryness to afford a brown oil. After several cycles of addition of pentane/evaporation of pentane, a pale brown foamy solid was obtained. Yield: 43 mg (43%).",
+            "product": "4",
+            "reactants": "3",
+            "yield": "43 mg (43%)",
+            "temperature": "50 °C",
+            "time": "24 h",
+            "solvent": "pentane"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 4 (15 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 minutes at room temperature. After this, the quantitative conversion to 1 and the formation of 1,4-dipinacolboryl-(E)-2-hexene were observed by NMR.",
+            "product": "1",
+            "reactants": "B2pin2, 4",
+            "yield": "quantitative",
+            "temperature": "room",
+            "time": "15 minutes",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 4 (15 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 minutes at room temperature. After this, the quantitative conversion to 1 and the formation of 1,4-dipinacolboryl-(E)-2-hexene were observed by NMR.",
+            "product": "1,4-dipinacolboryl-(E)-2-hexene",
+            "reactants": "B2pin2, 4",
+            "temperature": "room",
+            "time": "15 minutes",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "A Schlenk flask provided with a Teflon closure was filled with a solution of 6 (100 mg, 0.13 mmol) in pentane (5 mL) and heated in an oil bath (50 °C) for 24 h. After this, the resulting solution was checked by 31P{1H} NMR spectroscopy, showing quantitative conversion to complex 7. The solution was concentrated then to dryness to afford a brown oil. All attempts to obtain a solid failed because of the high solubility of the complex.",
+            "product": "7",
+            "reactants": "6",
+            "yield": "quantitative",
+            "temperature": "50 °C",
+            "time": "24 h",
+            "solvent": "pentane"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 7 (16 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 min at room temperature. After this, the quantitative conversion to 1 and the formation of 1,5-dipinacolboryl-(E)-2-octene were observed by NMR.",
+            "product": "1",
+            "reactants": "B2pin2, 7",
+            "yield": "quantitative",
+            "temperature": "room",
+            "time": "15 min",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 7 (16 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 min at room temperature. After this, the quantitative conversion to 1 and the formation of 1,5-dipinacolboryl-(E)-2-octene were observed by NMR.",
+            "product": "1,5-dipinacolboryl-(E)-2-octene",
+            "reactants": "B2pin2, 7",
+            "temperature": "room",
+            "time": "15 min",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "3-Hexyne (2.3 μL, 0.02 mmol) was added to a solution of 4 (15 mg, 0.02 mmol) in benzene-d6. After heating for 2 h at 50 °C, 1H and 31P{1H} NMR spectroscopies show a mixture of complexes 9, 11, and 13 in a ratio 54:31:15 and the formation of 4-pinacolboryl-(3E)-1,3-hexadiene.",
+            "product": "13, 9, 11",
+            "reactants": "4, 3-Hexyne",
+            "temperature": "50 °C",
+            "time": "2 h",
+            "solvent": "benzene-d6"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 13 (13 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 min at room temperature. After this, the quantitative conversion to 1 and the formation of 1-pinacolboryl-2-hexene were observed by NMR spectroscopy.",
+            "product": "1",
+            "reactants": "13, B2pin2",
+            "yield": "quantitative",
+            "temperature": "room",
+            "time": "15 min",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 13 (13 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 min at room temperature. After this, the quantitative conversion to 1 and the formation of 1-pinacolboryl-2-hexene were observed by NMR spectroscopy.",
+            "product": "1-pinacolboryl-2-hexene",
+            "reactants": "13, B2pin2",
+            "temperature": "room",
+            "time": "15 min",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 14 (14 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 min at room temperature. After this, the quantitative conversion to 1 and the formation of 1-pinacolboryl-2-octene were observed by NMR spectroscopy.",
+            "product": "1",
+            "reactants": "B2pin2, 14",
+            "yield": "quantitative",
+            "temperature": "room",
+            "time": "15 min",
+            "solvent": "C6D6"
+        },
+        {
+            "text": "B2pin2 (7.5 mg, 0.030 mmol) was added to a solution of 14 (14 mg, 0.020 mmol) in C6D6 (0.5 mL) and the resulting mixture was stirred for 15 min at room temperature. After this, the quantitative conversion to 1 and the formation of 1-pinacolboryl-2-octene were observed by NMR spectroscopy.",
+            "product": "1-pinacolboryl-2-octene",
+            "reactants": "B2pin2, 14",
+            "temperature": "room",
+            "time": "15 min",
+            "solvent": "C6D6"
+        }
+    ]
+}

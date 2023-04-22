@@ -1,0 +1,72 @@
+{
+    "title": "Insights into the Influence of ZrO2 Crystal Structures on Methyl Laurate Hydrogenation over Co/ZrO2 Catalysts",
+    "id": "cs1c00632",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "Co/ZR1 exhibited the worst hydrogenation ability, with only 0.4 mmol gcat–1 h–1 initial reaction rate, 18.8% conversion, and 10.8% yield of 1-dodecanol obtained after 8 h reaction. The low catalytic activity of Co/ZR1 was probably due to the low surface area, low amount of active sites (e.g., acid, base, metal, and Ov sites), low Co dispersion, and weak metal–support interaction (indicated by the easy reduction of Co species).",
+            "product": "1-dodecanol",
+            "yield": "10.8%",
+            "time": "8 h",
+            "reaction type": "hydrogenation"
+        },
+        {
+            "text": "Co/ZR2 and Co/ZR4 displayed similar catalytic activity, giving a higher conversion of nearly 100%, with the generation of over 60% yield of 1-dodecanol, 19% (Co/ZR2) and 35% (Co/ZR4) of liquid alkanes (C8–C12), and 5.2% (Co/ZR2) and 1.2% (Co/ZR4) of lauryl laurate, respectively. The higher yield of liquid alkanes produced by the catalytic hydrogenation over Co/ZR4 might be caused by the stronger metal–support interaction of Co/ZR4 than that of Co/ZR2, while the production of more lauryl laurate on Co/ZR2 was caused by the higher surface acid/base amount for Co/ZR2. Remarkably, the highest initial rate (6.4 mmol gcat–1 h–1), conversion (100%), and liquid alkane yield (83.5%) were achieved over the Co/ZR3 catalyst.",
+            "product": "1-dodecanol",
+            "yield": "60%",
+            "catalyst": "Co/ZR2"
+        },
+        {
+            "text": "Co/ZR2 and Co/ZR4 displayed similar catalytic activity, giving a higher conversion of nearly 100%, with the generation of over 60% yield of 1-dodecanol, 19% (Co/ZR2) and 35% (Co/ZR4) of liquid alkanes (C8–C12), and 5.2% (Co/ZR2) and 1.2% (Co/ZR4) of lauryl laurate, respectively. The higher yield of liquid alkanes produced by the catalytic hydrogenation over Co/ZR4 might be caused by the stronger metal–support interaction of Co/ZR4 than that of Co/ZR2, while the production of more lauryl laurate on Co/ZR2 was caused by the higher surface acid/base amount for Co/ZR2. Remarkably, the highest initial rate (6.4 mmol gcat–1 h–1), conversion (100%), and liquid alkane yield (83.5%) were achieved over the Co/ZR3 catalyst.",
+            "product": "C8–C12",
+            "yield": "19%, 35%",
+            "catalyst": "Co/ZR2"
+        },
+        {
+            "text": "Co/ZR2 and Co/ZR4 displayed similar catalytic activity, giving a higher conversion of nearly 100%, with the generation of over 60% yield of 1-dodecanol, 19% (Co/ZR2) and 35% (Co/ZR4) of liquid alkanes (C8–C12), and 5.2% (Co/ZR2) and 1.2% (Co/ZR4) of lauryl laurate, respectively. The higher yield of liquid alkanes produced by the catalytic hydrogenation over Co/ZR4 might be caused by the stronger metal–support interaction of Co/ZR4 than that of Co/ZR2, while the production of more lauryl laurate on Co/ZR2 was caused by the higher surface acid/base amount for Co/ZR2. Remarkably, the highest initial rate (6.4 mmol gcat–1 h–1), conversion (100%), and liquid alkane yield (83.5%) were achieved over the Co/ZR3 catalyst.",
+            "product": "lauryl laurate",
+            "yield": "1.2%, 5,2%",
+            "catalyst": "Co/ZR2"
+        },
+        {
+            "text": "For comparison, the conversion of methyl laurate over prepared ZrO2 supports was conducted (see Table S9). The conversion was low (between 10 and 20%) for all supports, and the main product was lauric acid.",
+            "product": "lauric acid",
+            "reactants": "methyl laurate",
+            "yield": "low (between 10 and 20%)"
+        },
+        {
+            "text": "This indicated that the hydrogenolysis of methyl laurate to lauric acid could occur over ZrO2. The highest lauric acid yield was obtained on ZR2 (13.9%), which was probably due to the abundant acid–base sites of this support.",
+            "product": "lauric acid",
+            "reactants": "methyl laurate",
+            "yield": "highest lauric acid yield was obtained on ZR2 (13.9%)",
+            "reaction type": "hydrogenolysis",
+            "catalyst": "ZrO2"
+        },
+        {
+            "text": "As shown in Figure 6c, Co/ZR3 yielded a relatively high amount of 1-dodecanol even at 180 °C, without forming much of lauryl laurate as a byproduct. Therefore, the evolution of the reactants and products with time was conducted to evaluate the potential for fatty alcohol production on Co/ZR3 (Figure 8b).",
+            "product": "1-dodecanol",
+            "yield": "relatively high",
+            "temperature": "180 °C"
+        },
+        {
+            "text": "The loading of Co and the reduction process promoted the phase transformation from t-ZrO2 to m-ZrO2. Co/ZR2 and Co/ZR3 catalysts prepared following different methods exhibited considerably different SBET yet similar Co dispersion, which could be mainly attributed to the difference in their metal–support interaction. Co/ZR3 possessed stronger metal–support interaction than Co/ZR2, as reflected in the H2-TPR results. Co/ZR2 with much higher SBET should have considerably higher Co dispersion than Co/ZR3, but the stronger metal–support interaction of Co/ZR3 made it similar for both samples.",
+            "product": "m-ZrO2",
+            "reactants": "t-ZrO2",
+            "reaction type": "reduction",
+            "catalyst": "Co"
+        },
+        {
+            "text": "For the role of acid/base sites, acid sites catalyzed/facilitated the following reaction in methyl laurate hydrogenation: (1) the dehydration of 1-dodecanol to 1-dodecene; (2) the esterification of 1-dodecanol and lauric acid to lauryl laurate; and (3) the isomerization of 1-undecene and 1-dodecene to generate the carbocation intermediates, which in turn proceeded via cracking reaction forming shorter chain alkanes. Lewis acid sites (strong acid sites) facilitated the adsorption of oxygenates and subsequently activated them. Regarding the basic sites, esterification could also occur on them. In addition, it was reported that strong basic sites of ZrO2, which was positively correlated with oxygen vacancy concentration, could facilitate the formation of carbonates by CO2 adsorption.",
+            "product": "1-dodecene",
+            "reactants": "1-dodecanol",
+            "reaction type": "dehydration"
+        },
+        {
+            "text": "For the role of acid/base sites, acid sites catalyzed/facilitated the following reaction in methyl laurate hydrogenation: (1) the dehydration of 1-dodecanol to 1-dodecene; (2) the esterification of 1-dodecanol and lauric acid to lauryl laurate; and (3) the isomerization of 1-undecene and 1-dodecene to generate the carbocation intermediates, which in turn proceeded via cracking reaction forming shorter chain alkanes. Lewis acid sites (strong acid sites) facilitated the adsorption of oxygenates and subsequently activated them. Regarding the basic sites, esterification could also occur on them. In addition, it was reported that strong basic sites of ZrO2, which was positively correlated with oxygen vacancy concentration, could facilitate the formation of carbonates by CO2 adsorption.",
+            "product": "lauryl laurate",
+            "reactants": "lauric acid, 1-dodecanol",
+            "reaction type": "esterification",
+            "catalyst": "acid sites"
+        }
+    ]
+}

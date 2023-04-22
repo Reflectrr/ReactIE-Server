@@ -1,0 +1,141 @@
+{
+    "title": "Development of a Scalable Process for the PPAR‑α Agonist GW641597X Incorporating Baeyer–Villiger Chemistry and Retrospective ICH M7 Assessment",
+    "id": "op9b00385",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "The process involved the alkylation of phenol 2 with ethyl bromoisobutyrate to provide ketone 3, which was oxidized to acetate 4 using m-chloroperoxybenzoic acid (m-CPBA) followed by deacetylation using sodium ethoxide to furnish phenol 5. Benzonitrile 6 was reacted with hydroxylamine to yield hydroxybenzimidamide 7, and subsequent alkylation/condensation with chloroacetyl chloride gave oxadiazole 8. Alkylation of phenol 5 with oxadiazole 8 provided the intermediate ethyl ester 9, which was hydrolyzed in situ to GW641597X 1. The overall yield of GW641597X from benzonitrile 6 was 25%, while the yield from hydroxyacetophenone 2 was 29%.",
+            "product": "3",
+            "reactants": "2, ethyl bromoisobutyrate",
+            "reaction type": "alkylation"
+        },
+        {
+            "text": "The process involved the alkylation of phenol 2 with ethyl bromoisobutyrate to provide ketone 3, which was oxidized to acetate 4 using m-chloroperoxybenzoic acid (m-CPBA) followed by deacetylation using sodium ethoxide to furnish phenol 5. Benzonitrile 6 was reacted with hydroxylamine to yield hydroxybenzimidamide 7, and subsequent alkylation/condensation with chloroacetyl chloride gave oxadiazole 8. Alkylation of phenol 5 with oxadiazole 8 provided the intermediate ethyl ester 9, which was hydrolyzed in situ to GW641597X 1. The overall yield of GW641597X from benzonitrile 6 was 25%, while the yield from hydroxyacetophenone 2 was 29%.",
+            "product": "4",
+            "reactants": "m-CPBA, 3, m-chloroperoxybenzoic acid",
+            "reaction type": "oxidized"
+        },
+        {
+            "text": "The process involved the alkylation of phenol 2 with ethyl bromoisobutyrate to provide ketone 3, which was oxidized to acetate 4 using m-chloroperoxybenzoic acid (m-CPBA) followed by deacetylation using sodium ethoxide to furnish phenol 5. Benzonitrile 6 was reacted with hydroxylamine to yield hydroxybenzimidamide 7, and subsequent alkylation/condensation with chloroacetyl chloride gave oxadiazole 8. Alkylation of phenol 5 with oxadiazole 8 provided the intermediate ethyl ester 9, which was hydrolyzed in situ to GW641597X 1. The overall yield of GW641597X from benzonitrile 6 was 25%, while the yield from hydroxyacetophenone 2 was 29%.",
+            "product": "GW641597X",
+            "reactants": "9, 6, benzonitrile",
+            "yield": "29%, 25%",
+            "reaction type": "hydrolyzed"
+        },
+        {
+            "text": "The process involved the alkylation of phenol 2 with ethyl bromoisobutyrate to provide ketone 3, which was oxidized to acetate 4 using m-chloroperoxybenzoic acid (m-CPBA) followed by deacetylation using sodium ethoxide to furnish phenol 5. Benzonitrile 6 was reacted with hydroxylamine to yield hydroxybenzimidamide 7, and subsequent alkylation/condensation with chloroacetyl chloride gave oxadiazole 8. Alkylation of phenol 5 with oxadiazole 8 provided the intermediate ethyl ester 9, which was hydrolyzed in situ to GW641597X 1. The overall yield of GW641597X from benzonitrile 6 was 25%, while the yield from hydroxyacetophenone 2 was 29%.",
+            "product": "1,",
+            "reactants": "9, GW641597X",
+            "reaction type": "hydrolyzed"
+        },
+        {
+            "text": "The product also appeared to be contaminated with unreacted ethyl bromoisobutyrate, which is a known mutagen. The preparation of hydroxybenzimidamide 7 required a prolonged refluxing period (32 h), and there were concerns with the safety of the workup, which involved solvent removal, particularly should unreacted hydroxylamine be present. The alkylation of phenol 5 with 8 to provide ethyl ester 9 also required prolonged reaction time, and the workup involved solvent removal from the product. The use of tetrahydrofuran (THF) solvent for the hydrolysis of ethyl ester 9 was also not ideal owing to miscibility issues, and the final crystallization from toluene proved problematic owing to the very low volumes required (2 volume process), resulting in having to transfer very thick mixtures.",
+            "product": "7",
+            "temperature": "refluxing",
+            "time": "32 h"
+        },
+        {
+            "text": "Further critique of the initial supply route to GW641597X highlighted that an additional charge of ethyl bromoisobutyrate was still required during the conversion of phenol 2 to ester 3; the workup was complicated and not ideal for further scale-up. The use of m-CPBA in dichloromethane is also nonideal for future scale-up for process safety, engineering, and environmental reasons. The reagent does have transport restrictions and is not atom economical for the transformation that it effects.",
+            "product": "3",
+            "reactants": "2"
+        },
+        {
+            "text": "The use of the highly volatile dichloromethane requires inclusion of additional engineering controls, e.g., use of carbon filtration/drums to capture volatilized solvent. It had also been observed that the deacetylation process of 4 and coupling with alkyl chloride 8 using sodium ethoxide also led to the concomitant formation of the ethyl ether byproduct 10 as well as alcohol 11, the latter of which was attributed to levels of sodium hydroxide within the sodium ethoxide reagent and/or water in the reaction mixture. Indeed, levels of up to 10% by high-performance liquid chromatography (HPLC) of ethyl ether 10 could be observed within isolated ethyl ester product 9. It was also recognized that the final crystallization of GW641597X was not efficient and valuable material was being lost during this purification procedure. Authentic samples of the impurities 10 and 11 were unambiguously prepared through reaction of alkyl chloride 8 with sodium ethoxide in ethanol and potassium hydroxide in denatured ethanol, respectively.",
+            "product": "10",
+            "reactants": "alkyl chloride, 4, 8",
+            "reaction type": "deacetylation"
+        },
+        {
+            "text": "The use of the highly volatile dichloromethane requires inclusion of additional engineering controls, e.g., use of carbon filtration/drums to capture volatilized solvent. It had also been observed that the deacetylation process of 4 and coupling with alkyl chloride 8 using sodium ethoxide also led to the concomitant formation of the ethyl ether byproduct 10 as well as alcohol 11, the latter of which was attributed to levels of sodium hydroxide within the sodium ethoxide reagent and/or water in the reaction mixture. Indeed, levels of up to 10% by high-performance liquid chromatography (HPLC) of ethyl ether 10 could be observed within isolated ethyl ester product 9. It was also recognized that the final crystallization of GW641597X was not efficient and valuable material was being lost during this purification procedure. Authentic samples of the impurities 10 and 11 were unambiguously prepared through reaction of alkyl chloride 8 with sodium ethoxide in ethanol and potassium hydroxide in denatured ethanol, respectively.",
+            "product": "9",
+            "reactants": "10"
+        },
+        {
+            "text": "In the preparation of ester 3, the addition time for ethyl bromoisobutyrate was lengthened from 4 to 7 h, which avoided the need for an extra charge of the reagent at the end of the stirring time. Hydrochloric acid (1 M) was added during the workup, and the lengthy workup and isolation of 3 was replaced by extraction into hexane and use of this solution directly in the next reaction for the preparation of acetate 4. The use of sodium perborate and acetic acid has been reported to affect the controlled oxidation of a variety of functional groups including the Baeyer–Villiger oxidation of ketones to the corresponding esters via the “in situ” production of peracetic acid. Evaluating the conditions described for the Baeyer–Villiger oxidation of 4-methoxyacetophenone on acetophenone 3 gave an excellent yield of ester 4.",
+            "product": "4",
+            "reactants": "4-methoxyacetophenone, 3",
+            "yield": "excellent",
+            "reaction type": "Baeyer–Villiger oxidation"
+        },
+        {
+            "text": "To gain further insight into the alternative oxidation conditions, the reaction progress was monitored by offline HPLC analysis (Figure 1). This revealed a significant induction period of around 40–50 min for reactions conducted at both 30 and 40 °C, when the sodium perborate was charged as a single portion at the start of the reaction (runs 1 and 2). Conversely, no induction period and a significantly increased rate of oxidation were observed when commercially available peracetic acid was employed as the oxidant (run 3). However, stirring a mixture of sodium perborate in acetic acid for 21 h at 30 °C prior to charging acetophenone 3 gave a slightly slower reaction rate than with peracetic acid alone (run 4). Generating peracetic acid from sodium perborate also produces sodium acetate, but the reaction rate obtained after charging sodium acetate as an additive to an oxidation using peracetic acid (run 5) was somewhat faster than with aged sodium perborate. The possibility of hydrogen peroxide as the active oxidant was not investigated but cannot be discounted. The data suggests that a gradual buildup of active oxidant occurs in the reaction and, if formed, the inventory of peracetic acid in the reaction is expected to be low. On this basis, the use of sodium perborate in place of m-CPBA, or the potentially explosive peracetic acid, appeared to offer a safer, cheaper, and more environmentally friendly approach for this transformation.",
+            "product": "sodium acetate",
+            "reactants": "peracetic acid",
+            "reaction type": "Generating peracetic acid"
+        },
+        {
+            "text": "3%) of the tert-butyl ester 12 derived from a base-mediated trans-esterification process and therefore a heptane slurry on the crude GW641597X was included to reduce the levels of this impurity. A closer evaluation of this chemistry to deacetylate 4 but using 2 equiv of potassium tert-butoxide led to up to 43% of phenol 13 formed by HPLC with up to 36% being isolated after chromatography. This material was then smoothly converted through to impurity 12 (74% yield) on reaction with alkyl chloride 8, illustrating how facile this impurity pathway is and how critical stoichiometry of potassium tert-butoxide is likely to be for this transformation moving forward.",
+            "product": "13",
+            "reactants": "potassium tert-butoxide",
+            "yield": "43%",
+            "reaction type": "deacetylate"
+        },
+        {
+            "text": "While this modified process is somewhat suboptimal for further scale-up, it led to an overall yield of GW641597X from benzonitrile 6 of 54% while the yield from hydroxyacetophenone 2 is 50%, and a total of about 1.2 kg, with an overall purity of ∼99.3%, was manufactured using this process.",
+            "product": "GW641597X",
+            "reactants": "6",
+            "yield": "50%, 54%"
+        },
+        {
+            "text": "An additional impurity was also observed at 1% in one of the scale-up batches, which was tentatively assigned as cyclopropane 14. This is formed by the self-condensation of three molecules of alkyl chloride 8 under the strongly basic conditions being used for the deacetylation (Scheme 3). An authentic sample of this material was readily accessible by reaction of 8 with sodium hydride in tetrahydrofuran and dimethylformamide to give a very good yield of 14, further highlighting the risk of having excess potassium tert-butoxide within this process. The authors have observed this type of reactivity in a previous process; it is also reported for the base-mediated self-condensation of phenacyl halides, which is suggested to proceed via the intermediacy of an unsaturated dicarbonyl.",
+            "product": "14,",
+            "reactants": "8, sodium hydride",
+            "yield": "very good",
+            "reaction type": "self-condensation",
+            "solvent": "tetrahydrofuran, dimethylformamide"
+        },
+        {
+            "text": "The above processes had been appropriate to conduct within a large-scale laboratory but there was a requirement to prepare larger quantities of GW641597X for planned phase 2 studies; therefore, more comprehensive process safety studies were conducted. These studies highlighted that benzimidamide 7 was unstable at higher temperatures (>114 °C) and that hydroxylamine hydrochloride was unstable above 64 °C. The process for conversion of benzonitrile 6 through to benzimidamide 7 was modified to proceed at a lower temperature of 40–45 °C for 3 h.",
+            "product": "7",
+            "reactants": "6",
+            "temperature": "40–45 °C",
+            "time": "3 h"
+        },
+        {
+            "text": "The oxidation of acetophenone 3 through to acetate 4 using sodium perborate represented a potential scale-up flammability risk from a fire triangle perspective. The use of flammable solvent hexane, which could also be a static risk potential leading to ignition, was a concern; therefore, it was decided to remove this solvent during the reaction and conduct the process in acetic acid alone, thus minimizing the ignition side of the fire triangle. Acetic acid has a flash point of 40 °C, so conducting the process at a lower temperature should remove the “fuel” side of the fire triangle. Product 4 was also shown to be thermally unstable, and it decomposes slowly at elevated temperatures and should not be subjected to temperatures exceeding 70 °C; therefore, conducting the process and product workup and isolation at temperatures lower than 39 °C removes any concern. Process safety evaluation of the reaction of sodium perborate with acetic acid demonstrated that portion-wise addition of sodium perborate tetrahydrate to the mixture of acetic acid and 3 at 28–33 °C resulted in an endothermic event.",
+            "product": "4",
+            "reactants": "sodium perborate, 3",
+            "reaction type": "oxidation",
+            "solvent": "acetic acid"
+        },
+        {
+            "text": "Reaction of triethylamine with chloroacetyl chloride could be reasonably predicted to produce ethyl chloride, which is a known carcinogen requiring control to the appropriate acceptable daily intake. Changing to tributylamine offers the opportunity to form butyl chloride but this material is not a mutagenic concern.",
+            "product": "ethyl chloride",
+            "reactants": "triethylamine, chloroacetyl chloride"
+        },
+        {
+            "text": "Reaction of triethylamine with chloroacetyl chloride could be reasonably predicted to produce ethyl chloride, which is a known carcinogen requiring control to the appropriate acceptable daily intake. Changing to tributylamine offers the opportunity to form butyl chloride but this material is not a mutagenic concern.",
+            "product": "butyl chloride",
+            "reactants": "tributylamine"
+        },
+        {
+            "text": "Reducing the basicity and nucleophilicity of the reagent for effecting the deacetylation of 4 for subsequent coupling with alkyl chloride 8 to provide ester 9 was the next focus. The deprotection of phenolic acetates is reported to only require very mild bases, like sodium bicarbonate and potassium carbonate in alcohol, and using potassium carbonate to deacetylate 4 would provide the potassium salt of phenol 5, which should react with 8.",
+            "product": "5",
+            "reactants": "potassium carbonate",
+            "reaction type": "deacetylate"
+        },
+        {
+            "text": "Reducing the basicity and nucleophilicity of the reagent for effecting the deacetylation of 4 for subsequent coupling with alkyl chloride 8 to provide ester 9 was the next focus. The deprotection of phenolic acetates is reported to only require very mild bases, like sodium bicarbonate and potassium carbonate in alcohol, and using potassium carbonate to deacetylate 4 would provide the potassium salt of phenol 5, which should react with 8.",
+            "product": "9",
+            "reactants": "4, 8",
+            "reaction type": "deacetylation"
+        },
+        {
+            "text": "Hydroxylamine reacts with benzonitrile 6 to form benzimidamide 7 in the stage 2 process. An excess of the reagent is used (2.5 equiv) to assure reaction completion; therefore, the assumption was that as much as 1.5 equiv might remain after the completion, of formation of 7. Hydroxylamine free base has a low boiling point (58 °C), and while it is anticipated that it would be lost through higher-temperature processing and isolation/drying by volatilization, this property was not scored for the entire process. Losses through solubility were anticipated in stages 2–5, and the reactivity was anticipated during stages 3 and 4 through reaction with chloroacetyl chloride and alkyl chloride 8.",
+            "product": "7",
+            "reactants": "Hydroxylamine, 6, benzonitrile"
+        },
+        {
+            "text": "Alkyl chloride 8 reacts with the phenolate derived from base-mediated deacetylation of 4 to provide ethyl ester 9. An excess of reagent is used (1.15 equiv) to ensure reaction completion and maximize the yield of product. It is assumed that 1 equiv is required to form a high yield of ethyl ester 9 and therefore the 0.15 M excess should be assessed.",
+            "product": "9",
+            "reactants": "4, 8",
+            "reaction type": "base-mediated deacetylation"
+        },
+        {
+            "text": "While an excess of this reagent is used because of the potential for it to polymerize, no reactivity for this side reaction has been assigned. It is anticipated that hydrolysis of ethyl bromoisobutyrate would take place during the in situ saponification to convert ester 9 to GW641597X during stage 4c. Also, ethyl bromoisobutyrate is an oil; therefore, full solubility is anticipated during the isolation and washing processes in stages 4c and 5.",
+            "product": "GW641597X",
+            "reactants": "9, ester",
+            "reaction type": "saponification"
+        }
+    ]
+}

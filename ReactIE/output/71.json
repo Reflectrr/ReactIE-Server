@@ -1,0 +1,28 @@
+{
+    "title": "Effect of Modifier Structure on the Activation of Leukotriene A4 Hydrolase Aminopeptidase Activity",
+    "id": "jm9b00663",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "For determination of chromogenic substrate hydrolysis kinetics, assays were performed at 30 °C in a 1xPBS buffer pH 7.2 in a 96-well plate (Corning Costar). l-Alanine-p-nitroanilide (Ala-p-NA) and l-arginine-p-nitroanilide (Arg-p-NA) were prepared at escalating concentrations (0.5–6.0 mM) in the above buffer. Each of the 11 compounds were dissolved in 5% DMSO and added to each well at escalating concentrations (0–800 μM), followed by the addition of LTA4H (5–10 μg/mL) with a 10 min incubation period at 30 °C. The enzyme activity was measured by continuously monitoring the increase in absorbance at 405 nm after the addition of substrate for 20 min using a Bio-Tek Powerwave UV plate reader. A standard curve for p-nitroanilide released by the enzyme reaction was determined and used to determine the rate of p-nitroanilide formation.",
+            "product": "Arg-p-NA",
+            "reactants": "l-arginine-p-nitroanilide, Arg-p-NA",
+            "temperature": "30 °C"
+        },
+        {
+            "text": "For determination of PGP hydrolysis, assays were performed at 30 °C in a 1xPBS buffer pH 7.2 using a 96-well plate (Corning Costar). 4-OMe-ARM1 was prepared at escalating concentrations (0–10 μM) in the above buffer and added to LTA4H (31.25 ng/mL) and reacted for up to 30 min. PGP was prepared at escalating concentrations (100–2000 μM) and added to LTA4H:4-OMe-ARM1 mixture to initiate the reaction.",
+            "product": "4-OMe-ARM1",
+            "reactants": "LTA4H, PGP",
+            "temperature": "30 °C",
+            "solvent": "1xPBS"
+        },
+        {
+            "text": "For determination of PGP hydrolysis, assays were performed at 30 °C in a 1xPBS buffer pH 7.2 using a 96-well plate (Corning Costar). 4-OMe-ARM1 was prepared at escalating concentrations (0–10 μM) in the above buffer and added to LTA4H (31.25 ng/mL) and reacted for up to 30 min. PGP was prepared at escalating concentrations (100–2000 μM) and added to LTA4H:4-OMe-ARM1 mixture to initiate the reaction.",
+            "product": "PGP",
+            "reactants": "LTA4H, 4-OMe-ARM1",
+            "temperature": "30 °C",
+            "time": "30 min",
+            "reaction type": "hydrolysis"
+        }
+    ]
+}

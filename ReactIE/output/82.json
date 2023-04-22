@@ -1,0 +1,151 @@
+{
+    "title": "Efficient Stereoselective Synthesis of a Key Chiral Aldehyde Intermediate in the Synthesis of Picolinamide Fungicides",
+    "id": "op9b00310",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "Known aldehyde 6 was prepared on a 0.5 kg scale from (S)-ethyl lactate (8) using a modified literature procedure (Scheme 2).",
+            "product": "6",
+            "reactants": "(S)-ethyl lactate, (8)"
+        },
+        {
+            "text": "Reaction of 8 with pyrrolidine in the absence of solvent afforded amide 9 in high yield with excellent purity. Alkylation of amide 9 with benzyl chloride under phase-transfer conditions (Aliquat 336 and NaOH in toluene) furnished O-benzyl-protected amide 10 in 88% yield. Finally, Red-Al reduction of ester 10 proceeded smoothly under mild reaction conditions without overreduction, giving rise to aldehyde 6, which was stored under N2 at −5 °C over several weeks without notable decomposition and erosion of enantiopurity. In contrast, although direct benzyl protection of 8 and subsequent DIBAL-H reduction afforded aldehyde 6 on a small scale, alkylation of 8 was irreproducible, and an erosion of enantiopurity was observed on scale.",
+            "product": "9",
+            "reactants": "8, pyrrolidine",
+            "yield": "high"
+        },
+        {
+            "text": "Reaction of 8 with pyrrolidine in the absence of solvent afforded amide 9 in high yield with excellent purity. Alkylation of amide 9 with benzyl chloride under phase-transfer conditions (Aliquat 336 and NaOH in toluene) furnished O-benzyl-protected amide 10 in 88% yield. Finally, Red-Al reduction of ester 10 proceeded smoothly under mild reaction conditions without overreduction, giving rise to aldehyde 6, which was stored under N2 at −5 °C over several weeks without notable decomposition and erosion of enantiopurity. In contrast, although direct benzyl protection of 8 and subsequent DIBAL-H reduction afforded aldehyde 6 on a small scale, alkylation of 8 was irreproducible, and an erosion of enantiopurity was observed on scale.",
+            "product": "10",
+            "reactants": "9, benzyl chloride",
+            "yield": "88%",
+            "reaction type": "Alkylation",
+            "solvent": "toluene",
+            "catalyst": "Aliquat, NaOH"
+        },
+        {
+            "text": "Reaction of 8 with pyrrolidine in the absence of solvent afforded amide 9 in high yield with excellent purity. Alkylation of amide 9 with benzyl chloride under phase-transfer conditions (Aliquat 336 and NaOH in toluene) furnished O-benzyl-protected amide 10 in 88% yield. Finally, Red-Al reduction of ester 10 proceeded smoothly under mild reaction conditions without overreduction, giving rise to aldehyde 6, which was stored under N2 at −5 °C over several weeks without notable decomposition and erosion of enantiopurity. In contrast, although direct benzyl protection of 8 and subsequent DIBAL-H reduction afforded aldehyde 6 on a small scale, alkylation of 8 was irreproducible, and an erosion of enantiopurity was observed on scale.",
+            "product": "6",
+            "reactants": "10",
+            "reaction type": "Red-Al reduction"
+        },
+        {
+            "text": "Since allyl n-propyl ether 7 had not been commercially available on a large scale, we developed an efficient synthesis of this raw material (Scheme 3). Because of the similar boiling points of 7 and common organic solvents, we focused on developing solvent-free conditions to avoid the need for isolation by distillation. After several conditions were screened, the neat reaction of allyl bromide (11) with n-propanol (12) (1.5 equiv) was performed at 35 °C using 1.7 equiv of solid NaOH as the base. Upon completion of the reaction, excess n-propanol and salts were removed by successive water washes to give 7 as a neat liquid. This simple workup procedure afforded 7 with less than 3 mol % residual n-propanol, eliminating the need for distillation.",
+            "product": "7",
+            "reactants": "(12), n-propanol, (11), allyl bromide",
+            "temperature": "35 °C",
+            "catalyst": "NaOH"
+        },
+        {
+            "text": "As shown in the allylation transition state 4 (Scheme 1), the stereoselective formation of the desired C3,C4-syn relative stereochemical configuration requires selective generation of (Z)-allylborane, which was achieved by lithiation of allyl alkyl ethers followed by transmetalation with an alkyl borate. Furthermore, in a total synthesis of oleandrose, Wuts reported stereoselective formation of the 3-methoxy analogue of 3 in 84% yield as an 80:11:9 mixture of diastereomers from the reaction of aldehyde 6 with the (Z)-2,3-butanediolboronate of 3-methoxypropene. The major diastereomer, resulting from Felkin–Anh control, was confirmed to have S,S,S absolute stereochemistry by NMR characterization of its cyclohexane acetal derivative.",
+            "product": "3-methoxy analogue of 3",
+            "reactants": "6, (Z)-2,3-butanediolboronate, 3-methoxypropene",
+            "yield": "84%"
+        },
+        {
+            "text": "In this case, after 14 days at ambient temperature, the desired product 3 was formed in 15% isolated yield with less than 20% conversion of aldehyde 6 as determined by 1H NMR analysis. Attempts to accelerate the reaction with a Lewis acid (BF3·OEt2) or at elevated temperature led to a complex reaction mixture as a result of decomposition of aldehyde 6 (Scheme 4).",
+            "product": "3",
+            "yield": "15%",
+            "temperature": "ambient",
+            "time": "14 days"
+        },
+        {
+            "text": "Since dialkylallylboranes are typically much more reactive than their allylboronate analogues, we prepared (Z)-9-BBN-allylborane 14 in situ and subsequently added aldehyde 6 at −78 °C (Scheme 5). Upon warming to ambient temperature over 3 h, the desired (S,S,S)-alcohol 3 was isolated in 65% yield as an 88:12 mixture of two isomers as determined by 1H NMR analysis.",
+            "product": "(S,S,S)-alcohol, 3",
+            "reactants": "6, 14, (Z)-9-BBN-allylborane",
+            "yield": "65%",
+            "temperature": "ambient",
+            "time": "3 h"
+        },
+        {
+            "text": "Unfortunately, no desired product 2 was observed under either of these conditions, presumably because of the hindered nature of alcohol 3. Subsequently, we explored the SNAr reaction of 3 with electron-deficient 4-fluorochlorobenzene with the assumption that the activating p-Cl group could be removed by hydrogenation at a later stage. However, arylation of 3 with 4-fluorochlorobenzene in the presence of KOtBu in DMF at 45 °C led to an inseparable 4:1 mixture of arylation product 16 and elimination product 17 with 75% conversion.",
+            "product": "17, 16",
+            "reactants": "KOtBu, 4-fluorochlorobenzene, 3",
+            "yield": "75%",
+            "temperature": "45 °C",
+            "reaction type": "arylation",
+            "solvent": "DMF"
+        },
+        {
+            "text": "After further investigation, we successfully utilized copper(II)-catalyzed phenylation of alcohol 3 with the pentavalent organobismuth reagent BiPh3(OAc)2 (18) for the synthesis of 2 (Scheme 8). These conditions were previously reported to be effective for arylation of highly functionalized 1,2-diols. BiPh3(OAc)2 was prepared as a white solid through the reaction of BiPh3 with AcOOH (32 wt % in acetic acid) in 7:3 CH2Cl2/THF. Phenylation of 3 was performed in toluene at 55 °C with 1.3 equiv of BiPh3(OAc)2 in the presence of 5% mol Cu(OAc)2 and 1.2 equiv of dicyclohexylmethylamine (NCy2Me) as the base. The phenylation was complete in 4 h and provided the desired compound 2 in 72% yield after column chromatography.",
+            "product": "2",
+            "reactants": "BiPh3(OAc)2, 3",
+            "yield": "72%",
+            "temperature": "55 °C",
+            "time": "4 h",
+            "reaction type": "phenylation",
+            "solvent": "toluene",
+            "catalyst": "copper(II)"
+        },
+        {
+            "text": "With terminal olefin 2 in hand, Rh-catalyzed hydroformylation was explored next. We found several ligands reported in the literature that exhibited high regio- and chemoselectivity for linear hydroformylation of terminal alkenes. We selected Xantphos and bisphosphite L1 as ligands to study the hydroformylation of 2 (Scheme 9). Hydroformylation of olefin 2 with the catalyst prepared in situ from 1 mol % Rh(CO)2(acac) and 1 mol % Xantphos in THF at 75 °C under 1000 psi 1:1 H2/CO gave the linear aldehyde 2 in 61% isolated yield after column chromatography. Observation of a triplet at δ 9.68 (J = 1.6 Hz) in the 1H NMR spectrum of 2 confirmed the product to be the linear aldehyde regioisomer. The branched isomer was not observed in the 1H NMR spectrum of the crude product mixture. The high regioselectivity is presumably due to the significant steric difference between the terminal C6 and internal C5 of the olefin.",
+            "product": "2",
+            "reactants": "2",
+            "yield": "61%",
+            "temperature": "75 °C",
+            "reaction type": "Hydroformylation",
+            "solvent": "THF",
+            "catalyst": "bisphosphite L1, Xantphos"
+        },
+        {
+            "text": "Hydroformylation of 2 using 0.1 mol % Rh(CO)2(acac) and 0.2 mol % bisphosphite L1 at 70 °C under 100 psi 1:1 H2/CO gave aldehyde 1 in 90% isolated yield. Bisphosphite L1 provided several significant advantages over Xantphos. Use of L1 allowed the hydroformylation reaction to be performed at lower CO pressure, reaction temperature, and Rh loading than with Xantphos as the ligand. More importantly, the polarity of the aldehyde product combined with the nonpolar nature of the Rh–L1 catalyst system facilitated product isolation and catalyst recovery by nonaqueous biphasic extraction with subsequent catalyst recycling. Following hydroformylation of 2 with Rh–L1 in heptane at 70 °C in the next experiment, acetonitrile was added, and aldehyde 1 was isolated in 84% yield (97.2% purity by gas chromatography) by evaporation of the acetonitrile layer. A small amount of hydrogenation side-product 20 (1 area % by GC) was observed in the sample. The heptane layer contained a small amount of the aldehyde product (5% yield) along with byproduct 20 in a 91:9 ratio. The combined product yield was 91%. The catalyst was mostly partitioned into the heptane layer and was recycled for an additional hydroformylation experiment, which gave 1 in 64% yield with 95% purity after isolation.",
+            "product": "1",
+            "reactants": "2",
+            "yield": "90%",
+            "temperature": "70 °C",
+            "reaction type": "Hydroformylation",
+            "solvent": "heptane, acetonitrile",
+            "catalyst": "bisphosphite L1"
+        },
+        {
+            "text": "A 2 L round-bottom flask equipped with a thermocouple and nitrogen inlet was charged with (S)-ethyl lactate (8) (0.485 L, 4.15 mol). The flask was cooled to −1 °C, and pyrrolidine (0.520 L, 6.22 mol) was added via addition funnel over 1 h at such a rate that the internal temperature was kept below 5 °C. The reaction mixture was allowed to warm gradually to room temperature (rt) over 72 h. The reaction mixture was concentrated under vacuum (1 Torr, 50 °C) to afford (S)-2-hydroxy-1-(pyrrolidin-1-yl)propan-1-one (9) (550 g, 3.84 mol, 97% purity by 1H NMR, 90% yield).",
+            "product": "9, (S)-2-hydroxy-1-(pyrrolidin-1-yl)propan-1-one",
+            "reactants": "(S)-ethyl lactate, (8), pyrrolidine",
+            "yield": "90%",
+            "temperature": "room",
+            "time": "72 h",
+            "catalyst": "nitrogen"
+        },
+        {
+            "text": "The reaction mixture was stirred between −13 and −10 °C for 2.5 h, and the reaction was quenched with acetone (100 mL). The mixture was stirred for 10 min and then poured into HCl (6.5 L, 1 N) at 0 °C. The phases were partitioned, and the aqueous layer was back-extracted with ethyl acetate (2.5 L). The combined organic extracts were washed with dilute HCl (0.1 M), dried over Na2SO4, filtered, and concentrated to afford (S)-2-(benzyloxy)propanal (6) (326 g, 1.98 mol, 95% purity, 90% yield) as an oil.",
+            "product": "(S)-2-(benzyloxy)propanal",
+            "yield": "90%",
+            "temperature": "between 13, 10 °C",
+            "time": "2.5 h"
+        },
+        {
+            "text": "The reaction mixture was stirred between −13 and −10 °C for 2.5 h, and the reaction was quenched with acetone (100 mL). The mixture was stirred for 10 min and then poured into HCl (6.5 L, 1 N) at 0 °C. The phases were partitioned, and the aqueous layer was back-extracted with ethyl acetate (2.5 L). The combined organic extracts were washed with dilute HCl (0.1 M), dried over Na2SO4, filtered, and concentrated to afford (S)-2-(benzyloxy)propanal (6) (326 g, 1.98 mol, 95% purity, 90% yield) as an oil.",
+            "product": "(6)",
+            "yield": "90%",
+            "temperature": "13, 10 °C",
+            "time": "2.5 h"
+        },
+        {
+            "text": "The mixture was then heated to 65 °C and stirred for 20 min. The suspension was cooled to 35 °C, and allyl bromide (229 mL, 2.65 mol) was added over 1 h via addition funnel while the internal temperature was maintained between 35 and 55 °C. After complete addition, the reaction mixture was stirred for 20 h and then cooled to 0 °C, and water (500 mL) was added. The biphasic mixture was stirred for 10 min, after which the layers were partitioned and the organic layer was washed with water (2 × 500 mL) and brine (2 × 500 mL) to afford 3-propoxyprop-1-ene (7) (222 g, 2.21 mol, 84%) as a yellow oil with ≤3 mol % propanol by 1H NMR analysis.",
+            "product": "(7), 3-propoxyprop-1-ene",
+            "reactants": "allyl bromide, water",
+            "yield": "84%",
+            "time": "20 h"
+        },
+        {
+            "text": "Flash chromatography on a 40 g Isco Gold column (hexane/EtOAc gradient) gave 1.30 g of 1 as a colorless liquid (61% yield). 1H NMR (400 MHz, CDCl3): δ 9.68 (t, J = 1.6 Hz, 1H), 7.38–7.18 (m, 7H), 7.03 (dt, J = 7.9, 1.1 Hz, 2H), 6.97–6.88 (m, 1H), 4.61 (d, J = 11.6 Hz, 1H), 4.45 (d, J = 11.5 Hz, 1H), 4.35 (t, J = 5.0 Hz, 1H), 3.89 (qd, J = 6.3, 5.1 Hz, 1H), 3.59 (dt, J = 8.3, 4.6 Hz, 1H), 3.45 (ddt, J = 39.1, 8.9, 6.8 Hz, 2H), 2.47 (td, J = 7.2, 1.6 Hz, 2H), 2.01–1.78 (m, 2H), 1.59–1.42 (m, 2H), 1.29 (d, J = 6.3 Hz, 3H), 0.85 (t, J = 7.4 Hz, 3H). 13C NMR (101 MHz, CDCl3): δ 201.98, 159.57, 138.40, 129.42, 128.37, 127.63, 127.58, 121.02, 116.15, 82.25, 78.55, 74.58, 73.22, 70.68, 40.20, 23.94, 23.31, 15.87, 10.62.",
+            "product": "1",
+            "yield": "(61%",
+            "catalyst": "Isco Gold"
+        },
+        {
+            "text": "The reaction described above was repeated using 0.85 g (2.50 mmol) of olefin 2 in 12 mL of heptane, and upon reaction completion the reaction mixture was extracted with an equal by volume amount of acetonitrile. After phase separation, the solvent was evaporated from the acetonitrile phase to give 0.72 g (78% yield) of the aldehyde product 1 with 97.6% GC purity.",
+            "product": "1",
+            "reactants": "2",
+            "yield": "78%",
+            "solvent": "heptane"
+        },
+        {
+            "text": "The heptane phase, which mostly contained the catalyst/ligand, was reused in the next cycle of hydroformylation with the same amount of the starting olefin 2. Upon reaction completion, the mixture was treated with an equal by volume amount of acetonitrile, the phases were separated, and the solvent was evaporated from the acetonitrile phase to give 0.59 g (64% yield) of the aldehyde product 1 with 95.1% GC purity.",
+            "product": "1",
+            "reactants": "2, acetonitrile",
+            "yield": "64%",
+            "reaction type": "hydroformylation"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Iron-Catalyzed Vinylsilane Dimerization and Cross-Cycloadditions with 1,3-Dienes: Probing the Origins of Chemo- and Regioselectivity",
+    "id": "cs0c04608",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "Our study began with re-examination of the iron-catalyzed homocoupling of vinylsilanes using [(MePDI)Fe(N2)]2(μ2-N2) (where MePDI = 2,6-(2,6-Me2-C6H3NCMe)2C5H3N) as the precatalyst. As reported previously, exposure of a benzene-d6 solution of the iron precatalyst (2.5 mol % dimer, 5 mol % [Fe]) to an excess of propylene (1a) resulted in near complete (96%) consumption of 1a within 48 h at ambient temperature (∼23 °C) and formation of a mixture of dimerization products including [2+2]-cycloadduct 2a and tail-to-tail dimer 3a (Scheme 2A).",
+            "product": "2a, 3a",
+            "reactants": "propylene, 1a",
+            "temperature": "23 °C",
+            "time": "48 h",
+            "reaction type": "dimerization",
+            "solvent": "benzene-d6",
+            "catalyst": "iron"
+        },
+        {
+            "text": "Neither the corresponding head-to-head dimer (4a) nor head-to-tail dimer 5a was detected by NMR spectroscopy. By contrast, exposure of vinyltrimethylsilane (6a) to the same reaction conditions resulted in negligible conversion. Conducting the reaction in neat vinylsilane produced head-to-head dimer 9a cleanly in 32% yield after 48 h (Scheme 2B). The corresponding [2+2]-cycloadduct 7a, tail-to-tail dimer 8a, and head-to-tail dimer 10a were not observed. Control reactions conducted without iron or the PDI ligand resulted in no conversion or an intractable product mixture, respectively.",
+            "product": "9a",
+            "yield": "32%",
+            "time": "48 h",
+            "solvent": "vinylsilane"
+        },
+        {
+            "text": "The chemoselectivity was insensitive to both steric and electronic variation of the silyl group, and preferential formation of products with (E)-olefin geometry was uniformly preferred. The low yield (32%) for 9c was a likely result of the dilute reaction conditions. Notably, 1,3-divinyltetramethyldisiloxane (6g), a commodity chemical used widely as a cross-linking agent in the silicone industry, formed C–C bonds from both termini to afford macrocyclic product 9g, which exhibits the same head-to-head orientation within each repeat unit.",
+            "product": "9g",
+            "reactants": "(6g, 1,3-divinyltetramethyldisiloxane",
+            "reaction type": "C–C bonds"
+        },
+        {
+            "text": "Hydrogenolysis of (MePDI)Fe(η2-6b)2 furnished head-to-head coupled alkane 12b as the exclusive organic product (Scheme 4B). However, exposure of (MePDI)Fe(η2-6a)2 and (MePDI)Fe(η2-6d)2 to 4 atm of H2 instead resulted in direct hydrogenation to yield alkylsilanes 11a and 11d, respectively. While both (a) direct hydrogenolysis of a transient metallacycle (Scheme 4B) and (b) hydrogen-induced alkene dimerization are precedented, the divergent outcomes observed with (MePDI)Fe(η2-6b)2 versus (MePDI)Fe(η2-6a)2 and (MePDI)Fe(η2-6d)2 suggested that a metal hydride was most likely not responsible for the observed catalytic dimerization. Regardless, the combined results indicated that the (PDI)-supported iron complex exhibited a pronounced and consistent α-Si preference in the C–C bond-forming step.",
+            "product": "12b",
+            "reactants": "(MePDI)Fe(2-6b)2",
+            "reaction type": "Hydrogenolysis"
+        },
+        {
+            "text": "Hydrogenolysis of (MePDI)Fe(η2-6b)2 furnished head-to-head coupled alkane 12b as the exclusive organic product (Scheme 4B). However, exposure of (MePDI)Fe(η2-6a)2 and (MePDI)Fe(η2-6d)2 to 4 atm of H2 instead resulted in direct hydrogenation to yield alkylsilanes 11a and 11d, respectively. While both (a) direct hydrogenolysis of a transient metallacycle (Scheme 4B) and (b) hydrogen-induced alkene dimerization are precedented, the divergent outcomes observed with (MePDI)Fe(η2-6b)2 versus (MePDI)Fe(η2-6a)2 and (MePDI)Fe(η2-6d)2 suggested that a metal hydride was most likely not responsible for the observed catalytic dimerization. Regardless, the combined results indicated that the (PDI)-supported iron complex exhibited a pronounced and consistent α-Si preference in the C–C bond-forming step.",
+            "product": "11a",
+            "reactants": "(MePDI)Fe(2-6a)2",
+            "reaction type": "direct hydrogenation"
+        },
+        {
+            "text": "Hydrogenolysis of (MePDI)Fe(η2-6b)2 furnished head-to-head coupled alkane 12b as the exclusive organic product (Scheme 4B). However, exposure of (MePDI)Fe(η2-6a)2 and (MePDI)Fe(η2-6d)2 to 4 atm of H2 instead resulted in direct hydrogenation to yield alkylsilanes 11a and 11d, respectively. While both (a) direct hydrogenolysis of a transient metallacycle (Scheme 4B) and (b) hydrogen-induced alkene dimerization are precedented, the divergent outcomes observed with (MePDI)Fe(η2-6b)2 versus (MePDI)Fe(η2-6a)2 and (MePDI)Fe(η2-6d)2 suggested that a metal hydride was most likely not responsible for the observed catalytic dimerization. Regardless, the combined results indicated that the (PDI)-supported iron complex exhibited a pronounced and consistent α-Si preference in the C–C bond-forming step.",
+            "product": "11d",
+            "reactants": "(MePDI)Fe(2-6d)2",
+            "reaction type": "direct hydrogenation"
+        },
+        {
+            "text": "Given evidence for an α-[Si] preference in metallacycle formation and ultimately vinylsilane dimerization, we were motivated to explore whether a similar effect could be applied to alter the regioselectivity of other (PDI)Fe-catalyzed carbon–carbon bond-forming reactions. [(MePDI)Fe(N2)]2(μ2-N2) serves as an active and selective precatalyst for the cross-[2+2]-cycloaddition of (E)-piperylene (13a) with ethylene and α-olefins, yielding substituted propenylcyclobutanes (14, Scheme 5A). The 1,3-cyclobutane substitution pattern has been attributed to the combination of maximizing orbital overlap (dz2→π*) and avoiding steric encumbrance from geminal substituents during selectivity-determining olefin coordination or oxidative cyclization.",
+            "product": "propenylcyclobutanes, 14",
+            "reactants": "ethylene, 13a, (E)-piperylene",
+            "reaction type": "cross-[2+2]-cycloaddition",
+            "catalyst": "[(MePDI)Fe(N2)]2(2-N2)"
+        },
+        {
+            "text": "Remarkably, exposure of an equimolar mixture of vinyltrimethylsilane (6a) and myrcene (13j) to [(MePDI)Fe(N2)]2(μ2-N2) yielded [4+2]-cycloadduct 18aj rather than corresponding [2+2]-product 17aj (Scheme 7B, entry 2). Ligands with larger 2,6-aryl substituents, e.g., [(iPrPDI)Fe(N2)]2(μ2-N2), resulted in lower levels of chemoselectivity.",
+            "product": "18aj",
+            "reactants": "vinyltrimethylsilane, (6a), [(MePDI)Fe(N2)]2(2-N2), 13j"
+        },
+        {
+            "text": "If the α-[Si] effect is competitive with the directing effects of 1,3-dienes, oxidative cyclization from vinylsilane complex C-x occurs selectively with [Si] proximal (α) to [Fe]. This inverted regioselectivity is accessible only with 2-substituted dienes and requires reaction through the 1,2-coordianted s-cis diene complexes C-ix and C-x, giving rise to metallacycloheptene C-xi, which is poised for C–C reductive elimination to afford 18.",
+            "product": "C-xi",
+            "reactants": "C-ix, C-x"
+        },
+        {
+            "text": "If the α-[Si] effect is competitive with the directing effects of 1,3-dienes, oxidative cyclization from vinylsilane complex C-x occurs selectively with [Si] proximal (α) to [Fe]. This inverted regioselectivity is accessible only with 2-substituted dienes and requires reaction through the 1,2-coordianted s-cis diene complexes C-ix and C-x, giving rise to metallacycloheptene C-xi, which is poised for C–C reductive elimination to afford 18.",
+            "product": "18",
+            "reactants": "C-xi",
+            "reaction type": "reductive elimination"
+        },
+        {
+            "text": "To probe the viability of mechanistic hypothesis A, a representative example of the posited intermediate, a [2+2]-cycloadduct, was independently prepared (see the Supporting Information). This isopropenylcyclobutane (17bi) was exposed to an array of conditions to probe for kinetically accessible paths for thermal or Lewis acid-promoted rearrangement (Scheme 9). Notably, cyclobutane 17bi was stable to prolonged heating in benzene-d6 (up to 80 °C), exposure to [(MePDI)Fe(N2)]2(μ2-N2) at ambient temperature or 50 °C, or treatment with a variety of Lewis acids (including deliberately decomposed [(MePDI)Fe(N2)]2(μ2-N2)). While 17bi decomposed to an intractable mixture of products upon exposure to AlCl3, formation of the putative rearrangement product, 18bi, was not observed in any case.",
+            "product": "18bi",
+            "reactants": "17bi",
+            "yield": "not observed"
+        },
+        {
+            "text": "Although preparative reactions were generally conducted neat in substrate, concentrated stock solutions of catalysts and substrates were employed for the kinetic measurements while maintaining a constant total volume. Under these conditions, the chemoselectivity for [4+2] cycloaddition remained high. The disappearance of vinylsilane 6b and formation of [4+2]-cycloadduct 16bi were monitored readily over the entire course of the reaction by gas chromatographic analysis of aliquots removed from the reaction mixture at regular time points.",
+            "product": "16bi",
+            "reactants": "6b"
+        }
+    ]
+}

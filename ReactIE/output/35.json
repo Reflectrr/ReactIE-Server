@@ -1,0 +1,38 @@
+{
+    "title": "Correlating Oxidation State and Surface Area to Activity from Operando Studies of Copper CO Electroreduction Catalysts in a Gas-Fed Device",
+    "id": "cs0c01670",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "The electrochemical carbon monoxide and carbon dioxide reduction reactions (CORRs and CO2RRs, respectively) are promising strategies to convert waste emissions into valuable chemical feedstocks, such as synthesis gas, hydrocarbons, and oxygenates. The CORR process is specifically interesting because it can be part of a tandem catalysis system, in which the first catalytic reaction converts CO2 into CO, and the second catalytic reaction converts CO into higher-order reduction products such as ethanol or ethylene. By leveraging the efficient and selective first two-electron, two-proton process from CO2 to CO, analyses show that the optimal solar-to-fuel conversion efficiency of a tandem catalysis system was higher than that of the direct CO2RR system at all cathodic overpotential and faradaic efficiency (FE) combinations.",
+            "product": "CO",
+            "reactants": "CO2",
+            "reaction type": "reduction"
+        },
+        {
+            "text": "The electrochemical carbon monoxide and carbon dioxide reduction reactions (CORRs and CO2RRs, respectively) are promising strategies to convert waste emissions into valuable chemical feedstocks, such as synthesis gas, hydrocarbons, and oxygenates. The CORR process is specifically interesting because it can be part of a tandem catalysis system, in which the first catalytic reaction converts CO2 into CO, and the second catalytic reaction converts CO into higher-order reduction products such as ethanol or ethylene. By leveraging the efficient and selective first two-electron, two-proton process from CO2 to CO, analyses show that the optimal solar-to-fuel conversion efficiency of a tandem catalysis system was higher than that of the direct CO2RR system at all cathodic overpotential and faradaic efficiency (FE) combinations.",
+            "product": "ethanol",
+            "reactants": "CO",
+            "reaction type": "reduction"
+        },
+        {
+            "text": "In the CORR process, copper-based materials are the only electrocatalysts that can produce more reduced hydrocarbons and oxygenates due to the optimal Cu–CO binding strength. For lower activation overpotentials and increased FEs, Cu-based catalysts have been tuned via nanostructuring, modifying the electrochemical surface area (ECSA), or through the introduction of a second metal. In particular, oxide-derived Cu (OD-Cu) prepared from the oxidative treatment of polycrystalline Cu resulted in high CO reduction selectivity toward multicarbon oxygenates at modest potentials.",
+            "product": "OD-Cu",
+            "reactants": "polycrystalline Cu",
+            "reaction type": "oxidative"
+        },
+        {
+            "text": "We then performed operando XANES measurements and evaluated the CORR performance simultaneously at a fixed potential of −2.2 V. Unlike the previous CORR results before the anodic oxidation (Figure 1g–1i), most of the surface oxide and hydroxide species in all Cu catalysts were quickly reduced into metallic Cu0 within the time resolution of the XANES measurements (<6 min) (Figures 2a and S8). The result suggests that the surface oxides are generally much easier to reduce than the initial oxides in the Cu catalysts. Moreover, similar features in the CORR selectivity and activity were observed through all the Cu catalysts. First, the total current densities of all the catalysts were increased after the anodic oxidation process, leading to significant enhancements of the partial current densities for both C2H4 and H2 (Figure S9).",
+            "product": "Cu0",
+            "time": "6 min",
+            "reaction type": "reduced",
+            "catalyst": "Cu"
+        },
+        {
+            "text": "We also tested the steady-state CV cycling method to regenerate the surface oxide on the Cu catalyst. This mild oxidative–reductive process in alkaline solutions has been used to induce step-wise reconstruction into a Cu(511) surface that catalyzes the conversion of CO molecules into ethanol. The CV cycling method, with a cycling potential between −1.1 and 0.5 V for 20 cycles, was applied to the Cu-GDE that was already reduced into metallic Cu0. The CV data indicate that Cu+ was formed at −0.4 V, and Cu2+ was generated in the range of 0.05–0.25 V, leading to the formation of oxidized copper (Figure 3a). This formed oxide was reduced again between −0.6 V and −1 V, as shown by the reductive wave in the CV.",
+            "product": "Cu0",
+            "reactants": "Cu-GDE",
+            "reaction type": "reduced"
+        }
+    ]
+}

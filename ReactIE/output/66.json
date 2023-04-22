@@ -1,0 +1,62 @@
+{
+    "title": "Bidentate Iminophosphorane-NHC Ligand Derived from the Imidazo[1,5‑a]pyridin-3-ylidene Scaffold",
+    "id": "om8b00733",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "Fortunately, concomitant addition of one equivalent of PPh3 allowed the in situ trapping of the organic azide through a Staudinger reaction, leading to the formation of the iminophosphorane [1·H]Br in 89% yield. Surprisingly, [1·H]Br is fully air- and water-stable and could be even purified by silica gel chromatography without any specific precautions.",
+            "product": "[1H]Br",
+            "reactants": "azide",
+            "yield": "89%",
+            "reaction type": "Staudinger"
+        },
+        {
+            "text": "While the C–C bond lengths within the bicyclic heterocycle reflect the alternating character of single and double C–C bonds, the P1–N3 and N3–C7 bond lengths of 1.588(2) Å and 1.352(3) Å respectively fall within the typical range of uncoordinated iminophosphorane units. Because of the poor solubility of [1·H]Br in common solvents, the bromide anion was then exchanged for the triflate anion by addition of NaOTf followed by simple extraction with a CH2Cl2/H2O mixture to afford the corresponding salt [1·H](OTf) in 94% yield.",
+            "product": "[1H](OTf)",
+            "reactants": "NaOTf, [1H]Br",
+            "yield": "94%",
+            "solvent": "CH2Cl2/H2O"
+        },
+        {
+            "text": "For this purpose, the direct metalation of the free iminophosphorane-NHC 1 was first investigated. The treatment of the in situ generated free NHC 1 with 0.5 equiv of [PdCl(allyl)]2 led to the formation of the ionic Pd(II) complex [5](OTf) in 81% yield (Scheme 2).",
+            "product": "[5](OTf)",
+            "reactants": "[PdCl(allyl)]2, 1",
+            "yield": "81%"
+        },
+        {
+            "text": "An alternative synthetic route involving the transmetalation from a NHC-Ag(I) complex derived from [1·H](Br) was also considered. Addition of 0.6 equiv of Ag2O to a solution of [1·H](Br) in CH2Cl2 cleanly led to the formation of the two Ag(I) complexes, 6 and [6′](AgBr2), isolated as a mixture in 93% yield (Scheme 3).",
+            "product": "6, [6′](AgBr2)",
+            "reactants": "Ag2O, [1H](Br)",
+            "yield": "93%",
+            "solvent": "CH2Cl2"
+        },
+        {
+            "text": "By reacting the Ag(I) complexes 6/[6′](AgBr2) with 1/2 equiv of [PdCl(allyl)]2 dimer in the presence of NaOTf or with PdCl2(CH3CN)2, the NHC-iminophosphorane 1 was cleanly transferred to the Pd(II) centers to afford the corresponding cationic complex [5](OTf) and neutral complex (7), isolated in 93% and 79% yield, respectively. Complex 7 was fully characterized by the usual spectroscopic methods complemented by an X-ray diffraction analysis (Figure 2). Here again, the coordination of the Ph3PN moiety to palladium is accompanied by a significant deshielding of the 31P NMR signal observed at δP 29.7 ppm (vs 1: δP −1.5 ppm).",
+            "product": "[5](OTf)",
+            "reactants": "NaOTf, PdCl2(CH3CN)2, 6/[6′](AgBr2), [PdCl(allyl)]2 dimer, 1",
+            "yield": "93%"
+        },
+        {
+            "text": "By reacting the Ag(I) complexes 6/[6′](AgBr2) with 1/2 equiv of [PdCl(allyl)]2 dimer in the presence of NaOTf or with PdCl2(CH3CN)2, the NHC-iminophosphorane 1 was cleanly transferred to the Pd(II) centers to afford the corresponding cationic complex [5](OTf) and neutral complex (7), isolated in 93% and 79% yield, respectively. Complex 7 was fully characterized by the usual spectroscopic methods complemented by an X-ray diffraction analysis (Figure 2). Here again, the coordination of the Ph3PN moiety to palladium is accompanied by a significant deshielding of the 31P NMR signal observed at δP 29.7 ppm (vs 1: δP −1.5 ppm).",
+            "product": "(7)",
+            "reactants": "NaOTf, PdCl2(CH3CN)2, 6/[6′](AgBr2), [PdCl(allyl)]2 dimer, 1",
+            "yield": "79%"
+        },
+        {
+            "text": "CO gas was bubbled into a solution of [8](OTf) in CH2Cl2, allowing the formation of complex [9](OTf) subsequently isolated in 94% yield as a yellow monocrystalline solid (Scheme 3). The νCO values of complex [9](OTf) in solution in CH2Cl2 solution were found at 2017 and 2076 cm–1.",
+            "product": "[9](OTf)",
+            "reactants": "[8](OTf)",
+            "yield": "94%",
+            "solvent": "CH2Cl2"
+        },
+        {
+            "text": "Mesitylamine (4.38 mL, 31.2 mmol, 1.1 equiv) was added to a solution of aldehyde 2 (5.27 g, 28.4 mmol) and MgSO4 (20 g) in diethyl ether (160 mL). The reaction mixture was stirred overnight at room temperature and then filtered under inert atmosphere. The solution was then evaporated under reduced pressure, and the residual amine was removed by distillation (Tbath = 90 °C, P ∼ 0.2 mbar) to yield the imine 3 as a yellow solid (8.02 g, 93%).",
+            "product": "3",
+            "reactants": "Mesitylamine, 2, MgSO4",
+            "yield": "93%)",
+            "temperature": "room",
+            "time": "overnight",
+            "solvent": "diethyl ether"
+        }
+    ]
+}

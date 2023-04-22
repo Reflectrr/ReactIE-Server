@@ -1,0 +1,26 @@
+{
+    "title": "Enhanced CO2 Methanation Activity of Ni/Anatase Catalyst by Tuning Strong Metal–Support Interactions",
+    "id": "cs9b00401",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "In contrast, CO2 conversion increases to 58.2% when Ni is supported on the NH3-pretreated a-TiO2 support. More interestingly, CO2 is converted almost exclusively to CH4 over this catalyst (Figure 1b). Furthermore, we compared the product selectivity at the same CO2 conversion (4.9%) by varying the space velocity. As shown in Figure S1, Ni/a-TiO2–NH3 catalyst still exhibits a CH4 selectivity of nearly 90% while CO is still the only product on Ni/a-TiO2 catalyst. Such a significant difference in the activity and selectivity is surprising because the impregnation of nickel nitrate and the following calcination have been carried out in air for both catalysts.",
+            "product": "CH4",
+            "reactants": "CO2",
+            "catalyst": "a-TiO2, Ni"
+        },
+        {
+            "text": "By contrast, pretreatment of a-TiO2 by NH3 and H2 enhances the activity by 1 order of magnitude in CO2 methanation, leading to almost exclusive formation of CH4. Detailed characterization by EPR, H2-chemisorption, and XPS reveals that the prereduction of the a-TiO2 support generates a large amount of Ti3+ in the bulk, which is likely the reason for suppressed formation of the titania overlayer and also altered SMSI.",
+            "product": "CH4",
+            "reactants": "NH3, a-TiO2, H2",
+            "reaction type": "methanation"
+        },
+        {
+            "text": "Thus, more Ni species are accessible to the reactants, leading to a higher activity and allowing CO2 conversion almost exclusively to methane over Ni/a-TiO2–NH3 catalyst. This simple reduction treatment provides an effective approach to tune the SMSI of metal catalysts over the reducible oxide supports and hence their catalytic activities.",
+            "product": "methane",
+            "reactants": "CO2",
+            "reaction type": "reduction",
+            "catalyst": "Ni/a-TiO2–NH3"
+        }
+    ]
+}

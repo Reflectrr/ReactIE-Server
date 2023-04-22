@@ -1,0 +1,30 @@
+{
+    "title": "Photonic Curing: Activation and Stabilization of Metal Membrane Catalysts (MMCs) for the Electrochemical Reduction of CO2",
+    "id": "cs9b03664",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "Cu nanowires (Cu-NWs) were synthesized according to a modified protocol introduced by Guo et al. Nickel(II) acetylacetonate (0.4 mmol, Ni(acac)2, Aldrich, assay 95%) and 0.8 mmol of copper(II) chloride monohydrate (CuCl2·H2O, Aldrich, assay >99.99%) were dissolved in 9 mL of oleylamine (OAm, Aldrich, assay 70%) in a three-necked flask. The solution was kept for 10 min at 100 °C under strong magnetic stirring conditions and continuous flow of high-purity nitrogen gas (99.995%, Carbagas, Switzerland). Subsequently, the solution was rapidly heated up to 180 °C and kept for 3 h at this temperature.",
+            "product": "Cu-NWs",
+            "reactants": "Nickel(II) acetylacetonate, copper(II) chloride monohydrate, CuCl2H2O",
+            "temperature": "100 °C, 180 °C",
+            "time": "10 min",
+            "solvent": "oleylamine, OAm"
+        },
+        {
+            "text": "Cu-NCs were synthesized according to a modified protocol introduced by Guo et al. CuBr (0.3 mmol, Acros Organics, 98%) and 0.5 mmol TOPO (Acros Organics, 99%) were dissolved at 80 °C under continuous stirring (15 min at 250 rpm) in 7 mL OAm (Sigma-Aldrich, 70%). This solution was then further heated up to 260 °C and kept at this temperature under reflux for 2.5 h. After cooling down to room temperature, an excess of toluene was added to the resulting reddish solution. The obtained suspension of Cu-NCs was centrifuged at 4000 rpm for 10 min (Hettich Universal 16). The reddish Cu-NCs were further purified by five cycles of redispersion/centrifugation in a solvent mixture of toluene (10 mL) and hexane (1 mL).",
+            "product": "Cu-NCs",
+            "reactants": "TOPO, CuBr, toluene",
+            "temperature": "260 °C, 80 °C",
+            "time": "15 min, 2.5 h",
+            "solvent": "OAm"
+        },
+        {
+            "text": "Photonic curing in an inert gas atmosphere has been introduced as an effective and highly versatile method to remove surfactants (capping agents) from the surface of stabilized nanomaterials (e.g., nanowires, nanoparticles etc.), thereby activating them for electrocatalytic reactions, for example, the CO2 electroreduction reaction (CO2RR). Crucial is the right balance of the energy input, depending on factors such as the irradiance (kW cm–2) and the irradiation time (typically in the range of μs), to remove the surfactant from the as-synthesized catalyst without degrading these structural features (e.g., surface sites) of the nanomaterial that are particularly active toward the targeted (electro)catalytic reaction. One prime example, discussed in detail herein, is the activation of oleylamine-stabilized Cu-NWs which yield up to 42% ethylene as the CO2RR product at −1.1 V versus RHE after applying one single pulse of 50 μs duration at 5.9 kW cm–2 irradiance.",
+            "product": "ethylene",
+            "yield": "42%",
+            "temperature": "1.1 V",
+            "reaction type": "electroreduction"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Coupling Continuous Flow Microreactors to MicroNIR Spectroscopy: Ultracompact Device for Facile In-Line Reaction Monitoring",
+    "id": "op8b00060",
+    "journal": "Organic Process Research & Development",
+    "reactions": [
+        {
+            "text": "In particular, 5-hydroxymethylfurfural (5-HMF) has been extensively investigated in view of its broad applications as a building block to achieve feedstocks for bulk chemicals, polymers, solvents, and fuels. 5-HMF is usually synthesized under acidic conditions from C6 carbohydrates, including fructose, glucose, chitosan, cellulose, sucrose, starch, agarose, inulin, and raw biomass. Among the sugars cited, fructose has been the main choice since it provides better conversions and yields through a rapid and direct dehydration reaction.",
+            "product": "5-HMF",
+            "reactants": "inulin, sucrose, cellulose, glucose, starch, agarose, fructose, chitosan"
+        },
+        {
+            "text": "First, some preliminary experiments were performed to find out which range of wavelengths would be suitable for subsequent in-line monitoring of the dehydration of d-fructose to give 5-HMF using the MicroNIR device. For this purpose, some off-line measurements were performed with the starting d-fructose solution (0.25 mol L–1) and with reaction mixtures that represent 5-HMF yields of 50% and 95% on the basis of our previous work. It is important to mention that the use of samples obtained from the reaction stream (and not a standard solution of 5-HMF obtained from commercial sources) was detrimental since water is obtained in this process as a coproduct (three molecules of water per molecule of fructose) and also accounts for the variation in the NIR spectrum.",
+            "product": "5-HMF",
+            "reactants": "d-fructose",
+            "yield": "50%, 95%",
+            "reaction type": "dehydration"
+        },
+        {
+            "text": "From Table 1, it is clear that higher flow rates decreased the yield of 5-HMF (entries 1–3). In sharp contrast, lower flow rates led to the opposite reaction outcome, affording superior 5-HMF yields as a result of the longer contact time between d-fructose and the catalyst (entries 8–10). As expected according to our previous study, under the optimum reaction conditions, 5-HMF was obtained in 95% yield with a residence time of just 11.2 min at a flow rate of 0.25 mL·min–1 with total conversion of d-fructose (entry 10).",
+            "product": "5-HMF",
+            "reactants": "d-fructose",
+            "yield": "95%",
+            "time": "11.2 min"
+        },
+        {
+            "text": "This indicates that the system remained stable during the 40 h of in-line monitoring by the compact MicroNIR device using the same column filled with Amberlyst-15 at flow rate of 0.25 mL·min–1. Over this time, 27 g of d-fructose was processed and produced 19 g of 5-HMF in 95% yield, corresponding to a d-fructose/catalyst ratio of 6 mol %.",
+            "product": "5-HMF",
+            "reactants": "d-fructose",
+            "yield": "95%"
+        }
+    ]
+}

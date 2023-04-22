@@ -1,0 +1,59 @@
+{
+    "title": "Reversible Metal Aggregation and Redispersion Driven by the Catalytic Water Gas Shift Half-Reactions: Interconversion of Single-Site Rhodium Complexes and Tetrarhodium Clusters in Zeolite HY",
+    "id": "cs8b04798",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "We now report a reversible, high-yield, and selective synthesis of a small metal cluster, Rh4(CO)12, in the cages of a zeolite, and the process is catalytic, with the cluster synthesis and breakup each being driven by one of the half cycles of the water gas shift reaction. Preparation of Rh4(CO)12 by conventional solution methods, in contrast, typically suffers from poor reproducibility of high-yield synthesis, with yields varying substantially (from 86% to 99%), with Rh6(CO)16 formed as a byproduct. We chose the support, dealuminated zeolite HY, because it has large enough pores for entry of the rhodium precursor Rh(CO)2(acac) (acac = acetylacetonato) and because it offers the opportunity to dial in the density of proton-donor sites for binding the precursor. We report characterization of the supported species and their reactions by infrared (IR) and X-ray absorption spectroscopies complemented by electronic structure calculations providing evidence of the intermediate species in the process of rhodium aggregation/redispersion. The results point to opportunities to better understand the evolution of the most highly dispersed metal cluster structures and their catalytic properties.",
+            "product": "Rh4(CO)12",
+            "reactants": "Rh(CO)2(acac) (acac = acetylacetonato)",
+            "yield": "high",
+            "reaction type": "water gas shift"
+        },
+        {
+            "text": "Highly dispersed single-site Rh(CO)2 with a nearly uniform structure was prepared by bringing a solution of the precursor Rh(CO)2(acac) in contact with dealuminated zeolite HY having an Si:Al atomic ratio of 30, as before. The rhodium loading in the zeolite was 0.5 wt %, chosen to give isolated and widely separated catalytic species (0.07 Rh atoms/supercage). IR spectra (Figure S1 in the Supporting Information, SI), show that the rhodium precursor reacted selectively with acidic sites (OH groups) in the zeolite by protonation and removal of acac ligands from the precursor, characterized by intensity decreases in the bands at 3630 cm–1 (characterizing acidic OH groups in the supercages) as a result of the chemisorption reaction.",
+            "product": "Rh(CO)2",
+            "reactants": "Rh(CO)2(acac)",
+            "reaction type": "protonation, chemisorption",
+            "catalyst": "rhodium"
+        },
+        {
+            "text": "To gain further insight into the cluster synthesis/breakup chemistry, we investigated the influence of H2 on the cluster formation in CO + H2O by adding H2 to the reactant gas stream. The data show that H2 markedly increased the rate of cluster formation: the reaction was virtually complete after 11 h when H2 was present at a partial pressure of 500 mbar along with CO + H2O (at 308 K and a total pressure of 1 bar), whereas 48 h was required when the H2 was absent, and the conditions were otherwise the same. However, although H2 accelerated the synthesis of Rh4(CO)12, it lowered the selectivity, as made evident by data recorded when the time of exposure to H2 exceeded 1 h. Then, in addition to the principal product Rh4(CO)12, Rh6(CO)16 was also observed, identified by the IR spectra (Figure S8 in the SI).",
+            "product": "Rh4(CO)12",
+            "temperature": "308 K",
+            "time": "11 h"
+        },
+        {
+            "text": "Rh(CO)2(H2O) was completely converted back into Rh(CO)2 at 353 K.",
+            "product": "Rh(CO)2",
+            "reactants": "Rh(CO)2(H2O)",
+            "temperature": "353 K"
+        },
+        {
+            "text": "The generation of Rh(CO)2 from Rh(I) at the acidic site of the zeolite was modeled as on an Al(OR)4– site (reactions 5 and 6), and on an Si(OR)3O– site with R = H or R = Si(OH)3 and a Rh(I)(CO)2 species, reactions 7 and 8, at the B3LYP level. (The formation of Rh(CO)2(H2O)x complexes does not substantially affect the energetics or the overall mechanistic results as shown above.)",
+            "product": "Rh(CO)2",
+            "reactants": "Rh(I)(CO)2, Rh(I)"
+        },
+        {
+            "text": "The generation of Rh(CO)2 from Rh(I) at the acidic site of the zeolite was modeled as on an Al(OR)4– site (reactions 5 and 6), and on an Si(OR)3O– site with R = H or R = Si(OH)3 and a Rh(I)(CO)2 species, reactions 7 and 8, at the B3LYP level. (The formation of Rh(CO)2(H2O)x complexes does not substantially affect the energetics or the overall mechanistic results as shown above.)",
+            "product": "Rh(I)(CO)2 species",
+            "reactants": "Rh(I)"
+        },
+        {
+            "text": "The generation of Rh(CO)2 from Rh(I) at the acidic site of the zeolite was modeled as on an Al(OR)4– site (reactions 5 and 6), and on an Si(OR)3O– site with R = H or R = Si(OH)3 and a Rh(I)(CO)2 species, reactions 7 and 8, at the B3LYP level. (The formation of Rh(CO)2(H2O)x complexes does not substantially affect the energetics or the overall mechanistic results as shown above.)",
+            "product": "reactions 7 and 8",
+            "reactants": "Rh(I)(CO)2"
+        },
+        {
+            "text": "The generation of Rh(CO)2 from Rh(I) at the acidic site of the zeolite was modeled as on an Al(OR)4– site (reactions 5 and 6), and on an Si(OR)3O– site with R = H or R = Si(OH)3 and a Rh(I)(CO)2 species, reactions 7 and 8, at the B3LYP level. (The formation of Rh(CO)2(H2O)x complexes does not substantially affect the energetics or the overall mechanistic results as shown above.)",
+            "product": "at the B3LYP level",
+            "reactants": "Rh(I), Rh(I)(CO)2, Si(OR)3O–, R = H, R = Si(OH)3"
+        },
+        {
+            "text": "To resolve the chemistry more fully, we need to consider the redox character of the cluster formation/breakup process and understand the role of hydrogen. On the basis of reported work with Rh(I)(CO)2(acac) in solution, which (via the water gas shift reaction) leads to the formation of H2 that reduces the Rh(I) and generates H+, we suggest that the chemistry in the zeolite is related to the following solution chemistry:",
+            "product": "H2",
+            "reactants": "Rh(I)(CO)2(acac)",
+            "reaction type": "water gas shift"
+        }
+    ]
+}

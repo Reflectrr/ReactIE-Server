@@ -1,0 +1,54 @@
+{
+    "title": "Late-Stage Generation of Bidentate η3‑Benzophosphorine–Phosphino Ligands from a Rhodium PCcarbeneP Pincer Complex and Their Use in the Catalytic Hydrosilylation of Alkynes",
+    "id": "om9b00314",
+    "journal": "Organometallics",
+    "reactions": [
+        {
+            "text": "Testing complexes 2a–e for the hydrosilylation of phenyl acetylene under these optimized conditions showed 2a, 2b, 2c, and 2d to provide complete conversion to the hydrosilylation product 3a (Table 2). Hydrosilylation of p-tolyl acetylene revealed 2a, 2c, and 2d to be the most active catalysts, with near quantitative conversion to the desired tolyl product 3b with high E-selectivity.",
+            "product": "3a",
+            "reactants": "2b, 2c, 2d, 2a",
+            "reaction type": "hydrosilylation",
+            "catalyst": "2b, 2c, 2d, 2a"
+        },
+        {
+            "text": "Testing complexes 2a–e for the hydrosilylation of phenyl acetylene under these optimized conditions showed 2a, 2b, 2c, and 2d to provide complete conversion to the hydrosilylation product 3a (Table 2). Hydrosilylation of p-tolyl acetylene revealed 2a, 2c, and 2d to be the most active catalysts, with near quantitative conversion to the desired tolyl product 3b with high E-selectivity.",
+            "product": "3b",
+            "reactants": "p-tolyl acetylene",
+            "reaction type": "Hydrosilylation",
+            "catalyst": "2d"
+        },
+        {
+            "text": "3-Ethynylpyridine was found to be unreactive (Figure 3, 3p), and amino groups present on the aryl acetylene generated lower product yields, although still with high E-selectivity in the case of 3f. Alkyl acetylenes performed well, with 1-octyne able to generate product 3r in 88% yield, although with reduced E-selectivity. A similar reduction in E-selectivity is also observed for 3q, implying that aryl substituents may be important in the observed high E-selectivity.",
+            "product": "3r",
+            "reactants": "1-octyne",
+            "yield": "88%"
+        },
+        {
+            "text": "Terminal acetylenes with bulky substituents and internal alkynes were susceptible to the hydrosilylation reaction but performed poorly in comparison to terminal aryl acetylenes. The use of TMS acetylene resulted in only 23% yield of product 3q, whereas bisphenyl acetylene generated product 3t in 35% yield and 4-octyne generated product 3u in 54% yield. In all cases, high E-selectivity was maintained in the products.",
+            "product": "3t",
+            "reactants": "bisphenyl acetylene",
+            "yield": "35%"
+        },
+        {
+            "text": "Terminal acetylenes with bulky substituents and internal alkynes were susceptible to the hydrosilylation reaction but performed poorly in comparison to terminal aryl acetylenes. The use of TMS acetylene resulted in only 23% yield of product 3q, whereas bisphenyl acetylene generated product 3t in 35% yield and 4-octyne generated product 3u in 54% yield. In all cases, high E-selectivity was maintained in the products.",
+            "product": "3u",
+            "reactants": "4-octyne",
+            "yield": "54%"
+        },
+        {
+            "text": "Thus, it appeared that catalyst 4a was as efficient as 2c for the hydrosilylation of alkynes. To further examine this observation, complex 4a was employed for the more challenging substrates encountered in Figure 3, namely, the internal alkynes diphenyl acetylene and 4-octyne giving rise to products 3s and 3t. Under identical conditions to those employed for 2c, catalyst 4a saw an approximate 10–20% increase in yields for these reactions (cf. catalyst 2c) (Figure 7).",
+            "product": "3s",
+            "reactants": "diphenyl acetylene, 4-octyne",
+            "yield": "10–20%",
+            "reaction type": "hydrosilylation",
+            "catalyst": "4a"
+        },
+        {
+            "text": "Thus, it appeared that catalyst 4a was as efficient as 2c for the hydrosilylation of alkynes. To further examine this observation, complex 4a was employed for the more challenging substrates encountered in Figure 3, namely, the internal alkynes diphenyl acetylene and 4-octyne giving rise to products 3s and 3t. Under identical conditions to those employed for 2c, catalyst 4a saw an approximate 10–20% increase in yields for these reactions (cf. catalyst 2c) (Figure 7).",
+            "product": "3t",
+            "reactants": "diphenyl acetylene, 4-octyne",
+            "yield": "10–20%",
+            "catalyst": "4a"
+        }
+    ]
+}

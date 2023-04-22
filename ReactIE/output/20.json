@@ -1,0 +1,50 @@
+{
+    "title": "One-Step Butadiene Synthesis via Gas-Phase Prins Condensation of Propylene with Formaldehyde over Heteropolyacid Catalysts",
+    "id": "cs0c03282",
+    "journal": "ACS Catalysis",
+    "reactions": [
+        {
+            "text": "One of the possible routes involves the bioethanol to butadiene process, which receives much attention during the last years. Herein, we present an alternative novel route of butadiene synthesis based on methanol as a starting chemical. It is well-known that methanol can be selectively converted into formaldehyde over silver or FeMoOx catalysts. On the other hand, propylene is produced via the methanol-to-olefin process with high selectivity over SAPO-34 molecular sieve. Condensation of formaldehyde and propylene into butadiene via Prins reaction is, therefore, an attractive way to finalize the methanol-to-butadiene pathway.",
+            "product": "formaldehyde",
+            "reactants": "methanol",
+            "catalyst": "silver, FeMoOx"
+        },
+        {
+            "text": "One of the possible routes involves the bioethanol to butadiene process, which receives much attention during the last years. Herein, we present an alternative novel route of butadiene synthesis based on methanol as a starting chemical. It is well-known that methanol can be selectively converted into formaldehyde over silver or FeMoOx catalysts. On the other hand, propylene is produced via the methanol-to-olefin process with high selectivity over SAPO-34 molecular sieve. Condensation of formaldehyde and propylene into butadiene via Prins reaction is, therefore, an attractive way to finalize the methanol-to-butadiene pathway.",
+            "product": "propylene",
+            "reactants": "methanol-to-olefin",
+            "reaction type": "methanol-to-olefin",
+            "catalyst": "SAPO-34"
+        },
+        {
+            "text": "2-Ethylacrolein is produced by aldol condensation of butanal with formaldehyde followed by tandem dehydration. According to gas-phase thermochemical data (Scheme S3), butadiene formation from propene and formaldehyde proceeds with ΔGr1 = −27.3 kJ/mol at 300 °C.",
+            "product": "2-Ethylacrolein",
+            "reactants": "formaldehyde, butanal",
+            "reaction type": "aldol condensation"
+        },
+        {
+            "text": "Butanal formation from the same reactants is slightly more favorable, giving ΔGr2 = −29.9 kJ/mol. Besides that, butanal could be produced by the hypothetical reaction of butadiene with water with a ΔGr3 of −2.6 kJ/mol at 300 °C.",
+            "product": "butanal",
+            "reactants": "butadiene, water",
+            "temperature": "300 °C"
+        },
+        {
+            "text": "Butanal to butadiene transformation was previously observed over supported HPA/SiO2 catalysts. Although butanal is a more thermodynamically favorable product (equilibrium butanal/butadiene molar ratio is 1.46 at 275 °C ), the authors have found that the rate of butadiene formation from butanal was equal to 0.74 mmol· mmolKeggin–1·s–1 at 300 °C and 1.1 × 10–2 bar partial pressure. These data are in accordance with our results, showing an approximate rate of 0.51 mmol·mmolKeggin–1·s–1 for butadiene formation from butanal at 275 °C and 6.4 × 10–3 bar partial pressure. However, the conversion of butanal into butadiene is an order of magnitude slower as compared to butadiene synthesis from propene and formaldehyde, observed in the absence of butanal cofeeding.",
+            "product": "butadiene",
+            "reactants": "butanal",
+            "temperature": "275 °C",
+            "catalyst": "SiO2, HPA"
+        },
+        {
+            "text": "Butanal formed from I1 species is further involved in aldol condensation with formaldehyde leading to 2-ethylacrolein. This side reaction is self-terminated because 2-ethylacrolein has no α-H atoms and cannot undergo further condensation. Several reports point that aldol condensation of formaldehyde with ketones and aldehydes is catalyzed by relatively weak Lewis and Brønsted acid sites. On the contrary, reports on Prins condensation of propene with formaldehyde indicate the involvement of strong Brønsted acid sites. Basing on the literature data and the results of co-feeding experiments discussed above, we suggest that the active sites of aldol condensation of butanal are different from those of Prins condensation of propene, as depicted in Scheme 2.",
+            "product": "2-ethylacrolein",
+            "reactants": "Butanal, formaldehyde",
+            "reaction type": "aldol condensation"
+        },
+        {
+            "text": "The reaction pathway over this catalyst involves equilibrated adsorption of formaldehyde, its interaction with propene being a hypothetical rate-determining step, and the transformation of surface intermediate into butadiene and butanal via two parallel routes. Butanal is further involved in condensation with formaldehyde toward 2-ethylacrolein. At reaction temperatures below 275 °C, butadiene also interacts with formaldehyde via the Diels–Alder reaction, leading to 3,4-dihydropyran. At high temperatures (>320 °C), the reaction is impeded by propene oligomerization, cracking, and aromatization as well as by formaldehyde decomposition toward CO and H2.",
+            "product": "butadiene, butanal",
+            "reactants": "propene, formaldehyde"
+        }
+    ]
+}

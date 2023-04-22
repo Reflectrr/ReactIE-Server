@@ -1,0 +1,162 @@
+{
+    "title": "Degradation versus Inhibition: Development of Proteolysis-Targeting Chimeras for Overcoming Statin-Induced Compensatory Upregulation of 3‑Hydroxy-3-methylglutaryl Coenzyme A Reductase",
+    "id": "jm0c00339",
+    "journal": "Journal of Medicinal Chemistry",
+    "reactions": [
+        {
+            "text": "In brief, fluorobenzene was acylated with acyl chloride (compound 1) by Lewis acid to produce compound 2. Compound 3 had a bromide atom installed at the α position of the carbonyl group of compound 2. After bromide atom was substituted by 4-methyl-3-oxo-N-phenylpentanamide, the important 1,4-dicarbonyl intermediate 4 was generated. Then the pyrrole ring was constructed from the condensation of 4 and primary amine via Paal–Knorr pyrrole synthesis.",
+            "product": "2",
+            "reactants": "acyl chloride, fluorobenzene, 1",
+            "reaction type": "acylated"
+        },
+        {
+            "text": "In brief, fluorobenzene was acylated with acyl chloride (compound 1) by Lewis acid to produce compound 2. Compound 3 had a bromide atom installed at the α position of the carbonyl group of compound 2. After bromide atom was substituted by 4-methyl-3-oxo-N-phenylpentanamide, the important 1,4-dicarbonyl intermediate 4 was generated. Then the pyrrole ring was constructed from the condensation of 4 and primary amine via Paal–Knorr pyrrole synthesis.",
+            "product": "3",
+            "reactants": "2, bromide atom"
+        },
+        {
+            "text": "The C–B bond in 6 was built from the C–Br bond in 5 via Miyaura borylation reaction and transformed to the C–O bond in 7 subsequently. Then the phenolic hydroxyl group in 7 was used as a handle to attach the alkyne tags through substitution.",
+            "product": "6",
+            "reactants": "5",
+            "reaction type": "Miyaura borylation"
+        },
+        {
+            "text": "To a 100 mL round-bottom flask containing AlCl3 (3.2 g, 24 mmol) and fluorobenzene (9 mL, 100 mmol) at ice bath was added 1 dropwise. After stirring at ice bath for 20 min, it was stirred at 50 °C for another 7 h. The mixture was diluted by 2 N HCl solution and extracted by EtOAc. The organic layer was purified by silica gel column with hexane:EtOAc = 20:1 as eluent to get 2 (isolated yield = 93%).",
+            "product": "2",
+            "reactants": "fluorobenzene, AlCl3",
+            "yield": "isolated yield = 93%)",
+            "temperature": "ice, 50 °C",
+            "time": "7 h, 20 min"
+        },
+        {
+            "text": "Compound 2 (2.9 g, 10 mmol) was dissolved in CHCl3 to which 30% HBr in AcOH (1 mL) was added at room temperature. A solution of bromine (about 600 uL) in CHCl3 was added dropwise. The addition continued until slight bromine coloration remained. Then a saturated Na2SO3 solution was added and extract with EtOAc. The organic layer was purified by silica gel column with hexane:EtOAc = 20:1 as eluent to get 3 (isolated yield = 70%).",
+            "product": "3",
+            "reactants": "Na2SO3, bromine, 2, HBr",
+            "yield": "70%",
+            "temperature": "room",
+            "solvent": "CHCl3, AcOH"
+        },
+        {
+            "text": "A mixture of compound 3 (2.2 g, 5.9 mmol), 4-methyl-3-oxo-N-phenylpentanamide (1.2 g, 5.9 mmol), and K2CO3 (1.2 g, 8.9 mmol) in 30 mL acetone was refluxed at 60 °C overnight, then diluted with brine solution, and extracted with EtOAc. The organic layer was purified by silica gel column with hexane:EtOAc = 7:1 as eluent to get 4 (isolated yield = 55%).",
+            "product": "4",
+            "reactants": "K2CO3, 3, 4-methyl-3-oxo-N-phenylpentanamide",
+            "yield": "55%)",
+            "temperature": "60 °C",
+            "time": "overnight",
+            "solvent": "acetone, brine"
+        },
+        {
+            "text": "To a 50 mL round-bottom flask containing 5 mL of toluene, 5 mL of THF, and 10 mL of cyclohexane was added 4 (2.3 g, 4.6 mmol), tert-butyl 2-((4R,6R)-6-(2-aminoethyl)-2,2-dimethyl-1,3-dioxan-4-yl)acetate (2.5 g, 9.2 mmol), and t-BuCOOH (470 mg, 4.6 mmol). The mixture was refluxed at 115 °C for 40 h and extracted with EtOAc. The organic layer was purified by silica gel column with hexane:EtOAc = 15:1 as eluent to get 5 (isolated yield = 82%).",
+            "product": "5",
+            "reactants": "t-BuCOOH, 4, tert-butyl 2-((4R,6R)-6-(2-aminoethyl)-2,2-dimethyl-1,3-dioxan-4-yl)acetate",
+            "yield": "82%",
+            "temperature": "115 °C",
+            "time": "40 h",
+            "solvent": "cyclohexane, toluene"
+        },
+        {
+            "text": "To a 50 mL round-bottom flask was added 5 (2.5 g, 3.4 mmol), Pd(dppf)2Cl2·DCM (90 mg, 0.1 mmol), KOAc (700 mg, 6.8 mmol), bis(pinacoloto)diboron (1 g, 3.75 mmol), and 30 mL of DMF as solvent under the protection of argon. The mixture was stirred at 80 °C overnight and extracted with EtOAc. The organic layer was purified by silica gel column with hexane:EtOAc = 10:1 as eluent to get 6 (isolated yield = 68%).",
+            "product": "6",
+            "reactants": "5, bis(pinacoloto)diboron, KOAc",
+            "yield": "68%",
+            "temperature": "80 °C",
+            "time": "overnight",
+            "solvent": "DMF",
+            "catalyst": "Pd(dppf)2Cl2DCM"
+        },
+        {
+            "text": "To a 50 mL round-bottom flask containing 20 mL of THF was added 6 (1.8 g, 2.3 mmol), 30% H2O2 in H2O (2 mL), and NaOH (200 mg, 4.6 mmol) at ice bath. After stirring at ice bath for 15 min, it was warmed up to room temperature for another 15 min, extracted with EtOAc, and washed by brine. The organic layer was purified by silica gel column with hexane:EtOAc = 5:1 as eluent to get 7 (isolated yield = 84%).",
+            "product": "7",
+            "reactants": "6, NaOH, H2O2, THF",
+            "yield": "84%",
+            "temperature": "ice",
+            "solvent": "H2O"
+        },
+        {
+            "text": "To a 10 mL sealed tube containing 3 mL of MeCN was added 7 (670 mg, 1 mmol), K2CO3 (540 mg, 4 mmol), and 3-bromopropyne (4 mmol). The mixture was stirred at 70 °C for 20 h and extracted with EtOAc. The organic layer was purified by silica gel column with hexane:EtOAc = 10:1 as eluent to get 8a (isolated yield = 88%).",
+            "product": "8a",
+            "reactants": "K2CO3, 7, 3-bromopropyne",
+            "yield": "88%",
+            "temperature": "70 °C",
+            "time": "20 h",
+            "solvent": "MeCN"
+        },
+        {
+            "text": "To a 25 mL round-bottom flask containing 4 mL of MeOH was added 8a (600 mg, 0.82 mmol) and 6 N HCl (200 μL). After stirring at room temperature for 4 h, NaOH (400 mg, 10 mmol) and H2O (100 μL) were added. The mixture was stirred for another 5 h and acidified by HCl solution, extracted with EtOAc, and purified by silica gel column with EtOAc as eluent to get 9a (isolated yield = 75%).",
+            "product": "9a",
+            "reactants": "H2O, NaOH, 8a, HCl",
+            "yield": "75%",
+            "temperature": "room",
+            "time": "4 h",
+            "solvent": "H2O, MeOH"
+        },
+        {
+            "text": "To a 10 mL sealed tube charged with a stirring bar was added 2-(2-azidoethoxy)ethanamine (150 mg, 1.1 mmol), 2-(2,6-dioxopiperidin-3-yl)-4-fluoroisoindoline-1,3-dione (140 mg, 1.08 mmol), and N,N-diisopropylethylamine (280 mg, 2.16 mmol) with 2 mL of DMF as solvent. The mixture was stirred at 90 °C for 12 h. After extraction with EtOAc and washing with brine, the organic layer was purified by silica gel column with DCM:EtOAc = 10:1 as eluent to get 10a (isolated yield = 39%).",
+            "product": "10a",
+            "reactants": "2-(2,6-dioxopiperidin-3-yl)-4-fluoroisoindoline-1,3-dione, 2-(2-azidoethoxy)ethanamine, N,N-diisopropylethy",
+            "temperature": "90 °C",
+            "time": "12 h",
+            "solvent": "DMF"
+        },
+        {
+            "text": "Following the procedure to synthesize 10a, 2-(2-azidoethoxy)ethanamine was replaced by 2-(2-(2-azidoethoxy)ethoxy)ethanamine to get 10b (isolated yield = 33%).",
+            "product": "10b",
+            "reactants": "2-(2-(2-azidoethoxy)ethanamine",
+            "yield": "33%)"
+        },
+        {
+            "text": "Following the procedure to synthesize 10a, 2-(2-azidoethoxy)ethanamine was replaced by 2-(2-(2-(2-azidoethoxy)ethoxy)ethoxy)ethanamine to get 10c (isolated yield = 45%).",
+            "product": "10c",
+            "reactants": "2-(2-(2-(2-azidoethoxy)ethoxy)ethoxy)ethanamine",
+            "yield": "45%"
+        },
+        {
+            "text": "Following the procedure to synthesize 10a, 2-(2-azidoethoxy)ethanamine was replaced by 14-azido-3,6,9,12-tetraoxatetradecan-1-amine to get 10d (isolated yield = 30%).",
+            "product": "10d",
+            "reactants": "14-azido-3,6,9,12-tetrahydroxatetradecan-1-amine, 2-(2-azidoethoxy)ethanamine",
+            "yield": "30%"
+        },
+        {
+            "text": "Following the procedure to synthesize 10a, 2-(2-azidoethoxy)ethanamine was replaced by 5-azidopentan-1-amine to get 10f (isolated yield = 34%).",
+            "product": "10f",
+            "reactants": "2-(2-azidoethoxy)ethanamine, 5-azidopentan-1-amine",
+            "yield": "34%)"
+        },
+        {
+            "text": "Following the procedure to synthesize 10a, 2-(2-azidoethoxy)ethanamine was replaced by 5-azidopentan-1-amine to get 10g (isolated yield = 34%).",
+            "product": "10g",
+            "reactants": "2-(2-azidoethoxy)ethanamine, 5-azidopentan-1-amine",
+            "yield": "34%)"
+        },
+        {
+            "text": "Following the procedure to synthesize 10a, 2-(2-azidoethoxy)ethanamine was replaced by 7-azidoheptan-1-amine to get 10h (isolated yield = 33%).",
+            "product": "10h",
+            "reactants": "7-azidoheptan-1-amine, 2-(2-azidoethoxy)ethanamine",
+            "yield": "33%)"
+        },
+        {
+            "text": "Following the procedure to synthesize 10c, 2-(2,6-dioxopiperidin-3-yl)-4-fluoroisoindoline-1,3-dione was replaced by 2-(2,6-dioxopiperidin-3-yl)-5-fluoroisoindoline-1,3-dione to get 10i (isolated yield = 13%).",
+            "product": "10i",
+            "reactants": "2-(2,6-dioxopiperidin-3-yl)-5-fluoroisoindoline-1,3-dione",
+            "yield": "13%)"
+        },
+        {
+            "text": "To a round-bottom flask containing 1 mL of THF was added 10a (40 mg, 0.1 mmol), 9b (50 mg, 0.09 mmol), CuSO4 (6 mg, 0.036 mmol), sodium ascorbate (40 mg, 0.18 mmol), and H2O (0.5 mL). The mixture was stirred at room temperature overnight and extracted with EtOAc. The organic layer was purified with silica gel to get 11a (isolated yield = 75%). The eluent was EtOAc at first and DCM:MeOH = 100:6 subsequently.",
+            "product": "11a",
+            "reactants": "9b, sodium ascorbate, 10a, CuSO4",
+            "yield": "75%",
+            "temperature": "room",
+            "time": "overnight",
+            "solvent": "H2O"
+        },
+        {
+            "text": "To a round-bottom flask containing 1 mL of THF was added 10e (53 mg, 0.1 mmol), 9b (50 mg, 0.09 mmol), CuSO4 (3 mg, 0.018 mmol), sodium ascorbate (20 mg, 0.09 mmol), and H2O (0.5 mL). The mixture was stirred at room temperature overnight and extracted with EtOAc. The organic layer was purified by silica gel to get 11j (isolated yield = 80%).",
+            "product": "11j",
+            "reactants": "CuSO4, sodium ascorbate, 9b, 10e",
+            "yield": "80%",
+            "temperature": "room",
+            "time": "overnight",
+            "solvent": "H2O"
+        }
+    ]
+}
