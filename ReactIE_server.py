@@ -14,9 +14,17 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 def request_extraction():
     basePath = './json/'
     filename = request.args.get('filename')
-    reactions = get_extraction(f'{basePath}{filename}')
-    save_json(reactions)
-    return jsonify(reactions), 200
+    if not filename.endswith('.json'):
+        return jsonify({'error':'Invalid file type'}), 400
+    # check if reactions have already been extracted
+    try:
+        with open(f'./reactions/result_{filename}') as f:
+            reactions = json.load(f)
+            return jsonify(reactions), 200
+    except:
+        reactions = get_extraction(f'{basePath}{filename}')
+        save_json(filename, reactions)
+        return jsonify(reactions), 200
 
 @app.route('/test')
 @cross_origin()
@@ -30,8 +38,14 @@ def hello_world():
 def parsePDF():
     file = request.files['file']
     file.save(f'./upload/{file.filename}')
-    runParser(f'./upload/{file.filename}')
     jsonFile = file.filename.replace('.pdf', '.json')
-    with open(f'./json/{jsonFile}') as f:
-        data = json.load(f)
-        return jsonify({'fullText':data['fullText']}), 200
+    # check if json file exists
+    try:
+        with open(f'./json/{jsonFile}') as f:
+            data = json.load(f)
+            return jsonify({'fullText':data['fullText']}), 200
+    except:
+        runParser(f'./upload/{file.filename}')
+        with open(f'./json/{jsonFile}') as f:
+            data = json.load(f)
+            return jsonify({'fullText':data['fullText']}), 200
