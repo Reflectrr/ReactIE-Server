@@ -3,6 +3,7 @@ venv/
 .vscode/
 json/*.json
 upload/*.pdf
+*.pyc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

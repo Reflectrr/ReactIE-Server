@@ -1,0 +1,128 @@
+[
+    {
+        "product": "9",
+        "reactants": "6",
+        "text": "To our delight, as shown in Table 1, although cyclic 5-methoxyl indole 5 showed no activation, the 5-hydroxyl indole 6 was nearly 2-fold more potent and equally as selective as MGL-3196. 4-Hydroxyl (7) and 6-hydroxyl indoles (8) completely lost their potency, presumably due to the inability to form the crucial hydrogen-bond interaction with His435. Introduction of a methyl group at the C4 position of 6 gave compound 9, which was 20-fold more potent and similarly as selective as 6. Installation of a methyl group at 6-position provided compound 10, which significantly lost the potency."
+    },
+    {
+        "product": "19",
+        "reactants": "acid isostere oxadiazolone, 3-amino-3-oxopropanoic acid, 15",
+        "text": "The SAR study on cyanoazauracil moiety was also examined. On the basis of the above results (Table 3), 4-isopropyl-pyrrolo[3,2-b]pyridin-5-one moiety (15) showed the best combination of potency and selectivity and was chosen as the preferred moiety for future analogues. Replacement of cyanoazauracil group of 15 with acid isostere oxadiazolone and 3-amino-3-oxopropanoic acid provided compounds 19 and 20, which were 7-fold less potent and 2-to 3-fold less selective than 15. Two 1,2,4-triazine-3,5(2H,4H)-dione analogues 21 and 22 were equally as potent as 15 but exhibited a significant loss on selectivity. Thus, compound 15, which stood out due to its potency, selectivity, and pharmacokinetic property, was chosen for further study."
+    },
+    {
+        "product": "20",
+        "reactants": "3-amino-3-oxopropanoic acid",
+        "text": "The SAR study on cyanoazauracil moiety was also examined. On the basis of the above results (Table 3), 4-isopropyl-pyrrolo[3,2-b]pyridin-5-one moiety (15) showed the best combination of potency and selectivity and was chosen as the preferred moiety for future analogues. Replacement of cyanoazauracil group of 15 with acid isostere oxadiazolone and 3-amino-3-oxopropanoic acid provided compounds 19 and 20, which were 7-fold less potent and 2-to 3-fold less selective than 15. Two 1,2,4-triazine-3,5(2H,4H)-dione analogues 21 and 22 were equally as potent as 15 but exhibited a significant loss on selectivity. Thus, compound 15, which stood out due to its potency, selectivity, and pharmacokinetic property, was chosen for further study."
+    },
+    {
+        "product": "25a-d, 5,b",
+        "reactants": "24, 23a-d, 5a",
+        "reaction type": "nucleophilic substitution",
+        "text": "The synthesis of compounds 5-10 was described in Scheme 1. A nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with indoles 5a and 23a-d provided intermediates 5b and 25a-d, which was subsequently reduced to give anilines 5c and 26a-d. Diazotization of anilines 5c and 26a-d followed by treatment of the resulting diazonium salt with cyanoacetylurethane 27 gave intermediates 5d and 28a-d, which underwent a cyclization reaction at 120 \u00b0C to provide product 5 and intermediates 29a-d. Deprotection of compounds 5 and 29a-d provided the corresponding compounds 6-10."
+    },
+    {
+        "product": "5,c",
+        "reactants": "24, 3,5-dichloro-4-fluoronitrobenzene, 23a-d, 5a",
+        "reaction type": "reduced",
+        "text": "The synthesis of compounds 5-10 was described in Scheme 1. A nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with indoles 5a and 23a-d provided intermediates 5b and 25a-d, which was subsequently reduced to give anilines 5c and 26a-d. Diazotization of anilines 5c and 26a-d followed by treatment of the resulting diazonium salt with cyanoacetylurethane 27 gave intermediates 5d and 28a-d, which underwent a cyclization reaction at 120 \u00b0C to provide product 5 and intermediates 29a-d. Deprotection of compounds 5 and 29a-d provided the corresponding compounds 6-10."
+    },
+    {
+        "product": "26a-d",
+        "reactants": "25a-d",
+        "reaction type": "reduced",
+        "text": "The synthesis of compounds 5-10 was described in Scheme 1. A nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with indoles 5a and 23a-d provided intermediates 5b and 25a-d, which was subsequently reduced to give anilines 5c and 26a-d. Diazotization of anilines 5c and 26a-d followed by treatment of the resulting diazonium salt with cyanoacetylurethane 27 gave intermediates 5d and 28a-d, which underwent a cyclization reaction at 120 \u00b0C to provide product 5 and intermediates 29a-d. Deprotection of compounds 5 and 29a-d provided the corresponding compounds 6-10."
+    },
+    {
+        "product": "5,d",
+        "reactants": "cyanoacetylurethane, 5c, 26a-d, 27",
+        "reaction type": "Diazotization",
+        "text": "The synthesis of compounds 5-10 was described in Scheme 1. A nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with indoles 5a and 23a-d provided intermediates 5b and 25a-d, which was subsequently reduced to give anilines 5c and 26a-d. Diazotization of anilines 5c and 26a-d followed by treatment of the resulting diazonium salt with cyanoacetylurethane 27 gave intermediates 5d and 28a-d, which underwent a cyclization reaction at 120 \u00b0C to provide product 5 and intermediates 29a-d. Deprotection of compounds 5 and 29a-d provided the corresponding compounds 6-10."
+    },
+    {
+        "product": "28a-d",
+        "reactants": "cyanoacetylurethane, 26a-d, 27",
+        "reaction type": "Diazotization",
+        "text": "The synthesis of compounds 5-10 was described in Scheme 1. A nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with indoles 5a and 23a-d provided intermediates 5b and 25a-d, which was subsequently reduced to give anilines 5c and 26a-d. Diazotization of anilines 5c and 26a-d followed by treatment of the resulting diazonium salt with cyanoacetylurethane 27 gave intermediates 5d and 28a-d, which underwent a cyclization reaction at 120 \u00b0C to provide product 5 and intermediates 29a-d. Deprotection of compounds 5 and 29a-d provided the corresponding compounds 6-10."
+    },
+    {
+        "product": "6,-10",
+        "reactants": "5, 29a-d",
+        "reaction type": "Deprotection",
+        "text": "The synthesis of compounds 5-10 was described in Scheme 1. A nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with indoles 5a and 23a-d provided intermediates 5b and 25a-d, which was subsequently reduced to give anilines 5c and 26a-d. Diazotization of anilines 5c and 26a-d followed by treatment of the resulting diazonium salt with cyanoacetylurethane 27 gave intermediates 5d and 28a-d, which underwent a cyclization reaction at 120 \u00b0C to provide product 5 and intermediates 29a-d. Deprotection of compounds 5 and 29a-d provided the corresponding compounds 6-10."
+    },
+    {
+        "product": "30b",
+        "reactants": "24, 1H-pyrrolo[3,2-b]-pyridine, 30a",
+        "reaction type": "nucleophilic substitution",
+        "text": "As shown in Scheme 2, a nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with 1H-pyrrolo[3,2-b]-pyridine 30a provided 30b, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give intermediate 30d. Selective N-alkylation of 30d afforded 31a-g and subsequent reduction of 30d and 31a-g gave anilines 30e and 32a-g. Diazotization of anilines 30e and 32a-g followed by treatment of the resulting diazonium salt with 27 afforded intermediates 30f and 33a-g, which underwent a cyclization reaction at 120 \u00b0C to provide products 11-18."
+    },
+    {
+        "product": "31,a-g",
+        "reactants": "30d",
+        "reaction type": "N-alkylation",
+        "text": "As shown in Scheme 2, a nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with 1H-pyrrolo[3,2-b]-pyridine 30a provided 30b, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give intermediate 30d. Selective N-alkylation of 30d afforded 31a-g and subsequent reduction of 30d and 31a-g gave anilines 30e and 32a-g. Diazotization of anilines 30e and 32a-g followed by treatment of the resulting diazonium salt with 27 afforded intermediates 30f and 33a-g, which underwent a cyclization reaction at 120 \u00b0C to provide products 11-18."
+    },
+    {
+        "product": "30f",
+        "reactants": "32a-g, 30e, 27",
+        "reaction type": "Diazotization",
+        "text": "As shown in Scheme 2, a nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with 1H-pyrrolo[3,2-b]-pyridine 30a provided 30b, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give intermediate 30d. Selective N-alkylation of 30d afforded 31a-g and subsequent reduction of 30d and 31a-g gave anilines 30e and 32a-g. Diazotization of anilines 30e and 32a-g followed by treatment of the resulting diazonium salt with 27 afforded intermediates 30f and 33a-g, which underwent a cyclization reaction at 120 \u00b0C to provide products 11-18."
+    },
+    {
+        "product": "33a-g",
+        "reactants": "27",
+        "reaction type": "Diazotization",
+        "text": "As shown in Scheme 2, a nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with 1H-pyrrolo[3,2-b]-pyridine 30a provided 30b, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give intermediate 30d. Selective N-alkylation of 30d afforded 31a-g and subsequent reduction of 30d and 31a-g gave anilines 30e and 32a-g. Diazotization of anilines 30e and 32a-g followed by treatment of the resulting diazonium salt with 27 afforded intermediates 30f and 33a-g, which underwent a cyclization reaction at 120 \u00b0C to provide products 11-18."
+    },
+    {
+        "product": "11-18",
+        "reactants": "33a-g, 30f",
+        "reaction type": "cyclization",
+        "temperature": "120 \u00b0C",
+        "text": "As shown in Scheme 2, a nucleophilic substitution of 3,5-dichloro-4-fluoronitrobenzene 24 with 1H-pyrrolo[3,2-b]-pyridine 30a provided 30b, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give intermediate 30d. Selective N-alkylation of 30d afforded 31a-g and subsequent reduction of 30d and 31a-g gave anilines 30e and 32a-g. Diazotization of anilines 30e and 32a-g followed by treatment of the resulting diazonium salt with 27 afforded intermediates 30f and 33a-g, which underwent a cyclization reaction at 120 \u00b0C to provide products 11-18."
+    },
+    {
+        "product": "19. 20",
+        "reactants": "34, 32d",
+        "reaction type": "hydrolysis",
+        "text": "Treatment of 32d with 34 provided product 19. Product 20 was obtained in two steps by the treatment of 32d with ethyl malonyl chloride and subsequent hydrolysis with sodium hydroxide."
+    },
+    {
+        "product": "36a",
+        "reactants": "5-bromo-1,3-dichloro-2-fluorobenzene, 30a, 35, 1H-pyrrolo[3,2-b]pyridine",
+        "reaction type": "nucleophilic substitution",
+        "text": "As shown in Scheme 3, a nucleophilic substitution of 5-bromo-1,3-dichloro-2-fluorobenzene 35 with 1H-pyrrolo[3,2-b]pyridine 30a provided 36a, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give 36c."
+    },
+    {
+        "product": "36c",
+        "reactants": "3-chloroperoxybenzoic acid, 36a",
+        "reaction type": "rearrangement, oxidized",
+        "text": "As shown in Scheme 3, a nucleophilic substitution of 5-bromo-1,3-dichloro-2-fluorobenzene 35 with 1H-pyrrolo[3,2-b]pyridine 30a provided 36a, which was oxidized by 3-chloroperoxybenzoic acid and subsequently underwent a rearrangement to give 36c."
+    },
+    {
+        "product": "36d",
+        "reactants": "36c",
+        "reaction type": "N-alkylation",
+        "text": "Selective N-alkylation of 36c afforded 36d, which underwent a Miyaura borylation to provide 36e. Finally, a Pd-catalyzed Suzuki-Miyaura coupling reaction of intermediate 36e with 5-bromo-6-azauracils (37a and 37b) provided compounds 21 and 22."
+    },
+    {
+        "product": "36e",
+        "reactants": "36d",
+        "reaction type": "Miyaura borylation",
+        "text": "Selective N-alkylation of 36c afforded 36d, which underwent a Miyaura borylation to provide 36e. Finally, a Pd-catalyzed Suzuki-Miyaura coupling reaction of intermediate 36e with 5-bromo-6-azauracils (37a and 37b) provided compounds 21 and 22."
+    },
+    {
+        "product": "21",
+        "reactants": "37b, 5-bromo-6-azauracils, 37a, 36e",
+        "reaction type": "Suzuki-Miyaura coupling",
+        "catalyst": "Pd",
+        "text": "Selective N-alkylation of 36c afforded 36d, which underwent a Miyaura borylation to provide 36e. Finally, a Pd-catalyzed Suzuki-Miyaura coupling reaction of intermediate 36e with 5-bromo-6-azauracils (37a and 37b) provided compounds 21 and 22."
+    },
+    {
+        "product": "22",
+        "reactants": "37b, 5-bromo-6-azauracils, 36e",
+        "reaction type": "coupling",
+        "catalyst": "Pd",
+        "text": "Selective N-alkylation of 36c afforded 36d, which underwent a Miyaura borylation to provide 36e. Finally, a Pd-catalyzed Suzuki-Miyaura coupling reaction of intermediate 36e with 5-bromo-6-azauracils (37a and 37b) provided compounds 21 and 22."
+    }
+]
