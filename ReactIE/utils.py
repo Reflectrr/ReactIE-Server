@@ -55,7 +55,7 @@ def filter_dict_list(dict_list):
     return filtered_list
 
 def reorder_reactions(reactions):
-    key_order = ['product', 'reactants', 'reaction type', 'catalyst', 'solvent', 'temperature', 'time' 'yield', 'text']
+    key_order = ['product', 'reactants', 'reaction type', 'catalyst', 'solvent', 'temperature', 'time', 'yield', 'text']
     return [{key: d[key] for key in key_order if key in d} for d in reactions]
 
 def process_reactions(reactions):
