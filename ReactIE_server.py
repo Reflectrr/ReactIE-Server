@@ -26,12 +26,6 @@ def request_extraction():
         save_json(filename, reactions)
         return jsonify(reactions), 200
 
-@app.route('/test')
-@cross_origin()
-def hello_world():
-    return '<p>Hello, World!</p>'
-
-
 # process user request to run PDF Converter on the uploaded pdf
 @app.route('/parse', methods=['POST'])
 @cross_origin()
@@ -49,3 +43,9 @@ def parsePDF():
         with open(f'./json/{jsonFile}') as f:
             data = json.load(f)
             return jsonify({'fullText':data['fullText']}), 200
+
+@app.route('/test')
+@app.route('/')
+@cross_origin()
+def hello_world():
+    return '<p>Hello, World!</p>'
