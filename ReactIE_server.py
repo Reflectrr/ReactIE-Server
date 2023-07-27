@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
 from ReactIE.run_ReactIE import get_extraction
 from utils import save_json
-from PDFConversion.xmlParser import runParser
+from ReactIE_PDF_Conversion.generalXmlParser import parseFile
 import json
 
 app = Flask(__name__)
@@ -39,7 +39,7 @@ def parsePDF():
             data = json.load(f)
             return jsonify({'fullText':data['fullText']}), 200
     except:
-        runParser(f'./upload/{file.filename}')
+        parseFile(f'./upload/{file.filename}')
         with open(f'./json/{jsonFile}') as f:
             data = json.load(f)
             return jsonify({'fullText':data['fullText']}), 200
