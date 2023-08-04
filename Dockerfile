@@ -9,13 +9,13 @@ RUN ln -s /usr/bin/python3.9 /usr/local/bin/python
 COPY . /app
 
 # Install SymbolScraper
-WORKDIR /app/PDFConversion/SymbolScraper
+WORKDIR /app/ReactIE_PDF_Conversion/SymbolScraper
 RUN make
 
 # Install dependencies
 WORKDIR /app
-# RUN pip install --no-cache-dir -r requirements.txt
-# RUN python -m spacy download en_core_web_sm
+RUN pip install --no-cache-dir -r requirements.txt
+RUN python -m spacy download en_core_web_sm
 
 # Specify the command to run the Flask server
 # CMD ["flask", "--app", "ReactIE_server.py", "run", "--host=0.0.0.0", "--port=443", "--cert=adhoc"]
