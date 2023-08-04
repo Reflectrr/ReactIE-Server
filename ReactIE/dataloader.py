@@ -18,7 +18,7 @@ class JsonLoader:
         self.format = json_format
         assert self.format in ['default', 'acs']
 
-        self.section = ['introduction', 'results and discussion']
+        self.section = ['content']
 
     # load json/jsonl files, and return one or a list of dictionaries
     def load(self, data_path):

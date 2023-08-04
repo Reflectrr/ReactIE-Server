@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
 from ReactIE.run_ReactIE import get_extraction
 from utils import save_json
-from ReactIE_PDF_Conversion.generalXmlParser import parseFile
+from ReactIE_PDF_Conversion.generalParser import parseFile
 import json
 
 app = Flask(__name__)
