@@ -1,6 +1,0 @@
-torch
-tqdm
-spacy
-transformers
-sentence_transformers
-protobuf<=3.20.0
